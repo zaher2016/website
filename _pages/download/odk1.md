@@ -14,30 +14,64 @@ sidebar:
 
 ---
 
-## Collect
+We publish current and previous releases of our tools on GitHub in each tool's repository. 
 
-- [ODK Collect v1.11.1.apk](/download/odk1/ODK Collect v1.11.1.apk)
-- [ODK Collect v1.12.2.apk](/download/odk1/ODK Collect v1.12.2.apk)
+We generally update the tools every month, so stay up to date by [watching](https://forum.opendatakit.org/t/9066) the [releases](https://forum.opendatakit.org/c/releases) category on the ODK forum.
 
-## Aggregate
+## ODK Collect
 
-- [ODK Aggregate v1.4.13 linux-installer.run](/download/odk1/ODK Aggregate v1.4.13 linux-installer.run)
-- [ODK Aggregate v1.4.13 linux-x64-installer.run](/download/odk1/ODK Aggregate v1.4.13 linux-x64-installer.run)
-- [ODK Aggregate v1.4.13 osx-installer.app.zip](/download/odk1/ODK Aggregate v1.4.13 osx-installer.app.zip)
-- [ODK Aggregate v1.4.13 windows-installer.exe](/download/odk1/ODK Aggregate v1.4.13 windows-installer.exe)
+Collect runs on most Android devices. Download Collect through the Google Play Store to get the latest updates automatically.
 
-## Build
+* Download [Collect on the Play Store](https://play.google.com/store/apps/details?id=org.odk.collect.android) (Recommended)
 
-## Briefcase
+Need to download a specific release? Use GitHub:
 
-- [ODK Briefcase v1.4.10 Production.jar](/download/odk1/ODK Briefcase v1.4.10 Production.jar)
-- [ODK Briefcase v1.9 Production.jar](/download/odk1/ODK Briefcase v1.9 Production.jar)
-- [ODK ClearBriefcasePreferences v1.4.9 Production.jar](/download/odk1/ODK ClearBriefcasePreferences v1.4.9 Production.jar)
+* Download [Collect releases on GitHub](https://github.com/opendatakit/collect/releases)
 
-## Other ODK 1 Tools
+## ODK XLSForm
 
-- [ODK CsvConverter v1.4.5 Production.jar](/download/odk1/ODK CsvConverter v1.4.5 Production.jar)
-- [ODK FormUploader v1.4.9 Production.jar](/download/odk1/ODK FormUploader v1.4.9 Production.jar)
-- [ODK Validate 1.4.9 for ODK Collect v1.4.9 and newer.jar](/download/odk1/ODK Validate 1.4.9 for ODK Collect v1.4.9 and newer.jar)
+XLSForm is available as an online and offline tool. The online version works with modern web browsers and the offline version works on Windows, macOS, and Linux.
 
-## Older Versions
+* Use [https://xlsform.opendatakit.org](xlsform.opendatakit.org) (Recommended)
+
+Download offline releases on GitHub:
+
+* Download [XLSForm releases on GitHub](https://github.com/opendatakit/xlsform-offline/releases)
+
+## ODK Build
+
+Build is available as an online and offline tool. The online version works with modern web browsers and the offline version works on Windows, macOS, and Linux.
+
+* Use [https://build.opendatakit.org](build.opendatakit.org) (Recommended)
+
+Download offline releases on GitHub:
+
+* Download [Build releases on GitHub](https://github.com/opendatakit/build/releases)
+
+## ODK Aggregate
+
+Aggregate is available for Windows, macOS, and Linux. There is also a Virtual Machine (VM) that runs on all platforms. 
+
+* Download [Aggregate releases on GitHub](https://github.com/opendatakit/aggregate/releases)
+
+## ODK Briefcase
+
+Briefcase is available for Windows, macOS, and Linux.
+
+* Download [Briefcase releases on GitHub](https://github.com/opendatakit/briefcase/releases)
+
+## ODK Validate
+
+Validate is available for Windows, macOS, and Linux.
+
+* Download [Validate releases on GitHub](https://github.com/opendatakit/validate/releases)
+
+## ODK JavaRosa
+
+JavaRosa is a Java library for software developers. Use Maven or Gradle through the Central Repository to get the latest updates automatically.
+
+* Use [The Central Repository](https://search.maven.org/#search%7Cga%7C1%7Ca%3A%22opendatakit-javarosa%22) (Recommended)
+
+Need to download a specific release? Use GitHub:
+
+* Download [JavaRosa releases on GitHub](https://github.com/opendatakit/collect/releases)
