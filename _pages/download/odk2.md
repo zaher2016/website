@@ -32,26 +32,21 @@ An Android app that handles database access, file access, and data synchronizati
 Download [Services releases on GitHub](https://github.com/opendatakit/services/releases)
 
 ## ODK Application Designer
-A  Windows/MacOS/Linux design environment that runs in Chrome for creating, customizing, and previewing your forms that will render on Survey. 
+A  Windows/macOS/Linux design environment that runs in Chrome for creating, customizing, and previewing your forms that will render on Survey. 
 
 Download [Application Designer releases on GitHub](https://github.com/opendatakit/app-designer/releases)
 
 ## ODK Suitcase
-A Windows/MacOS/Linux tool for synchronizing data from an ODK 2 Cloud Endpoint into an exported CSV file.
+A Windows/macOS/Linux tool for synchronizing data from an ODK 2 Cloud Endpoint into an exported CSV file.
 
 Download [Suitcase releases on GitHub](https://github.com/opendatakit/suitcase/releases)
 
-## ODK 2 Cloud Endpoints
-Cloud Endpoints are deployable servers for the ODK 2 synchronization protocol enabling data to replicated between mobile devices. See the [Cloud Endpoints documentation](https://docs.opendatakit.org/odk2/cloud-endpoints-intro/) for the differences in functionality.
-
-### 1) ODK Sync-Endpoint
-Sync-Endpoint runs in Docker and provides additional micro-services for authentication management. Requires [Docker](https://docs.docker.com/install/) and [Swarm](https://docs.docker.com/engine/swarm/swarm-tutorial/create-swarm/).
+## ODK Sync-Endpoint
+Sync-Endpoint is a server that enables data to replicated between mobile devices. Sync-Endpoint runs in Docker and provides additional micro-services for authentication management. Requires [Docker](https://docs.docker.com/install/) and [Swarm](https://docs.docker.com/engine/swarm/swarm-tutorial/create-swarm/).
 
 To build the image run the following command (you could also clone the repository and build it locally): 
 ```
 docker build --pull -t <orgname>/sync_endpoint https://github.com/opendatakit/sync-endpoint-containers.git
 ```
-### 2) ODK Aggregate
-Requires Aggregate 1.4.15 or above. Aggregate has reduced ODK 2 functionality and is available for Windows, macOS, and Linux. There is also a Virtual Machine (VM) that runs on all platforms. 
 
-Download [Aggregate releases on GitHub](https://github.com/opendatakit/aggregate/releases)
+For more detailed information and alternative Cloud Endpoints refer to the [documentation](https://docs.opendatakit.org/odk2/cloud-endpoints-intro/) 
