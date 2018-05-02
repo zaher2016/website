@@ -23,3 +23,6 @@ cloudfront_distribution_config:
       - staging.opendatakit.org
 
 cloudfront_wildcard_invalidation: true
+
+redirects:
+  xiframe: software/odk1/xiframe
