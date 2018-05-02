@@ -2,7 +2,9 @@
 title: ODK 1 XIFrame
 date: 2010-11-09T21:14:19+00:00
 author: Yaw Anokwa
-layout: page
+layout: single
+sidebar:
+  nav: "odk1"
 
 permalink: /software/odk1/xiframe/
 sidenav: software
