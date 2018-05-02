@@ -19,7 +19,7 @@ sidenav: software
 	<li>Once your xls form is ready submit it for conversion below.</li>
 </ol>
 
-<p><iframe height="240" src="http://23.21.114.69/xlsform/" width="100%"></iframe></p>
+<p><iframe height="240" src="http://82.196.7.170" width="100%"></iframe></p>
 
 <p>If the page above doesn't work, try some of the alternatives below.</p>
 
