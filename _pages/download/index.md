@@ -27,8 +27,6 @@ feature_row:
     alt: "Not sure which route to choose?"
     title: "Not sure which route to choose?"
     excerpt: "No problem, we've got help if you're uncertain. Check out our feature comparison table below, which illustrates the major differences in features between ODK 1 and ODK 2 suites."
-verify:
-    - excerpt: "**Want to verify your downloads?** SHA-256 signatures for all ODK downloads are available [are published on this site in a separate text file](/assets/signatures.txt). To use these signatures, read [Verifying Downloads](http://docs.opendatakit.org/verify-downloads/) on the ODK Documentation Hub for instructions."
 choose:
   - image_path: /assets/images/choose.png
     alt: "Help me choose an ODK Suite..."
@@ -38,8 +36,6 @@ choose:
 ---
 
 {% include feature_row %}
-
-{% include feature_row id="verify" type="center" %}
 
 {% include feature_row id="choose" type="left" %}
 

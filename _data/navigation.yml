@@ -51,8 +51,6 @@ download:
       url: /download/odk1/
     - title: "Get ODK 2"
       url: /download/odk2/
-    - title: "SHA Signatures"
-      url: /assets/signatures.txt
 
 odk1:
   - title: ODK Software
