@@ -4,9 +4,6 @@ date: 2018-03-01T00:00:00+00:00
 author_profile: false
 layout: splash
 permalink: /download/
-header:
-  overlay_color: "#8D693A"
-  overlay_filter: "0.5"
 excerpt: "Find the right software for your needs and start installing."
 feature_row:
   - image_path: /assets/images/odk-collect.jpg

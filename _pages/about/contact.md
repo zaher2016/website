@@ -8,8 +8,6 @@ permalink: /about/contact/
 author_profile: false
 
 excerpt: "ODK is made by people like you, and we'd love to hear from you."
-header:
-  overlay_color: "#c44f21"
 
 ---
 
