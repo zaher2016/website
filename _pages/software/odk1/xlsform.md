@@ -2,7 +2,9 @@
 title: ODK 1 XLSForm
 date: 2010-11-09T21:14:19+00:00
 author: Yaw Anokwa
-layout: page
+layout: single
+sidebar:
+  nav: "odk1"
 
 permalink: /software/odk1/xlsform/
 sidenav: software
@@ -19,7 +21,7 @@ sidenav: software
 	<li>Once your xls form is ready submit it for conversion below.</li>
 </ol>
 
-<p><iframe height="240" src="http://23.21.114.69/xlsform/" width="100%"></iframe></p>
+<p><iframe height="240" src="http://82.196.7.170" width="100%"></iframe></p>
 
 <p>If the page above doesn't work, try some of the alternatives below.</p>
 
