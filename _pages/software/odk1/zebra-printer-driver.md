@@ -65,39 +65,39 @@ sidenav: software
 	<li>
 	<ol>
 		<li>Click on the 'ODK Zebra Printer' to launch the printer driver. This screen should appear:<br />
-		<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/s0_zebra_print_screen.png" style="height:493px; width:320px" /></li>
+		<img alt="" src="/assets/images/odk1/s0_zebra_print_screen.png" style="height:493px; width:320px" /></li>
 		<li>Click on the 'Print' button. Since no printer has been configured, this screen should appear:<br />
-		<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/s1_install_printer.png" style="height:493px; width:320px" /></li>
+		<img alt="" src="/assets/images/odk1/s1_install_printer.png" style="height:493px; width:320px" /></li>
 		<li>Click 'OK'. This ODK Sensors configuration screen should appear:<br />
-		<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/s2_choose_connectivity.png" style="height:494px; width:320px" /></li>
+		<img alt="" src="/assets/images/odk1/s2_choose_connectivity.png" style="height:494px; width:320px" /></li>
 		<li>Click 'Add Bluetooth Device'. This screen should appear:<br />
-		<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/s3_b4_scan.png" style="height:492px; width:320px" /></li>
+		<img alt="" src="/assets/images/odk1/s3_b4_scan.png" style="height:492px; width:320px" /></li>
 		<li>Click 'Device Scan'. This alert may appear (if Bluetooth is not yet enabled under Android's Settings / Wireless &amp; network settings):<br />
-		<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/s4_os_enable_bt.png" style="height:493px; width:320px" /><br />
+		<img alt="" src="/assets/images/odk1/s4_os_enable_bt.png" style="height:493px; width:320px" /><br />
 		If it does, click 'Yes'. The list of devices will then populate:<br />
-		<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/s5_device_list.png" style="height:492px; width:320px" /></li>
+		<img alt="" src="/assets/images/odk1/s5_device_list.png" style="height:492px; width:320px" /></li>
 		<li>The first time a Bluetooth device has been encountered, before Android has 'paired' with it, it will appear as a cryptic hexadecimal value on this screen (e.g., '00:03:7A:4D:C8:FA'). Click on this cryptic entry. This alert with then appear:<br />
-		<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/s6_confirm_pairing.png" style="height:494px; width:320px" /></li>
+		<img alt="" src="/assets/images/odk1/s6_confirm_pairing.png" style="height:494px; width:320px" /></li>
 		<li>Click 'Yes'. An Android settings configuration screen will be presented:<br />
-		<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/s7_os_bt_devices.png" style="height:491px; width:320px" /></li>
+		<img alt="" src="/assets/images/odk1/s7_os_bt_devices.png" style="height:491px; width:320px" /></li>
 	</ol>
 	</li>
 </ol>
 
 <p>The list under 'AVAILABLE DEVICES' should populate (if not, click on the 'SEARCH FOR DEVICES' button at the bottom of the screen). This list no longer reports the cryptic hexadecimal value from the preceding screen. Instead, it presents the 'Friendly name' for the devices it finds. In this case, we gave our MZ220 a 'Friendly name' of HMBPrinter in the earlier section. Click on that device. The following screen will be presented:<br />
-<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/s8_bt_pin_entry.png" style="height:494px; width:320px" /></p>
+<img alt="" src="/assets/images/odk1/s8_bt_pin_entry.png" style="height:494px; width:320px" /></p>
 
 <ul>
 	<li>Enter the 'Authentication PIN' from the earlier section (e.g., 1234). The printer should now be successfully paired with your Android. This is indicated by the device moving up into the 'PAIRED DEVICES' section on this screen:<br />
-	<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/s9_os_bt_paired.png" style="height:494px; width:320px" /></li>
+	<img alt="" src="/assets/images/odk1/s9_os_bt_paired.png" style="height:494px; width:320px" /></li>
 	<li>Click the back button to exit the Android configuration settings. This returns us to the ODK Sensors configuration screen with the cryptic hexadecimal value for the device:<br />
-	<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/sa_sensor_list.png" style="height:493px; width:320px" /></li>
+	<img alt="" src="/assets/images/odk1/sa_sensor_list.png" style="height:493px; width:320px" /></li>
 	<li>You can either click on that hexadecimal value, or hit 'Device Scan' (which should cause the hexadecimal value to change to the Friendly name) and click on your printer. This selection dialog should appear:<br />
-	<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/sb_choose_printer_driver.png" style="height:491px; width:320px" /></li>
+	<img alt="" src="/assets/images/odk1/sb_choose_printer_driver.png" style="height:491px; width:320px" /></li>
 	<li>Select 'Zebra MZ Series Printer' and click 'Select'. The underlying screen should refresh with a check beside the printer indicating that it has been configured with the driver:<br />
-	<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/sc_sensor_configured.png" style="height:493px; width:320px" /></li>
+	<img alt="" src="/assets/images/odk1/sc_sensor_configured.png" style="height:493px; width:320px" /></li>
 	<li>Click the back button to exit the ODK Sensors configuration screen. You are now back to the ODK Zebra Printer Driver screen:<br />
-	<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/sd_ready_to_print.png" style="height:493px; width:320px" /></li>
+	<img alt="" src="/assets/images/odk1/sd_ready_to_print.png" style="height:493px; width:320px" /></li>
 	<li>Click 'Exit print screen' to exit the app.</li>
 </ul>
 
@@ -111,9 +111,9 @@ sidenav: software
 
 <ol>
 	<li>From within ODK Collect, navigate to the print widget. e.g.,<br />
-	<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/collect_printer.png" style="height:480px; width:320px" /></li>
+	<img alt="" src="/assets/images/form-design/collect_printer.png" style="height:480px; width:320px" /></li>
 	<li>Click on the 'Initiate Printing' button. This will launch the ODK Zebra Printer app:<br />
-	<img alt="" src="/sites/opendatakit-dev.cs.washington.edu/files/images/se_enabled_for_printing.png" style="height:493px; width:320px" /></li>
+	<img alt="" src="/assets/images/odk1/se_enabled_for_printing.png" style="height:493px; width:320px" /></li>
 	<li>At this point, make sure the printer is turned on (green light is illuminated).</li>
 	<li>Click on 'Print'. After some time, the blue 'working' light of the printer should illuminate, and then it should print.</li>
 	<li>Once printing is complete, click on 'Exit print screen' or click the back button to exit back to ODK Collect.</li>

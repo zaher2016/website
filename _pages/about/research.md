@@ -33,35 +33,35 @@ Below you will find a collection of publications about the ODK project over the 
 	<li><a href="http://www.hotmobile.org/2013/papers/full/2.pdf">Open Data Kit 2.0: Expanding and Refining Information Services for Developing Regions</a><br />
 	Waylon Brunette, Mitchell Sundt, Nicola Dell, Rohit Chaudhri, Nathan Breit, Gaetano Borriello<br />
 	In HotMobile, 2013</li>
-	<li><a href="/sites/opendatakit-dev.cs.washington.edu/files/images/dev-final34.pdf">ODK Tables: Building Easily Customizable Information Applications on Android Devices</a><br />
+	<li><a href="/assets/files/dev-final34.pdf">ODK Tables: Building Easily Customizable Information Applications on Android Devices</a><br />
 	Waylon Brunette, Samuel Sudar, Nicholas Worden, Dylan Price, Richard Anderson, Gaetano Borriello<br />
 	In DEV, 2013</li>
-	<li><a href="/sites/opendatakit-dev.cs.washington.edu/files/images/mobisys2012.pdf">Open Data Kit Sensors: A Sensor Integration Framework for Android at the Application-Level</a><br />
+	<li><a href="/assets/files/mobisys2012.pdf">Open Data Kit Sensors: A Sensor Integration Framework for Android at the Application-Level</a><br />
 	Waylon Brunette, Rita Sodt, Rohit Chaudhri, Mayank Goel, Michael Falcone, Jaylen VanOrden, Gaetano Borriello<br />
 	In MobiSys, 2012</li>
-	<li><a href="/sites/opendatakit-dev.cs.washington.edu/files/images/dev2012.pdf">Open Data Kit Sensors: Mobile Data Collection with Wired and Wireless Sensors</a><br />
+	<li><a href="/assets/files/dev2012.pdf">Open Data Kit Sensors: Mobile Data Collection with Wired and Wireless Sensors</a><br />
 	Rohit Chaudhri, Waylon Brunette, Mayank Goel, Rita Sodt, Jaylen VanOrden, Michael Falcone, Gaetano Borriello<br />
 	In DEV, 2012</li>
-	<li><a href="/sites/opendatakit-dev.cs.washington.edu/files/images/2011_ICTD_DecisionSupport_Paper.pdf">Design of a Phone-Based Clinical Decision Support System for Resource-Limited Settings</a><br />
+	<li><a href="/assets/files/2011_ICTD_DecisionSupport_Paper.pdf">Design of a Phone-Based Clinical Decision Support System for Resource-Limited Settings</a><br />
 	Yaw Anokwa, Nyoman Ribeka, Tapan Parikh, Gaetano Borriello, Martin C. Were.<br />
 	In ICTD, 2012</li>
 	<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/22366295">Evaluation of an Android-based mHealth System for Population Surveillance in Developing Countries</a><br />
 	Zeshan A. Rajput, Sam Mbugua, David Amadi, Viola Chepng'eno, Jason J. Saleem, Yaw Anokwa, Carl Hartung, Gaetano Borriello, Burke W. Mamlin, Samson K. Ndege, Martin C. Were<br />
 	In AMIA, 2011</li>
-	<li><a href="/sites/opendatakit-dev.cs.washington.edu/files/images/nsdr-tables-final.pdf">ODK Tables: Data Organization and Information Services on a Smartphone</a><br />
+	<li><a href="/assets/files/nsdr-tables-final.pdf">ODK Tables: Data Organization and Information Services on a Smartphone</a><br />
 	YoonSung Hong, Hilary K. Worden, Gaetano Borriello<br />
 	In NSDR, 2011</li>
 	<li><a href="http://www.seas.upenn.edu/~heinritz/ict4egra/ICT4EGRA.pdf">Using Open Data Kit for EGRA Data Collection</a><br />
 	Max Heinritz</li>
-	<li><a href="/sites/opendatakit-dev.cs.washington.edu/files/images/ODK-Paper-ICTD-2010.pdf">Open Data Kit: Tools to Build Information Services for Developing Regions</a><br />
+	<li><a href="/assets/files/ODK-Paper-ICTD-2010.pdf">Open Data Kit: Tools to Build Information Services for Developing Regions</a><br />
 	Carl Hartung, Yaw Anokwa, Waylon Brunette, Adam Lerer, Clint Tseng, Gaetano Borriello<br />
 	In ICTD, 2010</li>
-	<li><a href="/sites/opendatakit-dev.cs.washington.edu/files/images/ODK-Paper-DEV-2010.pdf">Evaluation of IVR Data Collection UIs for Untrained Rural Users</a><br />
+	<li><a href="/assets/files/ODK-Paper-DEV-2010.pdf">Evaluation of IVR Data Collection UIs for Untrained Rural Users</a><br />
 	Adam Lerer, Molly Ward, Saman Amarasinghe<br />
 	In DEV, 2010</li>
 	<li><a href="http://modi.mech.columbia.edu/wp-content/uploads/2010/04/Open-Data-Kit-Review-Article.pdf">Open Data Kit: Implications for the Use of Smartphone Software Technology for Questionnaire Studies in International Development</a><br />
 	Frances Jeffrey‐Coker, Matt Basinger and Vijay Modi</li>
-	<li><a href="/sites/opendatakit-dev.cs.washington.edu/files/images/ODK-Paper-Computer-2009.pdf">Open Source Data Collection in the Developing World</a><br />
+	<li><a href="/assets/files/ODK-Paper-Computer-2009.pdf">Open Source Data Collection in the Developing World</a><br />
 	Yaw Anokwa, Carl Hartung, Waylon Brunette, Adam Lerer, Gaetano Borriello<br />
 	In IEEE Computer, 2009</li>
 </ul>
