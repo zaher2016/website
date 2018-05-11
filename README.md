@@ -13,3 +13,19 @@ The local site will update as changes are made.
 ## Contributing
 
 One quick way to contribute is to review the [staging website](http://staging.opendatakit.org) and [file issues](https://github.com/opendatakit/website/issues) documenting the problems you see. If you would like to help fix those issues, see [the contribution guide](CONTRIBUTING.md).
+
+##Troubleshooting
+
+Nokogiri (鋸) is a Rubygem providing HTML, XML, SAX, and Reader parsers with XPath and CSS selector support.
+Command `bundle install` tries to install `nokogiri`
+
+If you face following error:
+	`Gem::Ext::BuildError: ERROR: Failed to build gem native extension.`
+
+You can fix it as follows:
+
+For Ubuntu/Debian OS:
+Run the command `sudo apt-get install build-essential patch ruby-dev zlib1g-dev liblzma-dev` and try again.
+
+If you are using any other OS, you can follow the instructions mentioned here:
+http://www.nokogiri.org/tutorials/installing_nokogiri.html
