@@ -14,7 +14,7 @@ The local site will update as changes are made.
 
 One quick way to contribute is to review the [staging website](http://staging.opendatakit.org) and [file issues](https://github.com/opendatakit/website/issues) documenting the problems you see. If you would like to help fix those issues, see [the contribution guide](CONTRIBUTING.md).
 
-##Troubleshooting
+## Troubleshooting
 
 Nokogiri (鋸) is a Rubygem providing HTML, XML, SAX, and Reader parsers with XPath and CSS selector support.
 Command `bundle install` tries to install `nokogiri`
