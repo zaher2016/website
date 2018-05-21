@@ -28,15 +28,21 @@ Need to download a specific release? Use GitHub:
 
 * Download [Collect releases on GitHub](https://github.com/opendatakit/collect/releases)
 
+[Source Code](https://github.com/opendatakit/collect)
+
 ## ODK XLSForm
 
 XLSForm is available as an online and offline tool. The online version works with modern web browsers and the offline version works on Windows, macOS, and Linux.
 
 * Use [https://xlsform.opendatakit.org](xlsform.opendatakit.org) (Recommended)
 
+[Source Code for XLSForm Online](https://github.com/opendatakit/xlsform-online), [Source Code for the XLSForm server](https://github.com/opendatakit/xlsform-server)
+
 Download offline releases on GitHub:
 
 * Download [XLSForm releases on GitHub](https://github.com/opendatakit/xlsform-offline/releases)
+
+[Source Code for XLSForm Offline](https://github.com/opendatakit/xlsform-offline)
 
 ## ODK Build
 
@@ -48,11 +54,15 @@ Download offline releases on GitHub:
 
 * Download [Build releases on GitHub](https://github.com/opendatakit/build/releases)
 
+[Source Code](https://github.com/opendatakit/build)
+
 ## ODK Aggregate
 
 Aggregate is available for Windows, macOS, and Linux. There is also a Virtual Machine (VM) that runs on all platforms. 
 
 * Download [Aggregate releases on GitHub](https://github.com/opendatakit/aggregate/releases)
+
+[Source Code](https://github.com/opendatakit/aggregate)
 
 ## ODK Briefcase
 
@@ -60,11 +70,15 @@ Briefcase is available for Windows, macOS, and Linux.
 
 * Download [Briefcase releases on GitHub](https://github.com/opendatakit/briefcase/releases)
 
+[Source Code](https://github.com/opendatakit/briefcase)
+
 ## ODK Validate
 
 Validate is available for Windows, macOS, and Linux.
 
 * Download [Validate releases on GitHub](https://github.com/opendatakit/validate/releases)
+
+[Source Code](https://github.com/opendatakit/validate)
 
 ## ODK JavaRosa
 
@@ -74,4 +88,6 @@ JavaRosa is a Java library for software developers. Use Maven or Gradle through 
 
 Need to download a specific release? Use GitHub:
 
-* Download [JavaRosa releases on GitHub](https://github.com/opendatakit/collect/releases)
+* Download [JavaRosa releases on GitHub](https://github.com/opendatakit/javarosa/releases)
+
+[Source Code](https://github.com/opendatakit/javarosa)

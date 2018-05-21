@@ -28,8 +28,6 @@ ODK 1 tools are designed to be easier to use, require less setup, and are widely
 
 * [**XLSForm:**](http://docs.opendatakit.org/xlsform/) allows XForms to be designed with Excel.
 
-**Source code for all ODK 1 Suite products is available on [GitHub](https://github.com/opendatakit/opendatakit).**
-
 ## ODK 2 Suite: Information Management
 
 ODK 2 software is better suited for complex longitudinal studies and requires more technical skills. These tools are meant as next-generation solutions that will co-exist with existing ODK 1 tools. ODK 2 addresses several limitations of the existing ODK 1 Suite's data collection workflows such as:
