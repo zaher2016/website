@@ -3,12 +3,12 @@ title: Download ODK 2 Software
 date: 2018-03-01T00:00:00+00:00
 author_profile: false
 layout: single
-permalink: /download/odk2/
+permalink: /software/odk2/
 toc: true
 toc_label: ODK 2
 toc_icon: "download"
 sidebar:
-  nav: "download"
+  nav: "software"
 
 ---
 

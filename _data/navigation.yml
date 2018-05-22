@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Community"
     url: /community/
-  - title: "Download"
-    url: /download/
+  - title: "Software"
+    url: /software/
 
 about:
   - title: About Open Data Kit
@@ -22,14 +22,14 @@ about:
     - title: "Contact Us"
       url: /about/contact/
 
-download:
-  - title: ODK Downloads
-    url: /download/
+software:
+  - title: Software
+    url: /software/
     children:
     - title: "Get ODK 1"
-      url: /download/odk1/
+      url: /software/odk1/
     - title: "Get ODK 2"
-      url: /download/odk2/
+      url: /software/odk2/
 
 community:
   - title: Get Involved
