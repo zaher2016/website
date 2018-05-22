@@ -4,6 +4,9 @@ jobs:
     working_directory: ~/work
     docker:
       - image: circleci/ruby:latest
+    environment:
+      - JEKYLL_ENV=production
+      - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
     steps:
       - checkout
       - restore_cache:
@@ -19,13 +22,14 @@ jobs:
           command: git lfs pull
       - run:
           name: Install build requirements
-          command: bundle install
+          command: bundle install --path vendor/bundle
       - run:
           name: Build site
-          command: JEKYLL_ENV=production jekyll build
+          command: bundle exec jekyll build
       - save_cache:
           paths:
             - /usr/local/bundle/gems
+            - vendor/bundle
           key: gems-{{ checksum "Gemfile.lock" }}
       - store_artifacts:
           path: _site
