@@ -3,9 +3,9 @@ title: Ecosystem
 date: 2018-03-23T00:00:00+00:00
 layout: single
 toc: true
-permalink: /about/ecosystem/
+permalink: /community/ecosystem/
 sidebar:
-  nav: "about"
+  nav: "community"
 ---
 
 There exists a broad community of organizations that contribute to or deploy core ODK tools and develop some of their own compatible tools that can be mixed and matched. This ecosystem means that organizations can use the tools that best suit their needs for any given project and do not need to worry about vendor lock-in.

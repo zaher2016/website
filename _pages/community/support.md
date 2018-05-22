@@ -3,9 +3,9 @@ title: Support Our Work
 date: 2018-03-01T00:00:00+00:00
 author_profile: false
 layout: single
-permalink: /about/support/
+permalink: /community/support/
 sidebar:
-  nav: "about"
+  nav: "community"
 ---
 
 ODK is an open source software project that is free for anyone to download, use, and adapt. Our work is supported by a growing community of developers, implementers, and users -- as well as various organizations. Core ODK development is supported by ongoing research at the University of Washington's [Change Group](http://change.washington.edu) and Department of Computer Science & Engineering (UW-CSE); as well as through financial contributions from users.

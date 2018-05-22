@@ -1,26 +1,9 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Community"
     url: /community/
   - title: "Software"
     url: /software/
-
-about:
-  - title: About Open Data Kit
-    url: /about/
-    children:
-    - title: "FAQ"
-      url: /about/faq/
-    - title: "Research"
-      url: /about/research/
-    - title: "Ecosystem"
-      url: /about/ecosystem/
-    - title: "Support Our Work"
-      url: /about/support/
-    - title: "Contact Us"
-      url: /about/contact/
 
 software:
   - title: Software
@@ -35,6 +18,16 @@ community:
   - title: Get Involved
     url: /community/
     children:
+    - title: "FAQ"
+      url: /community/faq/
+    - title: "Research"
+      url: /community/research/
+    - title: "Ecosystem"
+      url: /community/ecosystem/
+    - title: "Support Our Work"
+      url: /community/support/
+    - title: "Contact Us"
+      url: /community/contact/
     - title: "ODK Community Blog"
       url: /blog/
     - title: "Governance"

@@ -3,8 +3,8 @@ title: Contact the Community
 date: 2018-03-01T00:00:00+00:00
 layout: single
 sidebar:
-  nav: "about"
-permalink: /about/contact/
+  nav: "community"
+permalink: /community/contact/
 author_profile: false
 
 excerpt: "ODK is made by people like you, and we'd love to hear from you."
