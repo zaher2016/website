@@ -4,6 +4,8 @@ main:
     url: /community/
   - title: "Software"
     url: /software/
+  - title: "Help"
+    url: /help/
 
 software:
   - title: Software
