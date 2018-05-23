@@ -1,6 +1,7 @@
 ---
 title: Community Governance
 date: 2018-03-01T00:00:00+00:00
+author_profile: false
 layout: single
 toc: true
 permalink: /community/governance/
