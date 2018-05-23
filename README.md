@@ -1,4 +1,6 @@
-# opendatakit.org
+# ODK Website
+
+![Platform](https://img.shields.io/badge/platform-Sphinx-blue.svg) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Build status](https://circleci.com/gh/opendatakit/website.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/opendatakit/website/) [![Slack status](http://slack.opendatakit.org/badge.svg)](http://slack.opendatakit.org/)
 
 This site is powered by [Jekyll](https://jekyllrb.com) and the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme.
 
