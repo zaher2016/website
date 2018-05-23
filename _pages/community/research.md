@@ -1,11 +1,11 @@
 ---
 title: Research Archive
 date: 2018-03-01T00:00:00+00:00
+author_profile: false
 layout: single
 sidebar:
   nav: "community"
 permalink: /community/research/
-author_profile: false
 
 toc: true
 toc_label: "Research"

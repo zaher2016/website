@@ -1,9 +1,9 @@
 ---
 title: Frequently Asked Questions
 date: 2018-03-01T00:00:00+00:00
+author_profile: false
 layout: single
 permalink: /community/faq/
-author_profile: false
 sidebar:
   nav: "community"
 toc: true
