@@ -1,11 +1,11 @@
 ---
-title: About ODK
+title: History
 date: 2018-03-01T00:00:00+00:00
 author: system
 layout: single
-permalink: /about/
+permalink: /community/history
 sidebar:
-  nav: "about"
+  nav: "community"
 toc: true
 ---
 

@@ -3,8 +3,8 @@ title: Research Archive
 date: 2018-03-01T00:00:00+00:00
 layout: single
 sidebar:
-  nav: "about"
-permalink: /about/research/
+  nav: "community"
+permalink: /community/research/
 author_profile: false
 
 toc: true
