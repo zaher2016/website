@@ -20,23 +20,15 @@ community:
   - title: Get Involved
     url: /community/
     children:
-    - title: "FAQ"
-      url: /community/faq/
-    - title: "Research"
-      url: /community/research/
+    - title: "Blog"
+      url: /blog/
     - title: "Ecosystem"
       url: /community/ecosystem/
-    - title: "Support Our Work"
-      url: /community/support/
-    - title: "Contact Us"
-      url: /community/contact/
-    - title: "ODK Community Blog"
-      url: /blog/
     - title: "Governance"
       url: /community/governance/
-    - title: "ODK Forum &raquo;"
-      url: https://forum.opendatakit.org
-    - title: "Twitter &raquo;"
-      url: https://twitter.com/OpenDataKit
-    - title: "Facebook &raquo;"
-      url: https://facebook.com/OpenDataKit
+    - title: "History"
+      url: /community/history/
+    - title: "Research"
+      url: /community/research/
+    - title: "Support"
+      url: /community/support/
