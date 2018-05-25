@@ -20,6 +20,8 @@ community:
   - title: Get Involved
     url: /community/
     children:
+    - title: "Blog"
+      url: /blog/
     - title: "Ecosystem"
       url: /community/ecosystem/
     - title: "Governance"
