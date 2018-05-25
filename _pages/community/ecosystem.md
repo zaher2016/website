@@ -3,7 +3,6 @@ title: Ecosystem
 date: 2018-03-23T00:00:00+00:00
 author_profile: false
 layout: single
-toc: true
 permalink: /community/ecosystem/
 sidebar:
   nav: "community"

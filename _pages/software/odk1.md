@@ -5,10 +5,6 @@ author_profile: false
 layout: single
 permalink: /software/odk1/
 
-toc: true
-toc_label: ODK 1
-toc_icon: "download"
-
 sidebar:
   nav: "software"
 

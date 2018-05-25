@@ -6,7 +6,6 @@ layout: single
 permalink: /community/history
 sidebar:
   nav: "community"
-toc: true
 ---
 
 Open Data Kit (or ODK for short) is an open-source suite of tools that helps organizations author, collect, and manage mobile data collection solutions. Our goals are to make open-source and standards-based tools which are easy to try, easy to use, easy to modify and easy to scale. To this end, we are proud members of the  OpenRosa Consortium and active participants in the [JavaRosa](https://bitbucket.org/javarosa/javarosa/wiki/Home) project.
