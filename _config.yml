@@ -72,9 +72,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "OpenDataKit"
+  username               : &twitter "opendatakit"
 facebook:
-  username               : &facebook "OpenDataKit"
+  username               : &facebook "opendatakit"
   app_id                 :
   publisher              :
 og_image                 : "/assets/odk/odk-sq-tx.png" # Open Graph/Twitter default site image
@@ -113,7 +113,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "opendatakit"
+  instagram        :
   lastfm           :
   linkedin         :
   pinterest        :
