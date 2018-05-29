@@ -1,5 +1,5 @@
 ---
-title: Get Involved with ODK
+title: Community
 date: 2018-03-01T00:00:00+00:00
 author_profile: false
 layout: single
