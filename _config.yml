@@ -24,7 +24,8 @@ words_per_minute         : 200
 comments:
   provider               : "discourse" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman_v2", "staticman" "custom"
   disqus:
-    shortname            :
+
+shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -195,6 +196,7 @@ defaults:
       path: ""
       type: posts
     values:
+      permalink: /:year/:month/:title/
       layout: single
       author_profile: true
       read_time: true
