@@ -5,7 +5,6 @@ date: 2011-09-21T22:22:00+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1576
-permalink: /2011/09/21/new-york-city-using-odk-for-health-operations/
 aktt_notify_twitter:
   - 'no'
 categories:

@@ -5,7 +5,6 @@ date: 2014-03-12T18:57:21+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=4860
-permalink: /2014/03/12/profile-saloni-parikh-uw-undergraduate-and-odk-implementer/
 categories:
   - Uncategorized
 ---

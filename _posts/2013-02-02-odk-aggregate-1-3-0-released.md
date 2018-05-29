@@ -5,7 +5,6 @@ date: 2013-02-02T16:32:55+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=3399
-permalink: /2013/02/02/odk-aggregate-1-3-0-released/
 categories:
   - Uncategorized
 ---

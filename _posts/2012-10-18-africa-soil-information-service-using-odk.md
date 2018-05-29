@@ -5,7 +5,6 @@ date: 2012-10-18T22:53:10+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3151
-permalink: /2012/10/18/africa-soil-information-service-using-odk/
 aktt_notify_twitter:
   - 'no'
 categories:

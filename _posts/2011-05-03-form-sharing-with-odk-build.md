@@ -5,7 +5,6 @@ date: 2011-05-03T13:41:58+00:00
 author: Clint Tseng
 layout: single
 guid: /?p=1022
-permalink: /2011/05/03/form-sharing-with-odk-build/
 aktt_notify_twitter:
   - 'no'
 categories:

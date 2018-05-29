@@ -5,7 +5,6 @@ date: 2011-02-16T22:07:33+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=703
-permalink: /2011/02/16/an-odk-success-story-from-afghanistan/
 aktt_notify_twitter:
   - 'no'
 categories:

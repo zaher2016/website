@@ -5,7 +5,6 @@ date: 2011-06-10T16:49:53+00:00
 author: Carl Hartung
 layout: single
 guid: /?p=1145
-permalink: /2011/06/10/collect-1-1-7-and-aggregate-1-0-betas-released/
 aktt_notify_twitter:
   - 'no'
 categories:

@@ -5,7 +5,6 @@ date: 2011-06-23T12:01:56+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1171
-permalink: /2011/06/23/odk-chatroom-goes-live/
 aktt_notify_twitter:
   - 'no'
 categories:

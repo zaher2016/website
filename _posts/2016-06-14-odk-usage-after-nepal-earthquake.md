@@ -5,7 +5,6 @@ date: 2016-06-14T13:33:08+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=7502
-permalink: /2016/06/14/odk-usage-after-nepal-earthquake/
 categories:
   - Uncategorized
 ---

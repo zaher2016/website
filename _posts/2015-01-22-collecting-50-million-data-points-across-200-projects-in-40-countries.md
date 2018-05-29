@@ -5,7 +5,6 @@ date: 2015-01-22T12:57:21+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6054
-permalink: /2015/01/22/collecting-50-million-data-points-across-200-projects-in-40-countries/
 categories:
   - Uncategorized
 ---

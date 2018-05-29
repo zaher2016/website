@@ -5,7 +5,6 @@ date: 2012-11-26T19:52:41+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3210
-permalink: /2012/11/26/admin-mode-arrives-in-odk-collect-1-2-2/
 aktt_notify_twitter:
   - 'no'
 categories:

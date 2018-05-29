@@ -5,7 +5,6 @@ date: 2011-07-13T08:00:45+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1237
-permalink: /2011/07/13/using-odk-with-postgis-geoserver-and-leaflet/
 aktt_notify_twitter:
   - 'no'
 categories:

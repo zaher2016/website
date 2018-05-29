@@ -5,7 +5,6 @@ date: 2011-05-13T16:05:34+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1105
-permalink: /2011/05/13/advancing-the-new-machine-mobile-technology-panel/
 aktt_notify_twitter:
   - 'no'
 categories:

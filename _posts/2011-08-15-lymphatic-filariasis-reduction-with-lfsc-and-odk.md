@@ -5,7 +5,6 @@ date: 2011-08-15T08:00:11+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1391
-permalink: /2011/08/15/lymphatic-filariasis-reduction-with-lfsc-and-odk/
 aktt_notify_twitter:
   - 'no'
 categories:

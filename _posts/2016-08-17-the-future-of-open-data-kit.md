@@ -5,7 +5,6 @@ date: 2016-08-17T16:27:13+00:00
 author: Richard Anderson
 layout: single
 guid: https://opendatakit.org/?p=7798
-permalink: /2016/08/17/the-future-of-open-data-kit/
 categories:
   - Uncategorized
 ---

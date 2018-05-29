@@ -5,7 +5,6 @@ date: 2011-08-29T08:00:07+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1443
-permalink: /2011/08/29/mapping-700-tourist-sites-on-bohol-island-with-odk/
 aktt_notify_twitter:
   - 'no'
 categories:

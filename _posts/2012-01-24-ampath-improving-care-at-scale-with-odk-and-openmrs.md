@@ -5,7 +5,6 @@ date: 2012-01-24T16:16:30+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2283
-permalink: /2012/01/24/ampath-improving-care-at-scale-with-odk-and-openmrs/
 aktt_notify_twitter:
   - 'no'
 categories:

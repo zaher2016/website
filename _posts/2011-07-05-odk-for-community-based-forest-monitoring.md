@@ -5,7 +5,6 @@ date: 2011-07-05T10:00:25+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1188
-permalink: /2011/07/05/odk-for-community-based-forest-monitoring/
 aktt_notify_twitter:
   - 'no'
 categories:

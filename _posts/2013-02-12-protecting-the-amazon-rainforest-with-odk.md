@@ -5,7 +5,6 @@ date: 2013-02-12T16:01:08+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3465
-permalink: /2013/02/12/protecting-the-amazon-rainforest-with-odk/
 categories:
   - Uncategorized
 ---

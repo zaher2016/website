@@ -5,7 +5,6 @@ date: 2012-06-04T20:02:05+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=2930
-permalink: /2012/06/04/surui-tribe-in-the-amazon-using-odk/
 aktt_notify_twitter:
   - 'no'
 categories:

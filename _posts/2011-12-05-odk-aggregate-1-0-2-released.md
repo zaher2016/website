@@ -5,7 +5,6 @@ date: 2011-12-05T06:00:23+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2127
-permalink: /2011/12/05/odk-aggregate-1-0-2-released/
 aktt_notify_twitter:
   - 'no'
 categories:

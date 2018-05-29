@@ -5,7 +5,6 @@ date: 2011-10-03T08:13:29+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1506
-permalink: /2011/10/03/viewworlds-training-videos-for-odk-build/
 aktt_notify_twitter:
   - 'no'
 categories:

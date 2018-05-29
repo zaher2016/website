@@ -5,7 +5,6 @@ date: 2011-03-26T02:56:27+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=956
-permalink: /2011/03/26/training-videos-from-ehealth-nigeria/
 aktt_notify_twitter:
   - 'no'
 categories:

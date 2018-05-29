@@ -5,7 +5,6 @@ date: 2011-10-14T05:21:29+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1617
-permalink: /2011/10/14/wisconsin-using-odk-for-natural-disaster-assessments/
 aktt_notify_twitter:
   - 'no'
 categories:

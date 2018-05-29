@@ -5,7 +5,6 @@ date: 2015-06-16T08:00:12+00:00
 author: Carl Hartung
 layout: single
 guid: https://opendatakit.org/?p=6501
-permalink: /2015/06/16/nafundis-yaw-anokwa-honored-by-university-of-washington-for-his-work-on-open-data-kit/
 categories:
   - Uncategorized
 ---

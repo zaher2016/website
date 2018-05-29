@@ -5,7 +5,6 @@ date: 2015-03-26T10:00:38+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6380
-permalink: /2015/03/26/finding-and-fixing-vacant-properties-through-crowdsourced-data-collection/
 categories:
   - Uncategorized
 ---

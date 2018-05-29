@@ -5,7 +5,6 @@ date: 2012-03-08T02:06:42+00:00
 author: nabreit
 layout: single
 guid: /?p=2712
-permalink: /2012/03/08/xls2xform-is-now-xlsform/
 aktt_notify_twitter:
   - 'no'
 categories:

@@ -5,7 +5,6 @@ date: 2012-01-09T05:18:44+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2186
-permalink: /2012/01/09/odk-used-to-measure-agricultural-losses-after-floods-in-haiti/
 aktt_notify_twitter:
   - 'no'
 categories:

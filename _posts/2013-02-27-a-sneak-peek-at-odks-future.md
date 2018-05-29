@@ -5,7 +5,6 @@ date: 2013-02-27T16:40:52+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3564
-permalink: /2013/02/27/a-sneak-peek-at-odks-future/
 categories:
   - Uncategorized
 ---

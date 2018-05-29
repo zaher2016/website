@@ -5,7 +5,6 @@ date: 2011-04-06T03:22:53+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=967
-permalink: /2011/04/06/donate-to-the-odk-project/
 aktt_notify_twitter:
   - 'no'
 categories:

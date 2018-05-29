@@ -5,7 +5,6 @@ date: 2015-03-01T11:10:45+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6361
-permalink: /2015/03/01/reducing-errors-and-delays-in-collecting-millions-of-world-food-programme-data-points/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,6 @@ date: 2012-07-24T09:07:13+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3000
-permalink: /2012/07/24/version-1-2-of-the-odk-tools-released/
 aktt_notify_twitter:
   - 'no'
 categories:

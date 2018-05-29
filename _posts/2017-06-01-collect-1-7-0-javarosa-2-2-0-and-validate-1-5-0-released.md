@@ -5,7 +5,6 @@ date: 2017-06-01T15:40:01+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=8414
-permalink: /2017/06/01/collect-1-7-0-javarosa-2-2-0-and-validate-1-5-0-released/
 categories:
   - Uncategorized
 ---

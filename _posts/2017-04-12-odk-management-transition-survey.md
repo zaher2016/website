@@ -5,7 +5,6 @@ date: 2017-04-12T15:01:52+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=8316
-permalink: /2017/04/12/odk-management-transition-survey/
 categories:
   - Uncategorized
 ---

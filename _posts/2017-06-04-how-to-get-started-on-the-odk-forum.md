@@ -5,7 +5,7 @@ date: 2017-06-04T15:07:09+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=8418
-permalink: /2017/06/04/how-to-get-started-on-the-odk-forum/
+
 categories:
   - Uncategorized
 ---

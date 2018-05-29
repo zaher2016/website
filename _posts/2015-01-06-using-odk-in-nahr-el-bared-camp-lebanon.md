@@ -5,7 +5,6 @@ date: 2015-01-06T13:19:08+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=5981
-permalink: /2015/01/06/using-odk-in-nahr-el-bared-camp-lebanon/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,6 @@ date: 2011-01-11T03:33:05+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=669
-permalink: /2011/01/11/open-data-kit-named-wtia-industry-achievement-award-finalist/
 aktt_notify_twitter:
   - 'no'
 categories:

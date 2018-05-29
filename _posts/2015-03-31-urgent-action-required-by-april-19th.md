@@ -5,7 +5,6 @@ date: 2015-03-31T17:57:15+00:00
 author: Mitchell Sundt
 layout: single
 guid: https://opendatakit.org/?p=6412
-permalink: /2015/03/31/urgent-action-required-by-april-19th/
 categories:
   - Uncategorized
 ---

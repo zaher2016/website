@@ -5,7 +5,6 @@ date: 2011-08-10T16:21:30+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1414
-permalink: /2011/08/10/odk-xls2xform-helps-users-design-xforms-using-excel/
 aktt_notify_twitter:
   - 'no'
 categories:

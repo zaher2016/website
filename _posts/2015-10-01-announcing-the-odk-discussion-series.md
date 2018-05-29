@@ -5,7 +5,6 @@ date: 2015-10-01T21:25:49+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=6725
-permalink: /2015/10/01/announcing-the-odk-discussion-series/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,6 @@ date: 2014-05-27T17:56:51+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=5018
-permalink: /2014/05/27/ampath-reaches-one-millionth-person/
 categories:
   - Uncategorized
 ---

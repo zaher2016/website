@@ -5,7 +5,6 @@ date: 2013-05-27T09:00:38+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3816
-permalink: /2013/05/27/help-translate-odk-into-multiple-languages/
 categories:
   - Uncategorized
 ---

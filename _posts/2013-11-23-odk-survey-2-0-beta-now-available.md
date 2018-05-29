@@ -5,7 +5,6 @@ date: 2013-11-23T16:15:21+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=4188
-permalink: /2013/11/23/odk-survey-2-0-beta-now-available/
 categories:
   - Uncategorized
 ---

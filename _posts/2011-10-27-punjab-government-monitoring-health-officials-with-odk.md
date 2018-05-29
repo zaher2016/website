@@ -5,7 +5,6 @@ date: 2011-10-27T19:05:27+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1714
-permalink: /2011/10/27/punjab-government-monitoring-health-officials-with-odk/
 aktt_notify_twitter:
   - 'no'
 categories:

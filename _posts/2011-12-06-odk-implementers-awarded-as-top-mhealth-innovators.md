@@ -5,7 +5,6 @@ date: 2011-12-06T04:02:27+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2150
-permalink: /2011/12/06/odk-implementers-awarded-as-top-mhealth-innovators/
 aktt_notify_twitter:
   - 'no'
 categories:

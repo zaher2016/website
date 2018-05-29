@@ -5,7 +5,6 @@ date: 2014-08-29T16:24:38+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=5660
-permalink: /2014/08/29/odk-v1-4-4-tools-now-available/
 categories:
   - Uncategorized
 ---

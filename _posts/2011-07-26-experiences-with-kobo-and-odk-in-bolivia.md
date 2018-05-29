@@ -5,7 +5,6 @@ date: 2011-07-26T09:00:11+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1256
-permalink: /2011/07/26/experiences-with-kobo-and-odk-in-bolivia/
 aktt_notify_twitter:
   - 'no'
 categories:

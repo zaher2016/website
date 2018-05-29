@@ -5,7 +5,6 @@ date: 2011-08-03T18:56:10+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1383
-permalink: /2011/08/03/urgent-need-for-odk-assistance-east-africa-famine/
 aktt_notify_twitter:
   - 'no'
 categories:

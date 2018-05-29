@@ -5,7 +5,6 @@ date: 2013-05-14T05:00:32+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3757
-permalink: /2013/05/14/nafundi-taskforce-and-grameen-showcase-odk-at-google-io/
 categories:
   - Uncategorized
 ---

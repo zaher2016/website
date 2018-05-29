@@ -5,7 +5,6 @@ date: 2012-08-08T00:05:02+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3047
-permalink: /2012/08/08/carter-center-using-odk-for-election-observation/
 aktt_notify_twitter:
   - 'no'
 categories:

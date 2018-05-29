@@ -5,7 +5,6 @@ date: 2011-06-20T14:44:25+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1159
-permalink: /2011/06/20/validate-v1-4-released/
 aktt_notify_twitter:
   - 'no'
 categories:

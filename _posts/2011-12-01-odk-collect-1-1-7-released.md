@@ -5,7 +5,6 @@ date: 2011-12-01T23:15:17+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2088
-permalink: /2011/12/01/odk-collect-1-1-7-released/
 aktt_notify_twitter:
   - 'no'
 categories:

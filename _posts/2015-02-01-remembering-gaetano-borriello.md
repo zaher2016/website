@@ -5,7 +5,6 @@ date: 2015-02-01T14:08:31+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6096
-permalink: /2015/02/01/remembering-gaetano-borriello/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,6 @@ date: 2014-07-07T18:20:16+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=5082
-permalink: /2014/07/07/odk-opens-door-to-improved-survey-data-for-agriculture/
 categories:
   - Uncategorized
 ---

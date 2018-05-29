@@ -5,7 +5,6 @@ date: 2013-04-12T22:57:09+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3687
-permalink: /2013/04/12/updated-odk-tools-released-versions-1-3-and-2-0-alpha/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,6 @@ date: 2011-04-17T00:57:29+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=987
-permalink: /2011/04/17/uw-engineering-and-odk/
 aktt_notify_twitter:
   - 'no'
 categories:
