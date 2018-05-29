@@ -17,7 +17,7 @@ software:
       url: /software/odk2/
 
 community:
-  - title: Get Involved
+  - title: Community
     url: /community/
     children:
     - title: "Blog"
