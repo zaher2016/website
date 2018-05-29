@@ -25,4 +25,9 @@ cloudfront_distribution_config:
 cloudfront_wildcard_invalidation: true
 
 redirects:
-  xiframe: software/odk1/xiframe
+  downloads: software
+  use/aggregate: https://docs.opendatakit.org/aggregate-intro
+  use/build: https://docs.opendatakit.org/build-intro
+  use/xlsform: https://docs.opendatakit.org/xlsform
+  use: https://docs.opendatakit.org
+  xiframe: https://xlsform.opendatakit.org
