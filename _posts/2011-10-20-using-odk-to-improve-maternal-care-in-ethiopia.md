@@ -5,7 +5,6 @@ date: 2011-10-20T15:25:41+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1685
-permalink: /2011/10/20/using-odk-to-improve-maternal-care-in-ethiopia/
 aktt_notify_twitter:
   - 'no'
 categories:

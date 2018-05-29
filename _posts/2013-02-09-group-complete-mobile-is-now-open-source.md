@@ -5,7 +5,6 @@ date: 2013-02-09T01:13:37+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3468
-permalink: /2013/02/09/group-complete-mobile-is-now-open-source/
 categories:
   - Uncategorized
 ---

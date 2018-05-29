@@ -5,7 +5,6 @@ date: 2014-02-08T06:02:13+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=4593
-permalink: /2014/02/08/new-download-page-for-opendatakit-tools/
 categories:
   - Uncategorized
 ---

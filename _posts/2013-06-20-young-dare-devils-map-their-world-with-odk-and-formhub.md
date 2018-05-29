@@ -5,7 +5,6 @@ date: 2013-06-20T06:23:20+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3892
-permalink: /2013/06/20/young-dare-devils-map-their-world-with-odk-and-formhub/
 categories:
   - Uncategorized
 ---

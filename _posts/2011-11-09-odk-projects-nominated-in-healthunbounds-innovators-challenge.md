@@ -5,7 +5,6 @@ date: 2011-11-09T05:01:52+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2043
-permalink: /2011/11/09/odk-projects-nominated-in-healthunbounds-innovators-challenge/
 aktt_notify_twitter:
   - 'no'
 categories:

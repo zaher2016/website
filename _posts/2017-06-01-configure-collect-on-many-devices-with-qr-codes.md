@@ -5,7 +5,6 @@ date: 2017-06-01T15:11:15+00:00
 author: Hélène Martin
 layout: single
 guid: https://opendatakit.org/?p=8402
-permalink: /2017/06/01/configure-collect-on-many-devices-with-qr-codes/
 categories:
   - Uncategorized
 ---

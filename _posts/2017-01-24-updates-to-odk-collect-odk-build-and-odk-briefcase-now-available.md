@@ -5,7 +5,6 @@ date: 2017-01-24T00:52:45+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=8173
-permalink: /2017/01/24/updates-to-odk-collect-odk-build-and-odk-briefcase-now-available/
 categories:
   - Uncategorized
 ---

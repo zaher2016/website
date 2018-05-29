@@ -5,7 +5,6 @@ date: 2012-01-18T07:28:09+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2125
-permalink: /2012/01/18/bu-global-health-students-reflect-on-odk/
 aktt_notify_twitter:
   - 'no'
 categories:

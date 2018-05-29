@@ -5,7 +5,6 @@ date: 2011-08-01T08:00:12+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1359
-permalink: /2011/08/01/using-odk-to-enroll-patients-for-primary-health-care-in-india/
 aktt_notify_twitter:
   - 'no'
 categories:

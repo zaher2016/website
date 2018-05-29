@@ -5,7 +5,6 @@ date: 2017-05-17T09:53:01+00:00
 author: Hélène Martin
 layout: single
 guid: https://opendatakit.org/?p=8356
-permalink: /2017/05/17/connect-qgis-layers-and-odk-forms-with-qgisodk/
 categories:
   - Uncategorized
 ---

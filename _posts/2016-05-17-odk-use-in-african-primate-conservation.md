@@ -5,7 +5,6 @@ date: 2016-05-17T07:30:13+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=7268
-permalink: /2016/05/17/odk-use-in-african-primate-conservation/
 categories:
   - Uncategorized
 ---

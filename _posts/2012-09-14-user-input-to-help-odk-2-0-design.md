@@ -5,7 +5,6 @@ date: 2012-09-14T19:47:50+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3108
-permalink: /2012/09/14/user-input-to-help-odk-2-0-design/
 aktt_notify_twitter:
   - 'no'
 categories:

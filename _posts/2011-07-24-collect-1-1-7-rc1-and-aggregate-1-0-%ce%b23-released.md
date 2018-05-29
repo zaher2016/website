@@ -5,7 +5,6 @@ date: 2011-07-24T15:51:50+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1332
-permalink: '/2011/07/24/collect-1-1-7-rc1-and-aggregate-1-0-%ce%b23-released/'
 aktt_notify_twitter:
   - 'no'
 categories:

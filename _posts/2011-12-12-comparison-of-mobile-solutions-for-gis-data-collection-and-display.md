@@ -5,7 +5,6 @@ date: 2011-12-12T03:14:37+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2106
-permalink: /2011/12/12/comparison-of-mobile-solutions-for-gis-data-collection-and-display/
 aktt_notify_twitter:
   - 'no'
 categories:

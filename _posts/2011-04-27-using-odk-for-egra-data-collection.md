@@ -5,7 +5,6 @@ date: 2011-04-27T15:18:25+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=996
-permalink: /2011/04/27/using-odk-for-egra-data-collection/
 aktt_notify_twitter:
   - 'no'
 categories:

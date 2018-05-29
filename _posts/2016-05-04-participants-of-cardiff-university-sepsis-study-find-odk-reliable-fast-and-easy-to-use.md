@@ -5,7 +5,6 @@ date: 2016-05-04T00:05:40+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=7261
-permalink: /2016/05/04/participants-of-cardiff-university-sepsis-study-find-odk-reliable-fast-and-easy-to-use/
 categories:
   - Uncategorized
 ---

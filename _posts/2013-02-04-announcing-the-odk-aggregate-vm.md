@@ -5,7 +5,6 @@ date: 2013-02-04T20:05:32+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3425
-permalink: /2013/02/04/announcing-the-odk-aggregate-vm/
 categories:
   - Uncategorized
 ---

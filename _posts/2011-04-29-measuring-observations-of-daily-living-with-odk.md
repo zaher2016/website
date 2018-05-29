@@ -5,7 +5,6 @@ date: 2011-04-29T23:21:12+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1013
-permalink: /2011/04/29/measuring-observations-of-daily-living-with-odk/
 aktt_notify_twitter:
   - 'no'
 categories:

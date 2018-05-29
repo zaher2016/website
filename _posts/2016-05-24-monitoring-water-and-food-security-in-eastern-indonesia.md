@@ -5,7 +5,6 @@ date: 2016-05-24T04:01:12+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=7439
-permalink: /2016/05/24/monitoring-water-and-food-security-in-eastern-indonesia/
 categories:
   - Uncategorized
 ---

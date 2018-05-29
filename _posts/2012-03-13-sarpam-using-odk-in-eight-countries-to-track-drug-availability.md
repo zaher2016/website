@@ -5,7 +5,6 @@ date: 2012-03-13T05:30:20+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2659
-permalink: /2012/03/13/sarpam-using-odk-in-eight-countries-to-track-drug-availability/
 aktt_notify_twitter:
   - 'no'
 categories:

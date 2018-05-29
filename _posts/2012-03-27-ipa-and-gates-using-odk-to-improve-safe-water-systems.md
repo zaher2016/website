@@ -5,7 +5,6 @@ date: 2012-03-27T09:15:40+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2729
-permalink: /2012/03/27/ipa-and-gates-using-odk-to-improve-safe-water-systems/
 aktt_notify_twitter:
   - 'no'
 categories:

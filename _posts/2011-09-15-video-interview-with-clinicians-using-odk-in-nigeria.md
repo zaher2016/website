@@ -5,7 +5,6 @@ date: 2011-09-15T00:00:51+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1508
-permalink: /2011/09/15/video-interview-with-clinicians-using-odk-in-nigeria/
 aktt_notify_twitter:
   - 'no'
 categories:

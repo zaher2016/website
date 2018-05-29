@@ -5,7 +5,6 @@ date: 2014-07-25T16:55:24+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=5110
-permalink: /2014/07/25/philippine-red-cross-uses-odk-for-its-community-health-activities/
 categories:
   - Uncategorized
 ---

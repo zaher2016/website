@@ -5,7 +5,6 @@ date: 2014-02-08T06:36:32+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=4595
-permalink: /2014/02/08/odk-aggregate-1-4-1-with-enketo-webforms-integration-is-now-available/
 categories:
   - Uncategorized
 ---

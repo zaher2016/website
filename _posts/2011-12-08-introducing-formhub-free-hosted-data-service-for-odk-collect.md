@@ -5,7 +5,6 @@ date: 2011-12-08T06:07:01+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2176
-permalink: /2011/12/08/introducing-formhub-free-hosted-data-service-for-odk-collect/
 aktt_notify_twitter:
   - 'no'
 categories:

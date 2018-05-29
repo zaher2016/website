@@ -5,7 +5,6 @@ date: 2015-01-13T15:01:21+00:00
 author: Mitchell Sundt
 layout: single
 guid: https://opendatakit.org/?p=6014
-permalink: /2015/01/13/odk-1-4-5-released-major-enhancement-to-odk-collect/
 categories:
   - Uncategorized
 ---

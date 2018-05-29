@@ -5,7 +5,6 @@ date: 2015-04-07T10:00:26+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=6384
-permalink: /2015/04/07/from-the-ground-to-the-cloud-forest-monitoring-in-hutan-aceh/
 categories:
   - Uncategorized
 ---

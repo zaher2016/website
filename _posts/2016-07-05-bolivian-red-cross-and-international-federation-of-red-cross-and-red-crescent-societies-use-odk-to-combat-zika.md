@@ -5,7 +5,6 @@ date: 2016-07-05T10:49:44+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=7743
-permalink: /2016/07/05/bolivian-red-cross-and-international-federation-of-red-cross-and-red-crescent-societies-use-odk-to-combat-zika/
 categories:
   - Uncategorized
 ---

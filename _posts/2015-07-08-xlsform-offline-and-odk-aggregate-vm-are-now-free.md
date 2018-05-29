@@ -5,7 +5,6 @@ date: 2015-07-08T08:01:52+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6585
-permalink: /2015/07/08/xlsform-offline-and-odk-aggregate-vm-are-now-free/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,6 @@ date: 2014-04-13T13:55:58+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=4924
-permalink: /2014/04/13/cgiars-climate-change-agriculture-and-food-security-with-odk/
 categories:
   - Uncategorized
 ---

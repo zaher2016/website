@@ -5,7 +5,6 @@ date: 2012-05-01T00:00:24+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2801
-permalink: /2012/05/01/evaluating-reproductive-health-voucher-programs-with-odk/
 aktt_notify_twitter:
   - 'no'
 categories:

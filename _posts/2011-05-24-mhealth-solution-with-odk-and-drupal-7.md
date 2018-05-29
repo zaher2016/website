@@ -5,7 +5,6 @@ date: 2011-05-24T14:57:10+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1128
-permalink: /2011/05/24/mhealth-solution-with-odk-and-drupal-7/
 aktt_notify_twitter:
   - 'no'
 categories:

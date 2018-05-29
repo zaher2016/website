@@ -5,7 +5,6 @@ date: 2016-04-20T10:00:00+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=7107
-permalink: /2016/04/20/improving-polio-campaign-quality-in-jordan-somalia-and-south-sudan/
 categories:
   - Uncategorized
 ---

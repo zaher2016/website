@@ -5,7 +5,6 @@ date: 2012-09-30T01:11:38+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3114
-permalink: /2012/09/30/kiva-using-odk-in-kenya/
 aktt_notify_twitter:
   - 'no'
 categories:

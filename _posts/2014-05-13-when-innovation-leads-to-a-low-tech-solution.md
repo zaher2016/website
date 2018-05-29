@@ -5,7 +5,6 @@ date: 2014-05-13T13:46:53+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=4981
-permalink: /2014/05/13/when-innovation-leads-to-a-low-tech-solution/
 categories:
   - Uncategorized
 ---

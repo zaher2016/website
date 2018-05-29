@@ -5,7 +5,6 @@ date: 2013-06-11T08:00:24+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3848
-permalink: /2013/06/11/task-force-and-nafundi-release-codebook-generator-for-odk/
 categories:
   - Uncategorized
 ---

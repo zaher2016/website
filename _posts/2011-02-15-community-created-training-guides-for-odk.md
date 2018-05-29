@@ -5,7 +5,6 @@ date: 2011-02-15T15:19:48+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=688
-permalink: /2011/02/15/community-created-training-guides-for-odk/
 aktt_notify_twitter:
   - 'no'
 categories:

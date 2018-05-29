@@ -5,7 +5,6 @@ date: 2011-05-09T18:30:00+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1031
-permalink: /2011/05/09/carbon-for-water-collects-40000-forms-per-day-with-odk-and-monitors-results-from-international-space-station/
 aktt_notify_twitter:
   - 'no'
 categories:

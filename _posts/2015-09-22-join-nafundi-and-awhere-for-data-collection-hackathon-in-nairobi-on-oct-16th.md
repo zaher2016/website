@@ -5,7 +5,6 @@ date: 2015-09-22T12:00:16+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6715
-permalink: /2015/09/22/join-nafundi-and-awhere-for-data-collection-hackathon-in-nairobi-on-oct-16th/
 categories:
   - Uncategorized
 ---

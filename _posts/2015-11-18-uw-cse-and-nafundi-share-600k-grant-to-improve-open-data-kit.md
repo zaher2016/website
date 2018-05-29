@@ -5,7 +5,6 @@ date: 2015-11-18T18:06:55+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=6795
-permalink: /2015/11/18/uw-cse-and-nafundi-share-600k-grant-to-improve-open-data-kit/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,6 @@ date: 2013-01-14T05:08:57+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3320
-permalink: /2013/01/14/metadata-outputs-and-calculates-in-odk-build/
 categories:
   - Uncategorized
 ---

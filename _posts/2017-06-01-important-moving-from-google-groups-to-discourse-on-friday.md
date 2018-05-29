@@ -5,7 +5,6 @@ date: 2017-06-01T15:40:32+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=8368
-permalink: /2017/06/01/important-moving-from-google-groups-to-discourse-on-friday/
 categories:
   - Uncategorized
 ---

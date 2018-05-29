@@ -5,7 +5,6 @@ date: 2011-10-11T15:14:01+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1639
-permalink: /2011/10/11/video-interview-with-enumerators-in-tanzania/
 aktt_notify_twitter:
   - 'no'
 categories:

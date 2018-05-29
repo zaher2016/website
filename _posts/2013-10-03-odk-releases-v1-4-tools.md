@@ -5,7 +5,6 @@ date: 2013-10-03T10:10:10+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=4102
-permalink: /2013/10/03/odk-releases-v1-4-tools/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,6 @@ date: 2012-08-28T23:50:52+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3084
-permalink: /2012/08/28/odk-collect-1-2-1-released/
 aktt_notify_twitter:
   - 'no'
 categories:

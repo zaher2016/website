@@ -5,7 +5,6 @@ date: 2011-08-08T06:00:35+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1373
-permalink: /2011/08/08/odk-used-for-expanding-financial-services-for-the-poor/
 aktt_notify_twitter:
   - 'no'
 categories:

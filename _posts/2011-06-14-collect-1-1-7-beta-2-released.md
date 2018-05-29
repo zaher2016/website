@@ -5,7 +5,6 @@ date: 2011-06-14T20:06:56+00:00
 author: Carl Hartung
 layout: single
 guid: /?p=1153
-permalink: /2011/06/14/collect-1-1-7-beta-2-released/
 aktt_notify_twitter:
   - 'no'
 categories:

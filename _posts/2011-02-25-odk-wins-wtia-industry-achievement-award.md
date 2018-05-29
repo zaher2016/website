@@ -5,7 +5,6 @@ date: 2011-02-25T04:42:42+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=721
-permalink: /2011/02/25/odk-wins-wtia-industry-achievement-award/
 aktt_notify_twitter:
   - 'no'
 categories:

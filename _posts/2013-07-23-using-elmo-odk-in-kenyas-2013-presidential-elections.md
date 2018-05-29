@@ -5,7 +5,6 @@ date: 2013-07-23T12:01:46+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3984
-permalink: /2013/07/23/using-elmo-odk-in-kenyas-2013-presidential-elections/
 categories:
   - Uncategorized
 ---

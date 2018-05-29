@@ -5,7 +5,6 @@ date: 2017-02-24T08:57:57+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=8259
-permalink: /2017/02/24/odk-collect-v1-4-16-available-for-download/
 categories:
   - Uncategorized
 ---

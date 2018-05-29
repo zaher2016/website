@@ -5,7 +5,6 @@ date: 2015-03-13T12:32:51+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6395
-permalink: /2015/03/13/openfn-provides-integration-between-odk-and-safesforce/
 categories:
   - Uncategorized
 ---

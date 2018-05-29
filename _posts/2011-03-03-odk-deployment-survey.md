@@ -5,7 +5,6 @@ date: 2011-03-03T23:17:06+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=750
-permalink: /2011/03/03/odk-deployment-survey/
 aktt_notify_twitter:
   - 'no'
 categories:

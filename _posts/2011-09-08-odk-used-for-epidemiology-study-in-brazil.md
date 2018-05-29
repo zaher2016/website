@@ -5,7 +5,6 @@ date: 2011-09-08T08:00:48+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=735
-permalink: /2011/09/08/odk-used-for-epidemiology-study-in-brazil/
 aktt_notify_twitter:
   - 'no'
 categories:

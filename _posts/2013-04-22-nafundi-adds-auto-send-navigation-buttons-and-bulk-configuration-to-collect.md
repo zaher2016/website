@@ -5,7 +5,6 @@ date: 2013-04-22T17:56:30+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3714
-permalink: /2013/04/22/nafundi-adds-auto-send-navigation-buttons-and-bulk-configuration-to-collect/
 categories:
   - Uncategorized
 ---

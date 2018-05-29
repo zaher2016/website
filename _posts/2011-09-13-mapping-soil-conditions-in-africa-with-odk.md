@@ -5,7 +5,6 @@ date: 2011-09-13T08:00:59+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=1475
-permalink: /2011/09/13/mapping-soil-conditions-in-africa-with-odk/
 aktt_notify_twitter:
   - 'no'
 categories:

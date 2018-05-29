@@ -5,7 +5,6 @@ date: 2013-10-11T13:50:42+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=4110
-permalink: /2013/10/11/odk-participates-in-grace-hopper-open-source-day-2013/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,6 @@ date: 2012-04-04T22:44:03+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=2780
-permalink: /2012/04/04/updates-to-odk-aggregate-briefcase-form-uploader-and-validate-released/
 aktt_notify_twitter:
   - 'no'
 categories:
