@@ -1,10 +1,9 @@
 ---
-title: Download ODK Software
+title: Software
 date: 2018-03-01T00:00:00+00:00
 author_profile: false
 layout: splash
 permalink: /software/
-excerpt: "Find the right software for your needs and start installing."
 feature_row:
   - image_path: /assets/images/odk-collect.jpg
     alt: "Looking for a simple way to collect data and analyze the results?"
