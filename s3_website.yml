@@ -65,7 +65,7 @@ routing_rules:
       key_prefix_equals: about
     redirect:
       host_name: staging.opendatakit.org
-      replace_key_with: /
+      replace_key_with: ""
       http_redirect_code: 301
   - condition:
       key_prefix_equals: downloads
@@ -83,11 +83,11 @@ routing_rules:
       key_prefix_equals: use
     redirect:
       host_name: docs.opendatakit.org
-      replace_key_with: /
+      replace_key_with: ""
       http_redirect_code: 301
   - condition:
       key_prefix_equals: xiframe
     redirect:
       host_name: xlsform.opendatakit.org
-      replace_key_with: /
+      replace_key_with: ""
       http_redirect_code: 301
