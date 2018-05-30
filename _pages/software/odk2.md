@@ -1,5 +1,5 @@
 ---
-title: Download ODK 2 Software
+title: ODK 2
 date: 2018-03-01T00:00:00+00:00
 author_profile: false
 layout: single

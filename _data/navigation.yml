@@ -11,9 +11,9 @@ software:
   - title: Software
     url: /software/
     children:
-    - title: "Get ODK 1"
+    - title: "ODK 1"
       url: /software/odk1/
-    - title: "Get ODK 2"
+    - title: "ODK 2"
       url: /software/odk2/
 
 community:
