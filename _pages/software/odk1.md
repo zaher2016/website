@@ -5,9 +5,6 @@ author_profile: false
 layout: single
 permalink: /software/odk1/
 
-sidebar:
-  nav: "software"
-
 ---
 
 We publish current and previous releases of our tools on GitHub in each tool's repository. 
