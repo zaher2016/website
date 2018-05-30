@@ -90,8 +90,8 @@ routing_rules:
   - condition:
       key_prefix_equals: help/help-for-hire
     redirect:
-      host_name: staging.opendatakit.org
-      replace_key_with: community
+      host_name: forum.opendatakit.org
+      replace_key_with: c/marketplace
       http_redirect_code: 301
   - condition:
       key_prefix_equals: help/training-guides
