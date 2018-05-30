@@ -2,7 +2,7 @@
 title: XLSForm Online
 author: Yaw Anokwa
 layout: single
-permalink: /xlsform
+permalink: /xlsform/
 ---
 
 [XLSForm Online](https://docs.opendatakit.org/xlsform/) is a tool to simplify the creation of forms. Forms designed with Excel can be converted to XForms that can be used with ODK tools.
