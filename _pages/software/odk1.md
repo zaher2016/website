@@ -30,7 +30,7 @@ Need to download a specific release? Use GitHub:
 
 XLSForm is available as an online and offline tool. The online version works with modern web browsers and the offline version works on Windows, macOS, and Linux.
 
-* Use [https://xlsform.opendatakit.org](https://xlsform.opendatakit.org) (Recommended)
+* Use [https://opendatakit.org/xlsform](/xlsform/) (Recommended)
 
 [Source Code for XLSForm Online](https://github.com/opendatakit/xlsform-online), [Source Code for the XLSForm server](https://github.com/opendatakit/xlsform-server)
 
