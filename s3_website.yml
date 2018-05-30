@@ -243,6 +243,6 @@ routing_rules:
   - condition:
       key_prefix_equals: xiframe
     redirect:
-      host_name: xlsform.opendatakit.org
-      replace_key_with: ""
+      host_name: staging.opendatakit.org
+      replace_key_with: xlsform
       http_redirect_code: 301
