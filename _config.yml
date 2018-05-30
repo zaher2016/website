@@ -16,7 +16,7 @@ title_separator          : "-"
 name                     : &name "ODK Community" # &name is a YAML anchor which can be *referenced later
 description              : &description "The Open Data Kit community produces free and open-source software for collecting, managing, and using data in resource-constrained environments."
 tagline                  : The standard for mobile data collection
-url                      : "http://staging.opendatakit.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://opendatakit.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "opendatakit/website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

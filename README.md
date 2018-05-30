@@ -12,7 +12,7 @@ The local site will update as changes are made.
 
 ## Contributing
 
-One quick way to contribute is to review the [staging website](http://staging.opendatakit.org) and [file issues](https://github.com/opendatakit/website/issues) documenting the problems you see. If you would like to help fix those issues, see [the contribution guide](CONTRIBUTING.md).
+One quick way to contribute is to review the [website](https://opendatakit.org) and [file issues](https://github.com/opendatakit/website/issues) documenting the problems you see. If you would like to help fix those issues, see [the contribution guide](CONTRIBUTING.md).
 
 ## Troubleshooting
 
