@@ -37,13 +37,13 @@ routing_rules:
     redirect:
       host_name: docs.opendatakit.org
       replace_key_with: form-language
-      http_redirect_code: 301 
+      http_redirect_code: 301
   - condition:
       key_prefix_equals: help/form-design/workarounds
     redirect:
       host_name: docs.opendatakit.org
       replace_key_with: form-best-practices
-      http_redirect_code: 301       
+      http_redirect_code: 301
   - condition:
       key_prefix_equals: help/form-design
     redirect:
@@ -76,15 +76,13 @@ routing_rules:
       host_name: staging.opendatakit.org
       replace_key_with: help
       http_redirect_code: 301
-
-      
   # use/aggregate/*
   - condition:
       key_prefix_equals: use/aggregate/data-transfer
     redirect:
       host_name: docs.opendatakit.org
       replace_key_with: aggregate-data-access
-      http_redirect_code: 301  
+      http_redirect_code: 301
   - condition:
       key_prefix_equals: use/aggregate/deployment-planning
     redirect:
@@ -109,7 +107,6 @@ routing_rules:
       host_name: docs.opendatakit.org
       replace_key_with: aggregate-intro
       http_redirect_code: 301
-      
   # use/briefcase
   - condition:
       key_prefix_equals: use/briefcase
@@ -144,7 +141,7 @@ routing_rules:
     redirect:
       host_name: docs.opendatakit.org
       replace_key_with: printer-widget
-      http_redirect_code: 301  
+      http_redirect_code: 301
   # use/validate
   - condition:
       key_prefix_equals: use/validate
@@ -152,7 +149,7 @@ routing_rules:
       host_name: docs.opendatakit.org
       replace_key_with: validate
       http_redirect_code: 301
-  # use/xls    
+  # use/xls
   - condition:
       key_prefix_equals: use/xls
     redirect:
@@ -163,8 +160,8 @@ routing_rules:
   - condition:
       key_prefix_equals: use/2_0_tools
     redirect:
-      host_name: docs.opendatakit.org/odk2
-      replace_key_with: ""
+      host_name: docs.opendatakit.org
+      replace_key_with: odk2
       http_redirect_code: 301
   # use
   - condition:
@@ -173,7 +170,6 @@ routing_rules:
       host_name: docs.opendatakit.org
       replace_key_with: ""
       http_redirect_code: 301
-      
   # about/*
   - condition:
       key_prefix_equals: about/deployments
@@ -199,7 +195,6 @@ routing_rules:
       host_name: staging.opendatakit.org
       replace_key_with: ""
       http_redirect_code: 301
-
   # downloads
   - condition:
       key_prefix_equals: downloads
@@ -207,7 +202,6 @@ routing_rules:
       host_name: staging.opendatakit.org
       replace_key_with: software
       http_redirect_code: 301
-
   # participate
   - condition:
       key_prefix_equals: participate
@@ -215,7 +209,6 @@ routing_rules:
       host_name: staging.opendatakit.org
       replace_key_with: community
       http_redirect_code: 301
-      
   # xiframe
   - condition:
       key_prefix_equals: xiframe
