@@ -69,13 +69,13 @@ routing_rules:
       host_name: docs.opendatakit.org
       replace_key_with: encrypted-forms
       http_redirect_code: 301
-  # help
-  - condition:
-      key_prefix_equals: help
-    redirect:
-      host_name: staging.opendatakit.org
-      replace_key_with: help
-      http_redirect_code: 301
+  # enabling this block will cause infinite redirects because help exists on the new site
+  # - condition:
+  #     key_prefix_equals: help
+  #   redirect:
+  #     host_name: staging.opendatakit.org
+  #     replace_key_with: help
+  #     http_redirect_code: 301
   # use/aggregate/*
   - condition:
       key_prefix_equals: use/aggregate/data-transfer
