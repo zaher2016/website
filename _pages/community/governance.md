@@ -27,4 +27,14 @@ The Technical Steering Committee (TSC) is responsible for high-level technical d
 
 Wherever possible, the TSCs should choose shared policies and infrastructure which allow for consistent process, but administrative separation across suites. In the case where the TSCs cannot reach consensus on policies and infrastructure, the final decision will be made by a majority vote by the PMC.
 
-Although the TSC may update the TSC governance (e.g. this document) as it finds appropriate, revisions are subject to PMC review and veto, as ultimate authority over governing the ODK project rests with the PMC. Any update to the TSC governing document must be approved by the majority of the PMC. It is expected that the TSC will have a collaborative relationship (perhaps some overlap in membership) with the PMC.
+Although the TSC may update the TSC governance (e.g. [this document](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md)) as it finds appropriate, revisions are subject to PMC review and veto, as ultimate authority over governing the ODK project rests with the PMC. Any update to the TSC governing document must be approved by the majority of the PMC. It is expected that the TSC will have a collaborative relationship (perhaps some overlap in membership) with the PMC.
+
+### Current Technical Steering Committee
+
+| [<img src="/assets/images/odk1/tsc/shobhit-agarwal.jpeg" width="200px;"/><br /><b>Shobhit Agarwal</b>](https://github.com/shobhitagarwal1612)<br />[Tonbo Imaging](http://www.tonboimaging.com/) | [<img src="/assets/images/odk1/tsc/alex-anderson.jpg" width="200px;"/><br /><b>Alex Anderson</b>](https://github.com/alxndrsn)<br />[Medic Mobile](https://medicmobile.org/) | [<img src="/assets/images/odk1/tsc/yaw-anokwa.jpg" width="200px;"/><br /><b>Yaw Anokwa</b>](http://anokwa.com/)<br />[Nafundi](http://nafundi.com/) |
+
+| [<img src="/assets/images/odk1/tsc/brent-atkinson.jpeg" width="200px;"/><br /><b>Brent Atkinson</b>](https://github.com/batkinson)<br />[CIMS Bioko](http://cims-bioko.github.io/) | [<img src="/assets/images/odk1/tsc/adam-butler.png" width="200px;"/><br /><b>Adam Butler</b>](ttps://twitter.com/adamvert)<br />[eHealth Africa](https://www.ehealthafrica.org/) | [<img src="/assets/images/odk1/tsc/aurelio-di-pasquale.png" width="200px;"/><br /><b>Aurelio di Pasquale</b>](http://unipa.academia.edu/AurelioDiPasquale)<br />[Swiss TPH](https://www.swisstph.ch/en/) |
+
+| [<img src="/assets/images/odk1/tsc/helene-martin.jpg" width="200px;"/><br /><b>Hélène Martin</b>](https://twitter.com/purplespatula)<br />[Nafundi](http://nafundi.com) | [<img src="/assets/images/odk1/tsc/tom-smyth.png" width="200px;"/><br /><b>Tom Smyth</b>](https://github.com/frigginglorious)<br />[Sassafras](https://sassafras.coop/) | [<img src="/assets/images/odk1/tsc/dickson-ukanga.jpg" width="200px;"/><br /><b>Dickson Ukanga</b>](https://github.com/ukanga)<br />[Ona](https://ona.io/home/) |
+
+
