@@ -160,7 +160,7 @@ routing_rules:
       replace_key_with: xlsform
       http_redirect_code: 301
   # use/2_0_tools
-   - condition:
+  - condition:
       key_prefix_equals: use/2_0_tools
     redirect:
       host_name: docs.opendatakit.org/odk2
@@ -182,7 +182,7 @@ routing_rules:
       replace_key_with: c/showcase
       http_redirect_code: 301
   - condition:
-      key_prefix_equals:   about/security-and-privacy-statement
+      key_prefix_equals: about/security-and-privacy-statement
     redirect:
       host_name: docs.opendatakit.org
       replace_key_with: security-privacy
@@ -199,7 +199,7 @@ routing_rules:
       host_name: staging.opendatakit.org
       replace_key_with: ""
       http_redirect_code: 301
-      
+
   # downloads
   - condition:
       key_prefix_equals: downloads
