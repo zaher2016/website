@@ -24,10 +24,70 @@ cloudfront_distribution_config:
 
 cloudfront_wildcard_invalidation: true
 
-redirects:
-  downloads: software
-  use/aggregate: https://docs.opendatakit.org/aggregate-intro
-  use/build: https://docs.opendatakit.org/build-intro
-  use/xlsform: https://docs.opendatakit.org/xlsform
-  use: https://docs.opendatakit.org
-  xiframe: https://xlsform.opendatakit.org
+routing_rules:
+  - condition:
+      key_prefix_equals: help/form-design
+    redirect:
+      host_name: docs.opendatakit.org
+      replace_key_with: form-design-intro
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: use/aggregate
+    redirect:
+      host_name: docs.opendatakit.org
+      replace_key_with: aggregate-intro
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: use/briefcase
+    redirect:
+      host_name: docs.opendatakit.org
+      replace_key_with: briefcase-intro
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: use/build
+    redirect:
+      host_name: docs.opendatakit.org
+      replace_key_with: build-intro
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: use/collect
+    redirect:
+      host_name: docs.opendatakit.org
+      replace_key_with: collect-intro
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: use/xls
+    redirect:
+      host_name: docs.opendatakit.org
+      replace_key_with: xlsform
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: about
+    redirect:
+      host_name: staging.opendatakit.org
+      replace_key_with: /
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: downloads
+    redirect:
+      host_name: staging.opendatakit.org
+      replace_key_with: software
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: participate
+    redirect:
+      host_name: staging.opendatakit.org
+      replace_key_with: community
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: use
+    redirect:
+      host_name: docs.opendatakit.org
+      replace_key_with: /
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: xiframe
+    redirect:
+      host_name: xlsform.opendatakit.org
+      replace_key_with: /
+      http_redirect_code: 301

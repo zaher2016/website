@@ -10,4 +10,4 @@ aktt_notify_twitter:
 categories:
   - Uncategorized
 ---
-Moved to </help/help-for-hire/>
+Moved to [Help](/help)
