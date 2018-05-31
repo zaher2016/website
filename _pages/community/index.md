@@ -1,6 +1,5 @@
 ---
 title: Community
-date: 2018-03-01T00:00:00+00:00
 author_profile: false
 layout: single
 permalink: /community/
@@ -8,21 +7,13 @@ sidebar:
   nav: "community"
 ---
 
-There are several different ways in which you can get involved with our project.
+Open Data Kit is a community effort. There are many ways you can get involved.
 
-The easiest way to start is to join the ODK forum at <https://forum.opendatakit.org>. Much of the community interaction occurs on this main forum so subscribe and participate.
+ - [Download and use ODK Tools](/software) 
+ - [Join the ODK Forum](https://forum.opendatakit.org), where most community interaction happens.
+ - [Check us out on GitHub](https://github.com/opendatakit), which has source code and issue trackers for all of our projects.
+ - [Join the developer conversation on Slack](http://slack.opendatakit.org).
+ - Follow on us [Facebook](https://www.facebook.com/opendatakit) and [Twitter](https://twitter.com/opendatakit).
 
-Our issue tracker, wiki, and source code can be found at <https://github.com/opendatakit>. We are also on Slack chat at <http://slack.opendatakit.org>. The Slack archive is at <https://opendatakit.slackarchive.io>
+Want to contribute to ODK development, but you're not sure how? Everyone's talents are needed. Check out [this forum post with lots of ideas about how to contribute](https://forum.opendatakit.org/t/quick-ways-to-contribute/9633).
 
-ODK is an open source software project that is free for anyone to download, use, and adapt. If you would like to support ODK&#8217;s continued research and development, please consider making a tax-deductible [donation](//opendatakit.org/participate/donate/ "Donate").
-
-Regardless of if you are a developer or user, we always need help. Email us at [team@opendatakit.org](mailto: team@opendatakit.org) and let&#8217;s start working together! Below are some ideas.
-
-  * Great at design? Maybe you can help us with user interfaces.
-  * Love making videos? Maybe you can do a screencast of our tools.
-  * Natural leader? Maybe you can organize a hackathon.
-  * Speak fluent Swahili? Maybe you can translate ODK Collect.
-  * Experienced tester? Maybe you can triage bugs.
-  * Gifted marketer? Spread the word about ODK.
-  * Excel at writing? Maybe you can keep our wiki easy to read.
-  * Want to donate? Give a tax-deductible gift [here](https://www.washington.edu/giving/make-a-gift?source_typ=3&source=CSEODK).
