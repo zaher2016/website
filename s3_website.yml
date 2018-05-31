@@ -228,7 +228,7 @@ routing_rules:
       http_redirect_code: 301
   # downloads
   - condition:
-      key_prefix_equals: downloads
+      key_prefix_equals: download
     redirect:
       host_name: opendatakit.org
       replace_key_with: software
@@ -246,4 +246,11 @@ routing_rules:
     redirect:
       host_name: opendatakit.org
       replace_key_with: xlsform
+      http_redirect_code: 301
+  # feed
+  - condition:
+      key_prefix_equals: feed
+    redirect:
+      host_name: opendatakit.org
+      replace_key_with: feed.xml
       http_redirect_code: 301
