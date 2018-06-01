@@ -25,6 +25,7 @@ cloudfront_distribution_config:
 
 cloudfront_wildcard_invalidation: true
 
+# folder redirects. executed from top to bottom.
 routing_rules:
   # help/form-design/*
   - condition:
@@ -240,17 +241,8 @@ routing_rules:
       host_name: opendatakit.org
       replace_key_with: community
       http_redirect_code: 301
-  # xiframe
-  - condition:
-      key_prefix_equals: xiframe
-    redirect:
-      host_name: opendatakit.org
-      replace_key_with: xlsform
-      http_redirect_code: 301
-  # feed
-  - condition:
-      key_prefix_equals: feed
-    redirect:
-      host_name: opendatakit.org
-      replace_key_with: feed.xml
-      http_redirect_code: 301
+
+# single page redirects. only use with paths that are not in folder redirects.
+redirects:
+  feed/index.html: feed.xml
+  xiframe/index.html: xlsform
