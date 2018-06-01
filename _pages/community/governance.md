@@ -8,7 +8,7 @@ sidebar:
   nav: "community"
 ---
 
-The Open Data Kit (ODK) project is governed by the Project Management Committee (PMC) and the two Technical Steering Committees (TSC 1, TSC 2). The PMC is the ultimate authority over the project. The TSCs are the authority over the technical direction of their respective suites of software: ODK 1 and ODK 2.
+The Open Data Kit (ODK) project is governed by the Project Management Committee (PMC) and the two Technical Steering Committees (TSC 1, TSC 2). The PMC is the ultimate authority over the project while the TSCs have authority over the technical direction of their respective suites of software: ODK 1 and ODK 2.
 
 ## Project Management Committee
 
