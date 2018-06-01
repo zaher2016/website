@@ -18,7 +18,7 @@ We publish current and previous releases of our tools on GitHub in each tool's r
 
 We generally update the tools every month, so stay up to date by [watching](https://forum.opendatakit.org/t/9066) the [releases](https://forum.opendatakit.org/c/releases) category on the ODK forum.
 
-## ODK Collect
+## [ODK Collect](#odk-collect)
 
 Collect runs on most Android devices. Download Collect through the Google Play Store to get the latest updates automatically.
 
@@ -30,7 +30,7 @@ Need to download a specific release? Use GitHub:
 
 [Source Code](https://github.com/opendatakit/collect)
 
-## ODK XLSForm
+## [ODK XLSForm](#odk-xlsform)
 
 XLSForm is available as an online and offline tool. The online version works with modern web browsers and the offline version works on Windows, macOS, and Linux.
 
@@ -44,7 +44,7 @@ Download offline releases on GitHub:
 
 [Source Code for XLSForm Offline](https://github.com/opendatakit/xlsform-offline)
 
-## ODK Build
+## [ODK Build](#odk-build)
 
 Build is available as an online and offline tool. The online version works with modern web browsers and the offline version works on Windows, macOS, and Linux.
 
@@ -56,7 +56,7 @@ Download offline releases on GitHub:
 
 [Source Code](https://github.com/opendatakit/build)
 
-## ODK Aggregate
+## [ODK Aggregate](#odk-aggregate)
 
 Aggregate is available for Windows, macOS, and Linux. There is also a Virtual Machine (VM) that runs on all platforms. 
 
@@ -64,7 +64,7 @@ Aggregate is available for Windows, macOS, and Linux. There is also a Virtual Ma
 
 [Source Code](https://github.com/opendatakit/aggregate)
 
-## ODK Briefcase
+## [ODK Briefcase](#odk-briefcase)
 
 Briefcase is available for Windows, macOS, and Linux.
 
@@ -72,7 +72,7 @@ Briefcase is available for Windows, macOS, and Linux.
 
 [Source Code](https://github.com/opendatakit/briefcase)
 
-## ODK Validate
+## [ODK Validate](#odk-validate)
 
 Validate is available for Windows, macOS, and Linux.
 
@@ -80,7 +80,7 @@ Validate is available for Windows, macOS, and Linux.
 
 [Source Code](https://github.com/opendatakit/validate)
 
-## ODK JavaRosa
+## [ODK JavaRosa](#odk-javarosa)
 
 JavaRosa is a Java library for software developers. Use Maven or Gradle through the Central Repository to get the latest updates automatically.
 
