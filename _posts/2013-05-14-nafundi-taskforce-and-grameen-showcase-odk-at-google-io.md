@@ -5,8 +5,7 @@ date: 2013-05-14T05:00:32+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3757
-categories:
-  - Uncategorized
+
 ---
 [Google I/O](https://developers.google.com/events/io/) is an annual developer conference that showcases the latest from Google&#8217;s product teams and partners. One of the exciting parts of I/O is the Developer Sandbox, where apps based on technologies and products are shown to attendees.
 

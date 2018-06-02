@@ -5,8 +5,7 @@ date: 2014-08-29T16:24:38+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=5660
-categories:
-  - Uncategorized
+
 ---
 There are new v1.4.4 versions of:
 

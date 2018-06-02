@@ -5,8 +5,7 @@ date: 2013-02-09T01:13:37+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3468
-categories:
-  - Uncategorized
+
 ---
 [Group Complete](http://www.groupcomplete.com) by [Radical Dynamic](http://www.radicaldynamic.com/) was an awesome ODK-compatible data collection and aggregation platform for Android devices. It was known for features like seamlessly syncing forms across devices, pre-populating forms with data from Excel files, and flexible user permissions on groups of forms. You could even design forms on one device and push them to other users&#8217; devices! Unfortunately, due to a change in Radical&#8217;s direction, the service was shut down in February 2012. 
 

@@ -5,8 +5,7 @@ date: 2013-04-12T22:57:09+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3687
-categories:
-  - Uncategorized
+
 ---
 The ODK Team is pleased to announce a new release that includes many new exciting features such as the ability to have Collect use an external Bluetooth printer.  This release includes bug fixes and new features for the 1.3 version of the tools as well as an introduction of some of the ODK 2.0 tool set. The goal is to include some of the functionality from 2.0 series in the 1.0 series of tools when practicable.  Here is a summary of the changes:
 

@@ -5,8 +5,7 @@ date: 2017-06-01T15:40:01+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=8414
-categories:
-  - Uncategorized
+
 ---
 ODK Collect 1.7.0 was released to the Play Store this weekend and is now available from the website! We also updated JavaRosa, the form rendering library that Collect is built on and Validate, a tool for verifying ODK XForms.
 

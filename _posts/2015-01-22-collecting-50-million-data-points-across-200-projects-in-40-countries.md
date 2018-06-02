@@ -5,8 +5,7 @@ date: 2015-01-22T12:57:21+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6054
-categories:
-  - Uncategorized
+
 ---
 _Brian Chu is an Associate Program Director with the [Neglected Tropical Diseases Support Center](http://www.ntdsupport.org) (NTD-SC) where he provides managerial, statistical, and technical leadership to multiple operational research projects and monitoring and evaluation efforts. In his guest post on [Nafundi](http://nafundi.com/blog)&#8216;s blog, he explains how Nafundi and ODK helped NTD-SC collect 50 million data points across 200 projects in 40 countries._
 

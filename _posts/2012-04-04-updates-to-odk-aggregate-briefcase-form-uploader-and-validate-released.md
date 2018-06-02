@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2780
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 We&#8217;ve shipped a bunch of new updates to ODK tools this week. If you are using old versions, make sure to upgrade by going [here](/downloads/)!
 

@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1506
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [ViewWorld](http://www.viewworld.dk/) is a small private company with an explicit social profile and a strong partnership with a number of humanitarian organizations. Current uses range from well projects in Cambodia, mobile journalism in Denmark and microfinance in Uganda. 
 

@@ -5,8 +5,7 @@ date: 2014-09-02T17:11:56+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=5748
-categories:
-  - Uncategorized
+
 ---
 A [Getting Started Guide](/use/getting-started-rev122/) walks through using and modifying a form, and highlights many of the capabilities of the 2.0 tools, including bi-directional sync with the server.
 

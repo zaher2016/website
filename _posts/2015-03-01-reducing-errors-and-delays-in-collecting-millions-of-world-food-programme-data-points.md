@@ -5,8 +5,7 @@ date: 2015-03-01T11:10:45+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6361
-categories:
-  - Uncategorized
+
 ---
 _Dennis Kinambuga is a Monitoring and Evaluation Officer with the [African Economic Research Consortium](http://aercafrica.org) (AERC), where he supports the monitoring and evaluation of the World Food Programme&#8217;s Purchase for Progress project in 17 countries. In his guest post on [Nafundi](http://nafundi.com/blog)&#8216;s blog, Dennis explains how Nafundi and ODK has helped AERC collect and analyze more than 3.6 million data points for the Purchase for Progress project._
 

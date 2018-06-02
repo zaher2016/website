@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1576
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 In April 2011, [New York City&#8217;s Department of Health and Mental Hygiene](http://www.nyc.gov/html/doh/html/home/home.shtml) (NYC DOHMH, [@nycHealthy](https://twitter.com/#!/nycHealthy)) partnered with [InSTEDD](http://instedd.org) ([@InSTEDD](https://twitter.com/#!/instedd)) to begin work on a project called ECHO: Electronic Communication for Health Operations. ECHO&#8217;s goal was to help NYC DOHMH improve the ability of their Community Outreach Teams (COT) to gather emergency preparedness and response-related data in the field.
 

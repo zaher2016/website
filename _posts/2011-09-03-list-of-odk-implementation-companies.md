@@ -7,7 +7,6 @@ layout: single
 guid: /?p=1481
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Moved to [Help](/help)

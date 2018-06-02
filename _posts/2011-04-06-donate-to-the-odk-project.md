@@ -7,7 +7,6 @@ layout: single
 guid: /?p=967
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [Open Data Kit](http://opendatakit.org) is an open source software project that is free for anyone to download, use, and adapt. It is also an ongoing research project by the [Change Group](http://change.washington.edu) at the University of Washington. If you would like to support Open Data Kit&#8217;s continued research and development, please consider making a [tax-deductible donation](https://www.washington.edu/giving/make-a-gift?source_typ=3&source=CSEODK).

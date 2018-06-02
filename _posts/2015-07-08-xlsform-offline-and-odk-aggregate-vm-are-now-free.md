@@ -5,8 +5,7 @@ date: 2015-07-08T08:01:52+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6585
-categories:
-  - Uncategorized
+
 ---
 Yesterday, XLSForm Offline was $95 and ODK Aggregate VM was $995. Today, Nafundi has made both XLSForm Offline and ODK Aggregate VM free. Forever!
 

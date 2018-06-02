@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1617
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 A few weeks ago, we wrote about [New York using ODK for health operations.](/2011/09/new-york-city-using-odk-for-health-operations/) Around the same time, we got a note from Andrew Faust of [North Central Wisconsin Regional Planning Commission](http://www.ncwrpc.org). 
 

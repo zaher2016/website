@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2088
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 We are delighted to announce the release of ODK Collect 1.1.7!
 

@@ -5,8 +5,7 @@ date: 2014-07-07T18:20:16+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=5082
-categories:
-  - Uncategorized
+
 ---
 [An agrilinks post](http://agrilinks.org/blog/partnership-open-source-technology-opens-door-improved-survey-data) discusses how ODK can be leveraged for M&E as part of USAID&#8217;s Feed the Future program. 
 

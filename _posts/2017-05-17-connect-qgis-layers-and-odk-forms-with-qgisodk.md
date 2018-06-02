@@ -5,8 +5,7 @@ date: 2017-05-17T09:53:01+00:00
 author: Hélène Martin
 layout: single
 guid: https://opendatakit.org/?p=8356
-categories:
-  - Uncategorized
+
 ---
 Did you know that there is a rich ecosystem of plugins and integrations that work with ODK tools? One example is the QgisODK plugin for the free and open source geographic information system [QGIS](http://qgis.org/).
 

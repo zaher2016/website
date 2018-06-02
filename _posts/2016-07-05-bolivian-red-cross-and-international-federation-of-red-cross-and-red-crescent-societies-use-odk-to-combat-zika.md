@@ -5,8 +5,7 @@ date: 2016-07-05T10:49:44+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=7743
-categories:
-  - Uncategorized
+
 ---
 From the International Federation of Red Cross and Red Crescent Societies [post](http://nternational Federation of Red Cross and Red Crescent Societies):
 

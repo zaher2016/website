@@ -5,8 +5,7 @@ date: 2013-04-22T17:56:30+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3714
-categories:
-  - Uncategorized
+
 ---
 At [Nafundi](http://nafundi.com), we have made a commitment to improving ODK Collect, and for this new v1.3 release, we are excited to add features that make data collection easier for users. These features include auto sending of finalized forms, forward/backward buttons for navigation, and bulk configuration of devices.
 

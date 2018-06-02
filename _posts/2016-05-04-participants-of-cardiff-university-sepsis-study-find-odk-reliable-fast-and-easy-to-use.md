@@ -5,8 +5,7 @@ date: 2016-05-04T00:05:40+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=7261
-categories:
-  - Uncategorized
+
 ---
 In a study published in the Journal of the American Medical Informatics Association, researchers at Cardiff University have successfully used Open Data Kit to measure the prevalence of sepsis in Wales over 24 hours. 
 

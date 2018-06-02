@@ -5,8 +5,7 @@ date: 2015-10-01T21:25:49+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=6725
-categories:
-  - Uncategorized
+
 ---
 I&#8217;m excited to announce the launch of the ODK Discussion Series! The goal of the discussion series is to explore the many and varied uses of ODK around the world, as well as to celebrate the contribution of [Gaetano Borriello](https://news.cs.washington.edu/2015/02/01/remembering-gaetano-borriello/), the visionary behind the ODK project, who passed away earlier this year, far too young.
 

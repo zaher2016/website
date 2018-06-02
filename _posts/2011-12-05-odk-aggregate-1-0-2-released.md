@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2127
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Fresh on the heels of the [ODK Collect 1.1.7](/2011/12/odk-collect-1-1-7-released/) release, comes the ODK Aggregate 1.0.2 release!
 

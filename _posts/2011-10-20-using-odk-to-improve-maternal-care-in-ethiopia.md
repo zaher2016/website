@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1685
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 > [Digital Campus](http://digital-campus.org) is a not for profit company specializing in technology development in emerging countries. For several years, they have been working with Mekelle University (Ethiopia) and are supporting a PhD programme in public health in conjunction with Alcalá University (Spain) and Maastricht University (Netherlands). One of their projects is researching ways in which mobile technologies can help to improve maternal and child health care in rural areas of Ethiopia.
 > 

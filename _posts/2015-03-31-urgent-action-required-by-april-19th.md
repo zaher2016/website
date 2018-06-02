@@ -5,8 +5,7 @@ date: 2015-03-31T17:57:15+00:00
 author: Mitchell Sundt
 layout: single
 guid: https://opendatakit.org/?p=6412
-categories:
-  - Uncategorized
+
 ---
 **<font style="Tahoma" color="#336699">&#8220;Sign in with Google&#8221;</font>** for ODK Aggregate will cease to function beginning April 20th.
 

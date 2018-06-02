@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1171
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 We&#8217;ve opened up a web-enabled chatroom for the ODK community. 
 

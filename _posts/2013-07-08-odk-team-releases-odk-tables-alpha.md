@@ -5,8 +5,7 @@ date: 2013-07-08T16:19:31+00:00
 author: Sam Sudar
 layout: single
 guid: /?p=3915
-categories:
-  - Uncategorized
+
 ---
 The ODK Team is pleased to announce the **alpha** release of ODK Tables.
 

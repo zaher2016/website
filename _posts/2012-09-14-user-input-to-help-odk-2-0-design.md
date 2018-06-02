@@ -7,8 +7,7 @@ layout: single
 guid: /?p=3108
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 The ODK core team is currently in the process of creating a new version of the ODK tool set (often referred to as 2.0). To make informed design decisions, the ODK team would like to gather some information about how the current tools are being used to enable future design decisions to better reflect our customers actual use cases and needs.
 

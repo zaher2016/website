@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1153
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 We just posted ODK Collect 1.1.7 Beta 2 to the website. Thank you so much for all your bug reports so far!
 

@@ -5,8 +5,7 @@ date: 2013-01-14T05:08:57+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3320
-categories:
-  - Uncategorized
+
 ---
 We are excited to announce that ODK Build now has support for metadata prompts, outputs in captions, and calculates on prompts! As explained below, these features enable users to build higher quality forms. 
 

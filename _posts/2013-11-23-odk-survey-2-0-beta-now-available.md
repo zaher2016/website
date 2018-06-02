@@ -5,8 +5,7 @@ date: 2013-11-23T16:15:21+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=4188
-categories:
-  - Uncategorized
+
 ---
 The BETA for ODK Survey is now available. <font color="red">This is a BETA release.<br /> It is not intended for production use.</font> 
 

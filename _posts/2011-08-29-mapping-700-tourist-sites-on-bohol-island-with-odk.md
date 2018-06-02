@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1443
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 According to [YugaTech](http://www.yugatech.com/blog/the-internet/dti-maps-entire-bohol-tourist-site-with-galaxy-tabs), Philippine&#8217;s Department of Trade and Industry (DTI-GIZ), under the [Private Sector Promotion Program](http://www.smedsep.ph/) (SMEDSEP) has mapped over 700 tourist sites on [Bohol](http://en.wikipedia.org/wiki/Bohol) island.
 

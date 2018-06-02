@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1256
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [Maryann Cairns](http://anthropology.usf.edu/graduate/Cairns/) is a doctoral student in Applied Anthropology at University of South Florida. As part of an NSF-funded research grant she had the opportunity to travel to Bolivia to complete data collection for her &#8220;Community Perceptions and Community Impact: An Assessment of Water Systems in Rural Bolivia&#8221; project. 
 

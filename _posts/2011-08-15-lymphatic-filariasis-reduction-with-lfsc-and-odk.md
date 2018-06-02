@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1391
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 The [Lymphatic Filariasis Support Center](http://www.filariasis.us/) (LFSC) at the [Task Force for Global Health](http://www.taskforce.org/) serves as the recipient and coordinator of the Bill & Melinda Gates Foundation grant entitled “Resolving the Critical Challenges Now Facing the Global Programme to Eliminate Lymphatic Filariasis” on behalf of the Global Alliance to Eliminate LF (GAELF). The LFSC provides technical expertise and collaborates closely with partners involved in the global elimination of LF, a principal cause of disability found in 80 countries and territories with more than one billion people at risk of infection.
 

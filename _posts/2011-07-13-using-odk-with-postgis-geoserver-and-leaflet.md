@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1237
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [Bryan McBride](http://bryanmcbride.com/) is a certified GIS professional based out of New York’s Tech Valley, with a particular interest in open source GIS, web mapping, and application development. 
 

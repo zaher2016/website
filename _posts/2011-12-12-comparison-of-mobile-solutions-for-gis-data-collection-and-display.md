@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2106
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Doug Browning has written a paper titled &#8220;[Comparing Mobile Solutions for GIS Data Collection and Display](https://sites.google.com/site/dougbrowningportfolio/Resources/mobile-gis)&#8220;. In it, he compares EpiCollect, Open Data Kit, ArcGIS Mobile, and a variety of custom data collection applications. 
 

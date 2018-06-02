@@ -5,8 +5,7 @@ date: 2015-04-07T10:00:26+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=6384
-categories:
-  - Uncategorized
+
 ---
 Hutan Aceh is the endangered home of tigers, elephants, orangutans and rhinos. [EIA International](http://eia-international.org) and local activists from Koalisi Peduli Hutan Aceh (KPHA) protect this home by documenting forest crimes with Open Data Kit. The geo-tagged forms, rich with photos, provide the evidence needed to save habitat.
 

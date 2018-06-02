@@ -7,8 +7,7 @@ layout: single
 guid: /?p=3084
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 ODK Collect 1.2.1 has been released. Upgrades are available on the <a href="/downloads/download-category/collect/>ODK Collect APK Download</a> page and from Google Play. Collect 1.2.1 is backward compatible with ODK Collect 1.2 and requires no special care when upgrading from 1.2.
 

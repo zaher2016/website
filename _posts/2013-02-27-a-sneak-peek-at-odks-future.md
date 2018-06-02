@@ -5,8 +5,7 @@ date: 2013-02-27T16:40:52+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3564
-categories:
-  - Uncategorized
+
 ---
 If you are interested in the future of Open Data Kit, read this [technical paper](http://www.hotmobile.org/2013/papers/full/2.pdf) describing the design and direction of ODK 2.0 that was presented at <a href="http://www.hotmobile.org/2013/" title="HotMobile" target="_blank">HotMobile 2013.</a> 
 

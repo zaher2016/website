@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2712
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Not just the name has changed, we now share a updated syntax with [Formhub](https://formhub.org/).
 

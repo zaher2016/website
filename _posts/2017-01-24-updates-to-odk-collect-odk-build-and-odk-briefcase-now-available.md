@@ -5,8 +5,7 @@ date: 2017-01-24T00:52:45+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=8173
-categories:
-  - Uncategorized
+
 ---
 Continuing with our ✨ community-powered ✨ monthly release cycle, new versions of ODK Collect, ODK Build, and ODK Briefcase are now available!
 

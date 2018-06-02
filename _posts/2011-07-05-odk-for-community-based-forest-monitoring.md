@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1188
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 As noted on the Google.org blog post titled &#8220;[Getting Data From the Ground To the Cloud](http://blog.google.org/2011/06/getting-data-from-ground-to-cloud.html)&#8220;, Google recently hosted the first gathering of the Community Forest Monitoring Working Group. The goals of the working group are to provide a platform for groups engaged in community forest monitoring activities to share knowledge and experience. 
 

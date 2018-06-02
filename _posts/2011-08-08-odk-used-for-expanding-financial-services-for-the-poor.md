@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1373
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Peter Fleming from [Bankable Frontier Associates](http://www.bankablefrontier.com/) is using ODK to conduct surveys that support their clients in their efforts to expand financial services to the poor.
 

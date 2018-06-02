@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2930
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 The [Surui Forest Carbon Project](http://translate.google.com/translate?sl=pt&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.equipe.org.br%2Fnoticia.php%3Fid%3D212&act=url) uses Open Data Kit to collect data about the forest for the carbon market. A recent blog post on Google’s Green Blog discusses how the Surui tribe is using ODK and Google Earth to help protect the Brazilian Amazon rainforest.
 

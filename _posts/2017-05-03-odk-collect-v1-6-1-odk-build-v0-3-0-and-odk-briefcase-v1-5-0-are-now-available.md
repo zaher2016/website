@@ -5,8 +5,7 @@ date: 2017-05-03T14:14:58+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=8331
-categories:
-  - Uncategorized
+
 ---
 April&#8217;s updates to Collect, Build, and Briefcase are now available, and if you care about offline data collection at scale, there is a lot to be excited about!
 

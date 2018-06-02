@@ -5,8 +5,7 @@ date: 2017-03-24T14:15:55+00:00
 author: Richard Anderson
 layout: single
 guid: https://opendatakit.org/?p=8289
-categories:
-  - Uncategorized
+
 ---
 Dear Open Data Kit Community
 

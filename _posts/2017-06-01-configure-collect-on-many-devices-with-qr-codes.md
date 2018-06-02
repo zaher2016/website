@@ -5,8 +5,7 @@ date: 2017-06-01T15:11:15+00:00
 author: Hélène Martin
 layout: single
 guid: https://opendatakit.org/?p=8402
-categories:
-  - Uncategorized
+
 ---
 One major challenge faced by organizations that use Open Data Kit at scale is configuring Collect across many devices.
 

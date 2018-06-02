@@ -5,8 +5,7 @@ date: 2015-03-13T12:32:51+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6395
-categories:
-  - Uncategorized
+
 ---
 Over the years the ODK team has received numerous feature requests for integration between ODK tools and Salesforce.com. Fortunately, the team at Open[fn] has recently created a tool to make it easier for organizations to move data between different software platforms. While the Open[fn] platform is young it is launching with integrated ODK, SurveyCTO (company using ODK core technology), and Salesforce.com support.
 

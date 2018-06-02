@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1639
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 In July through September of 2011, the [Africa Soil Information Service](http://africasoils.net/) (AfSIS) ICT4Ag team conducted a socioeconomic survey in an area west of Arusha, Tanzania using Open Data Kit. This [video](https://www.youtube.com/watch?v=afrxy8rIn2M) highlights the experience of two enumerators who worked on the project.
 

@@ -5,8 +5,7 @@ date: 2015-03-26T10:00:38+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6380
-categories:
-  - Uncategorized
+
 ---
 _Shantanu Singh is the founder of [Vacant Voices](http://vacantvoices.com), an organization committed to solving the problem of abandoned homes in America&#8217;s neighborhoods. In this guest post on [Nafundi](http://nafundi.com/blog)&#8216;s blog, Shantanu explains how Vacant Voices uses ODK to collect and deliver crowd-sourced neighborhood data to community organizations who can make a difference. The full blog post is available [here](http://nafundi.com/blog/posts/finding-and-fixing-vacant-properties-through-crowdsourced-data-collection/).
   

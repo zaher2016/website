@@ -5,8 +5,7 @@ date: 2017-04-12T15:01:52+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=8316
-categories:
-  - Uncategorized
+
 ---
 The ODK team is conducting an [online survey](https://catalyst.uw.edu/webq/survey/wbrunett/329781) to solicit feedback from the community about Open Data Kit’s future management structure once it is transitioned from the University of Washington’s Department of Computer Science and Engineering (UW-CSE) in the fall 2017. An update about the transition can be found [here](https://opendatakit.org/2017/03/update-on-open-data-kit-transition/).
 

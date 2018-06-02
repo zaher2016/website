@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1383
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 David Pablo Cohn is a friend of the ODK team, a long time Google employee, and an all around nice guy. He just sent out an urgent call to our mailing list for help with an ODK deployment.
 

@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2729
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Jessica Vernon from [Innovations for Poverty Action (IPA)](http://www.poverty-action.org/) wrote in to <contact@opendatakit.org> and shared a blog post highlighting the improvement in their safe water systems that have come from using ODK.
 

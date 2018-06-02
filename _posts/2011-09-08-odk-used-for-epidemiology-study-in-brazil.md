@@ -7,8 +7,7 @@ layout: single
 guid: /?p=735
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Maria Emília Midori Hirami is an engineering student at USP (University of São Paulo &#8211; Brazil) and she&#8217;s working on a project of epidemiological studies headed by professors from POLI and FMUSP (USP&#8217;s engineering and medicine schools respectively). The project uses Open Data Kit as one of its key tools.
 

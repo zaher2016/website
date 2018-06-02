@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2043
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [HealthUnbound](http://healthunbound.org/top11_vote) has nominated 30 individuals who have contributed innovations to the mHealth field. Of the 30 nominees, 4 have some ODK affiliation. Below are the projects and a short description about their connections to Open Data Kit.
 

@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1475
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [The Globally Integrated Africa Soil Information Service](http://africasoils.net/) (AfSIS) is a large-scale, research-based project that is building on recent advances in digital soil mapping, infrared spectroscopy, remote sensing, statistics, integrated soil fertility management, and information and communication technologies.
 

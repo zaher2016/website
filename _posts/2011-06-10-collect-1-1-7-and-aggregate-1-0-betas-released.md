@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1145
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 I&#8217;m happy to announce that we&#8217;ve just released the betas of ODK Collect 1.1.7 and Aggregate 1.0 today! We&#8217;re still in the process of adding some features and cleaning things up a bit, but we wanted to get it out so you could begin testing the new functionality. There are some known bugs, so we&#8217;ll be updating the betas frequently and working to fix those before the final release. 
 

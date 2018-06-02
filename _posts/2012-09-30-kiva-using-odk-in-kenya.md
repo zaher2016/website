@@ -7,8 +7,7 @@ layout: single
 guid: /?p=3114
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 A recent Kiva blog post entitled &#8220;[Technology in the Field: the Future of Microfinance](http://www.kiva.org/updates/fellows/2012/09/12/technology-in-the-field-the-future-of-microfinance)&#8221; discusses their use of Open Data Kit:
 
