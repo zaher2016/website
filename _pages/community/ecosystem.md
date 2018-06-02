@@ -1,6 +1,5 @@
 ---
 title: Ecosystem
-date: 2018-03-23T00:00:00+00:00
 author_profile: false
 layout: single
 permalink: /community/ecosystem/
@@ -8,16 +7,20 @@ sidebar:
   nav: "community"
 ---
 
-There exists a broad community of organizations that contribute to or deploy core ODK tools and develop some of their own compatible tools that can be mixed and matched. This ecosystem means that organizations can use the tools that best suit their needs for any given project and do not need to worry about vendor lock-in.
+An important goal of the Open Data Kit community is to enable users to select suitable components from an ecosystem of complementary tools. A thriving ecosystem means that organizations can use the tools that best suit their needs without worrying about vendor lock-in.
 
-The main components that make tools in the ecosystem compatible are the [XForms form specification](https://opendatakit.github.io/xforms-spec/) and the [OpenRosa standards](https://docs.opendatakit.org/openrosa/). Ecosystem members collaborate on these shared components.
+## ODK 1
+The ODK 1 tools include Collect, Aggregate, XLSForm, Build, and Briefcase. The shared components that enable ODK 1 core tools to be compatible with a broad ecosystem are:
+* [ODK XForms](https://opendatakit.github.io/xforms-spec/), a low-level form specification based on XForms
+* [XLSForm](http://xlsform.org), a high-level Excel-based form specification
+* [OpenRosa APIs](https://docs.opendatakit.org/openrosa/), APIs for how ODK 1 clients talk to ODK 1 servers
+* [ODK JavaRosa](https://github.com/opendatakit/javarosa), a Java library that processes ODK XForms
+* [pyxform](https://github.com/xlsform/pyxform), a Python library that converts XLSForms into ODK XForms
 
-## Ecosystem tools
-* [ELMO](http://getelmo.org/), hosted server solution originally designed for election monitoring
-* [Enketo](https://enketo.org), web application for filling forms
-* [GeoODK](http://geoodk.com/), derived tools with additional geo capabilities
-* [Kobo](http://www.kobotoolbox.org/), hosted server with graphical form builder
+The ecosystem members who openly collaborate to grow this ecosystem are:
+* [ELMO](http://getelmo.org), hosted server originally designed for election monitoring
+* [Enketo](https://enketo.org), web application for filling forms in the browser
+* [Kobo Toolbox](http://www.kobotoolbox.org), hosted server with graphical form builder
 * [Medic Mobile](https://medicmobile.org), hosted server for frontline medical care
 * [Ona](https://ona.io), hosted server with graphical form builder
-* [SMAP](https://www.smap.com.au/), hosted server with tasking
-* [XLSform and pyxform](http://xlsform.org/), Excel-based form design specification maintained by ecosystem members
+* [SMAP](https://www.smap.com.au), hosted server with tasking
