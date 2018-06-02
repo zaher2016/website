@@ -8,7 +8,7 @@ sidebar:
   nav: "community"
 ---
 
-The Open Data Kit (ODK) project is governed by the Project Management Committee (PMC) and the two Technical Steering Committees (TSC 1, TSC 2). The PMC is the ultimate authority over the project while the TSCs have authority over the technical direction of their respective suites of software: ODK 1 and ODK 2.
+The Open Data Kit (ODK) project is governed by the Project Management Committee (PMC) and the two Technical Steering Committees (ODK 1 TSC, ODK 2 TSC). The PMC is the ultimate authority over the project while the TSCs have authority over the technical direction of their respective suites of software: ODK 1 and ODK 2.
 
 ## Project Management Committee
 
@@ -25,7 +25,7 @@ See [PMC Governance](https://github.com/opendatakit/governance/blob/master/GOVER
 
 ## Technical Steering Committees
 
-The Technical Steering Committees (TSC 1, TSC 2) are responsible for high-level technical direction of their suite. Each TSC has authority over all technical aspects of their suite including:
+The Technical Steering Committees (ODK 1 TSC, ODK 2 TSC) are responsible for high-level technical direction of their suite. Each TSC has authority over all technical aspects of their suite including:
 
 * Suite roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.).
 * Forming appropriate Working Groups (e.g., User Feedback, Documentation, Translation) to gather the necessary community feedback before making decisions.
@@ -37,7 +37,9 @@ See [TSC Governance](https://github.com/opendatakit/governance/blob/master/TECHN
 
 ### Current ODK 1 TSC
 
-The ODK 1 TSC manages ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK JavaRosa, and the ODK XForms specification.
+The ODK 1 TSC is responsible for ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK JavaRosa, and the ODK XForms specification.
+
+The ODK 1 TSC meets every two weeks to discuss the [ODK 1 Roadmap](https://github.com/opendatakit/roadmap/projects/1).
 
 | [<img src="/assets/images/odk1/tsc/shobhit-agarwal.jpeg" width="200px;"/><br /><b>Shobhit Agarwal</b>](https://github.com/shobhitagarwal1612)<br />[Tonbo Imaging](http://www.tonboimaging.com/) | [<img src="/assets/images/odk1/tsc/alex-anderson.jpg" width="200px;"/><br /><b>Alex Anderson</b>](https://github.com/alxndrsn)<br />[Medic Mobile](https://medicmobile.org/) | [<img src="/assets/images/odk1/tsc/yaw-anokwa.jpg" width="200px;"/><br /><b>Yaw Anokwa</b>](http://anokwa.com/)<br />[Nafundi](http://nafundi.com/) |
 
@@ -47,6 +49,6 @@ The ODK 1 TSC manages ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Br
 
 ### Current ODK 2 TSC
 
-The ODK 2 TSC manages ODK Application Designer, ODK Services, ODK Survey, ODK Cloud Endpoints, ODK Suitcase, ODK Tables, and ODK Scan.
+The ODK 2 TSC is responsible for ODK Application Designer, ODK Services, ODK Survey, ODK Cloud Endpoints, ODK Suitcase, ODK Tables, and ODK Scan.
 
 _Note: The ODK 2 TSC has not yet been formed. The University of Washington is currently the technical steward of ODK 2._
