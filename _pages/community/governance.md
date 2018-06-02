@@ -1,6 +1,5 @@
 ---
 title: Governance
-date: 2018-03-01T00:00:00+00:00
 author_profile: false
 layout: single
 permalink: /community/governance/
@@ -8,28 +7,34 @@ sidebar:
   nav: "community"
 ---
 
-For more information about ODK community governance, please see [https://github.com/opendatakit/governance](https://github.com/opendatakit/governance).
+The Open Data Kit (ODK) project is governed by the Project Management Committee (PMC) and the two Technical Steering Committees (ODK 1 TSC, ODK 2 TSC). The PMC is the ultimate authority over the project while the TSCs have authority over the technical direction of their respective suites of software: ODK 1 and ODK 2.
 
-## Governance Overview
+## Project Management Committee
 
-The Open Data Kit (ODK) project is governed by multiple governing committees. There are two categories of governing bodies, the Project Management Committee (PMC) and the Technical Steering Committees (TSC). The PMC is the ultimate authority over the project. The TSC is the authority over the technical direction of the project’s suite.
+The project management committee consists of individuals identified as "project owners". The PMC responsibilities are to ensure the smooth running of the project. PMC members are expected to participate in strategic planning and approve changes to the governance model.
 
-_Note: As ODK transitions out of the University of Washington, the current PMC’s authority will be transferred to a Transition Board. Once the transition is finished, the authority will transfer to a more permanent governance body (likely another PMC). The TSC will remain active throughout the transition process and post-transition._
+See [PMC Governance](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md) for more.
 
-## Technical Steering Committee
+### [ODK PMC](#odk-pmc)
 
-The Technical Steering Committee (TSC) is responsible for high-level technical direction of their  suite. The TSC has authority over all technical aspects including:
+| [<img src="/assets/images/pmc/richard-anderson.jpg" width="200px;"/><br /><b>Richard Anderson</b>](https://www.cs.washington.edu/people/faculty/anderson)<br />[UW-CSE](https://www.cs.washington.edu/) | [<img src="/assets/images/pmc/yaw-anokwa.jpg" width="200px;"/><br /><b>Yaw Anokwa</b>](https://github.com/yanokwa)<br />[Nafundi](http://nafundi.com/) | [<img src="/assets/images/pmc/waylon-brunette.jpg" width="200px;"/><br /><b>Waylon Brunette</b>](https://github.com/wbrunette)<br />[UW-CSE](https://www.cs.washington.edu/)| [<img src="/assets/images/pmc/carl-hartung.jpg" width="200px;"/><br /><b>Carl Hartung</b>](https://github.com/chartung)<br />[Libro.fm](http://libro.fm) |
+
+## Technical Steering Committees
+
+The Technical Steering Committees (ODK 1 TSC, ODK 2 TSC) are responsible for high-level technical direction of their suite. Each TSC has authority over all technical aspects of their suite including:
 
 * Suite roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.).
 * Forming appropriate Working Groups (e.g., User Feedback, Documentation, Translation) to gather the necessary community feedback before making decisions.
 * Technical resources (e.g., code repositories, servers)
 * Maintaining the list of Committers
 
-Wherever possible, the TSCs should choose shared policies and infrastructure which allow for consistent process, but administrative separation across suites. In the case where the TSCs cannot reach consensus on policies and infrastructure, the final decision will be made by a majority vote by the PMC.
+See [TSC Governance](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) for more.
 
-Although the TSC may update the TSC governance (e.g. [this document](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md)) as it finds appropriate, revisions are subject to PMC review and veto, as ultimate authority over governing the ODK project rests with the PMC. Any update to the TSC governing document must be approved by the majority of the PMC. It is expected that the TSC will have a collaborative relationship (perhaps some overlap in membership) with the PMC.
+### [ODK 1 TSC](#odk1-tsc)
 
-### Current Technical Steering Committee
+The ODK 1 TSC is responsible for ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK JavaRosa, and the ODK XForms specification.
+
+The ODK 1 TSC meets every two weeks to discuss the [ODK 1 Roadmap](https://github.com/opendatakit/roadmap/projects/1).
 
 | [<img src="/assets/images/odk1/tsc/shobhit-agarwal.jpeg" width="200px;"/><br /><b>Shobhit Agarwal</b>](https://github.com/shobhitagarwal1612)<br />[Tonbo Imaging](http://www.tonboimaging.com/) | [<img src="/assets/images/odk1/tsc/alex-anderson.jpg" width="200px;"/><br /><b>Alex Anderson</b>](https://github.com/alxndrsn)<br />[Medic Mobile](https://medicmobile.org/) | [<img src="/assets/images/odk1/tsc/yaw-anokwa.jpg" width="200px;"/><br /><b>Yaw Anokwa</b>](http://anokwa.com/)<br />[Nafundi](http://nafundi.com/) |
 
@@ -37,4 +42,8 @@ Although the TSC may update the TSC governance (e.g. [this document](https://git
 
 | [<img src="/assets/images/odk1/tsc/helene-martin.jpg" width="200px;"/><br /><b>Hélène Martin</b>](https://twitter.com/purplespatula)<br />[Nafundi](http://nafundi.com) | [<img src="/assets/images/odk1/tsc/tom-smyth.png" width="200px;"/><br /><b>Tom Smyth</b>](https://github.com/frigginglorious)<br />[Sassafras](https://sassafras.coop/) | [<img src="/assets/images/odk1/tsc/dickson-ukanga.jpg" width="200px;"/><br /><b>Dickson Ukanga</b>](https://github.com/ukanga)<br />[Ona](https://ona.io/home/) |
 
+### [ODK 2 TSC](#odk2-tsc)
 
+The ODK 2 TSC is responsible for ODK Application Designer, ODK Services, ODK Survey, ODK Cloud Endpoints, ODK Suitcase, ODK Tables, and ODK Scan.
+
+_Note: The ODK 2 TSC has not yet been formed. The University of Washington is currently the technical steward of ODK 2._
