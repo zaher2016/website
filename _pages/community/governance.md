@@ -18,8 +18,7 @@ _Note: As ODK transitions out of the University of Washington, the current PMC�
 
 See [PMC Governance](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md) for more.
 
-
-### Current ODK PMC
+### [ODK PMC](#odk-pmc)
 
 | [<img src="/assets/images/pmc/richard-anderson.jpg" width="200px;"/><br /><b>Richard Anderson</b>](https://www.cs.washington.edu/people/faculty/anderson)<br />[UW-CSE](https://www.cs.washington.edu/) | [<img src="/assets/images/pmc/yaw-anokwa.jpg" width="200px;"/><br /><b>Yaw Anokwa</b>](https://github.com/yanokwa)<br />[Nafundi](http://nafundi.com/) | [<img src="/assets/images/pmc/waylon-brunette.jpg" width="200px;"/><br /><b>Waylon Brunette</b>](https://github.com/wbrunette)<br />[UW-CSE](https://www.cs.washington.edu/)| [<img src="/assets/images/pmc/carl-hartung.jpg" width="200px;"/><br /><b>Carl Hartung</b>](https://github.com/chartung)<br />[Libro.fm](http://libro.fm) |
 
@@ -34,8 +33,7 @@ The Technical Steering Committees (ODK 1 TSC, ODK 2 TSC) are responsible for hig
 
 See [TSC Governance](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) for more.
 
-
-### Current ODK 1 TSC
+### [ODK 1 TSC](#odk1-tsc)
 
 The ODK 1 TSC is responsible for ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK JavaRosa, and the ODK XForms specification.
 
@@ -47,7 +45,7 @@ The ODK 1 TSC meets every two weeks to discuss the [ODK 1 Roadmap](https://githu
 
 | [<img src="/assets/images/odk1/tsc/helene-martin.jpg" width="200px;"/><br /><b>Hélène Martin</b>](https://twitter.com/purplespatula)<br />[Nafundi](http://nafundi.com) | [<img src="/assets/images/odk1/tsc/tom-smyth.png" width="200px;"/><br /><b>Tom Smyth</b>](https://github.com/frigginglorious)<br />[Sassafras](https://sassafras.coop/) | [<img src="/assets/images/odk1/tsc/dickson-ukanga.jpg" width="200px;"/><br /><b>Dickson Ukanga</b>](https://github.com/ukanga)<br />[Ona](https://ona.io/home/) |
 
-### Current ODK 2 TSC
+### [ODK 2 TSC](#odk2-tsc)
 
 The ODK 2 TSC is responsible for ODK Application Designer, ODK Services, ODK Survey, ODK Cloud Endpoints, ODK Suitcase, ODK Tables, and ODK Scan.
 
