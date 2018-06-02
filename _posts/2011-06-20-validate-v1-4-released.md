@@ -7,7 +7,6 @@ layout: single
 guid: /?p=1159
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 We&#8217;ve just released a new version of ODK Validate. Validate v1.4 now catches a lot more form design errors. Download it at [here](/downloads/).

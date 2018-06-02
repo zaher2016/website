@@ -7,8 +7,7 @@ layout: single
 guid: /?p=703
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 We just received a note from David Hinkle, Director of [Afghanistan Infrastructure Data Center](http://www.aidc.af/aidc/) (AIDC) that we wanted to share. AIDC tracks and reports on civilian and military donor infrastructure projects in order to provide USAID and the supported Islamic Republic of Afghanistan (IRoA) ministries with a comprehensive and accurate picture of infrastructure development and related security incidents.
 

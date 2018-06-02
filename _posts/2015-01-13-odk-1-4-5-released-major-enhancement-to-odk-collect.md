@@ -5,8 +5,7 @@ date: 2015-01-13T15:01:21+00:00
 author: Mitchell Sundt
 layout: single
 guid: https://opendatakit.org/?p=6014
-categories:
-  - Uncategorized
+
 ---
 There are new v1.4.5 versions available on the downloads page <a title="Downloads Page" href="https://opendatakit.org/downloads/" target="_blank">https://opendatakit.org/downloads/</a>
 

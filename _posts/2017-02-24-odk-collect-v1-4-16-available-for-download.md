@@ -5,8 +5,7 @@ date: 2017-02-24T08:57:57+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=8259
-categories:
-  - Uncategorized
+
 ---
 Over the last month, we&#8217;ve been focusing on fixing long-standing crashes in ODK Collect and the result of that work is today&#8217;s release. And if that sounds boring, don&#8217;t worry, we managed to squeeze in a few new features too!
 

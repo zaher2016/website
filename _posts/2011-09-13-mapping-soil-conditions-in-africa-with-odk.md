@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1475
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [The Globally Integrated Africa Soil Information Service](http://africasoils.net/) (AfSIS) is a large-scale, research-based project that is building on recent advances in digital soil mapping, infrared spectroscopy, remote sensing, statistics, integrated soil fertility management, and information and communication technologies.
 
@@ -24,4 +23,4 @@ In the medium term, AfSIS will be developing a short and focused, broadly-applic
 
 AfSIS will be documenting its progress [here](http://africasoils.net/labs/ict4ag/) and they have [lots of photos](https://beta.africasoils.net/labs/wordpress/images-from-the-field/field-testing-in-kisongo-2/) online. 
 
-Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto://contact@opendatakit.org).
+Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).

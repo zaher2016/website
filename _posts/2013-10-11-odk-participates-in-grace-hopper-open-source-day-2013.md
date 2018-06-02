@@ -5,8 +5,7 @@ date: 2013-10-11T13:50:42+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=4110
-categories:
-  - Uncategorized
+
 ---
 Three members of the ODK team Waylon Brunette, Nicola Dell, and Morgan Vigil led a open source session on Oct 5th at [Grace Hopper Open Source Day](http://gracehopper.org/2013/conference/grace-hopper-open-source-day/ "Grace Hopper Open Source Day") in Minneapolis, MN, USA. 
 

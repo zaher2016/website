@@ -5,8 +5,7 @@ date: 2014-05-27T17:56:51+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=5018
-categories:
-  - Uncategorized
+
 ---
 Megan J. Miller from [AMPATH](http://www.ampathkenya.org) wrote in to highlight an incredible milestone. AMPATH&#8217;s ODK-powered home-based HIV/AIDS counseling and testing program in Western Kenya has reached over a million people.
 

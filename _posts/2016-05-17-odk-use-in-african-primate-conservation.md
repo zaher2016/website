@@ -5,8 +5,7 @@ date: 2016-05-17T07:30:13+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=7268
-categories:
-  - Uncategorized
+
 ---
 _Kourtney Stumpe is a volunteer with Children of Conservation and an environment science major at Georgia State University. She learned ODK so that she could develop forms that would be beneficial to the Pan-African Sanctuary Alliance (PASA). In this guest post, Kourtney describes her work deploying ODK at six PASA affiliated organizations in Kenya, Uganda, Zambia, Malawi, and South Africa._
 

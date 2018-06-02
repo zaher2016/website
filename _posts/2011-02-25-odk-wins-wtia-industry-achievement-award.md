@@ -7,8 +7,7 @@ layout: single
 guid: /?p=721
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 ![](/assets/wp-content/uploads/2011/03/wtia-ceremony.jpg)
 

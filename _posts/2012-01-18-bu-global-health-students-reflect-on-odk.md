@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2125
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [Christopher Gill](http://sph.bu.edu/index.php?option=com_sphdir&id=239&Itemid=617263&INDEX=10453) is an Associate Professor of International Health at Boston University (BU). After experiencing a year delay between when a study ended and when he got data, Chris started looking for a easy, free, and user-friendly program to collect study data. 
 

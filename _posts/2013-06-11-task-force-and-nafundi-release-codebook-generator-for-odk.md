@@ -5,8 +5,7 @@ date: 2013-06-11T08:00:24+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3848
-categories:
-  - Uncategorized
+
 ---
 [LINKS](http://linkssystem.org) is an ODK-based data collection, reporting, and management system created by the [The Task Force for Global Health](http://taskforce.org). As part of their work, the LINKS team provides their users with a finalized dataset and a codebook that explains that dataset. Generating a codebook can be tedious work, so the LINKS team hired the consultants at [Nafundi](http://nafundi.com) to automate the process. 
 

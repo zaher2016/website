@@ -5,8 +5,7 @@ date: 2013-02-04T20:05:32+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3425
-categories:
-  - Uncategorized
+
 ---
 As you might already know, ODK Aggregate allows users to download blank forms and upload completed forms. Aggregate also enables users to visualize, export and publish form data.
 

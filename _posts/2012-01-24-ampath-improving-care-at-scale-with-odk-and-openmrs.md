@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2283
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [AMPATH](http://ampathkenya.com) is the one of the largest HIV treatment programs in sub-Saharan Africa and is Kenya&#8217;s most comprehensive initiative to combat the virus. The program&#8217;s catchment area has over 2 million people and provides care to more than 130,000 HIV-positive patients across 55 urban and rural clinics. To provide care at this scale, AMPATH has invested in tools like [OpenMRS](http://openmrs.org) (an open source medical record system) and Open Data Kit, to help improve the efficiency and impact of their health providers. 
 

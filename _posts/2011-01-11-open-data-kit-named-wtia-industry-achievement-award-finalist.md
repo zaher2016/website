@@ -7,8 +7,7 @@ layout: single
 guid: /?p=669
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Open Data Kit has been named a finalist for the Best use of Technology in Government, Non-Profit, or Education as part of the Washington Technology Association ([WTIA](http://www.washingtontechnology.org/))’s 16th annual Industry Achievement Awards ([IAA](http://www.washingtontechnology.org/IAA)). The awards recognize Washington State companies, organizations and individuals who best demonstrate technology and service innovation and excellence. 
 

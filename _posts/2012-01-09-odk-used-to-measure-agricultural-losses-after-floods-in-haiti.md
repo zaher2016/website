@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2186
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Reporting for [Haiti Regeneration Initiative](http://haitiregeneration.org/node/993) (HRI), Kate Kennedy Freeman writes, &#8220;_The [Côte Sud Initiative](http://haitiregeneration.org/csi_intro_wsubs) (CSI) has launched a new program as part of its agricultural support sector. The [Earth Institute](http://earth.columbia.edu) (EI) at Columbia University is working with the [Organization for the Rehabilitation of the Environment](http://oreworld.org) (ORE), an NGO with a strong presence in the Côte Sud region, to pilot a new cell phone based survey tool to monitor agricultural practices, crop productivity, and farmer yields of crops._&#8221;
 

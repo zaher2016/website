@@ -7,8 +7,7 @@ layout: single
 guid: /?p=3210
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 I&#8217;m excited to announce the addition of a new feature in ODK Collect &#8212; admin mode!
 

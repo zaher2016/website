@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1359
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [IKP Centre for Technologies in Public Health](http://www.ictph.org.in) (ICTPH) is an NGO building solutions for the provisioning of primary health-care in India. With partner, Sughavazhvu, ICTPH implemented its work in three pilots that have been set up in Thanjavur district in rural Tamil Nadu. 
 

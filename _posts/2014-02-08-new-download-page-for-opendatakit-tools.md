@@ -5,8 +5,7 @@ date: 2014-02-08T06:02:13+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=4593
-categories:
-  - Uncategorized
+
 ---
 We have a new Download tab for opendatakit.org.
 

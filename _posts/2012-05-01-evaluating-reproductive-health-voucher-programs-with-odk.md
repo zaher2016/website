@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2801
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 A reproductive health voucher is a card that entitles a poor, pregnant woman to subsidized maternity care. These vouchers are used around the world, but do they actually help improve the quality of care? The [Population Council](http://www.popcouncil.org/)&#8216;s [RHVouchers](http://www.rhvouchers.org/) ([@RHVouchers](https://twitter.com/#!/rhvouchers)) project is evaluating voucher programs in Kenya, Uganda, Tanzania, Bangladesh and Cambodia to find out.
 

@@ -7,8 +7,7 @@ layout: single
 guid: /?p=3047
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 A recent Carter Center blog post entitled &#8220;<a title="Permanent Link to Carter Center on Leading Edge of Technology Use in Election Observation" href="http://blog.cartercenter.org/2012/08/06/carter-center-on-leading-edge-of-technology-use-in-election-observation/" rel="bookmark">Carter Center on Leading Edge of Technology Use in Election Observation</a>&#8221; discusses their use of Open Data Kit:
 

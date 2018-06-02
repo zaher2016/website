@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1105
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 In April, UC Berkeley&#8217;s Human Rights Center hosted &#8220;[Advancing the New Machine: Human Rights and Technology](http://www.law.berkeley.edu/HRCweb/events/TechConference2011/index.html)&#8220;, a conference for human rights practitioners and technologists to discuss the progress, successes, and challenges that have emerged with the growth of information technologies.
 

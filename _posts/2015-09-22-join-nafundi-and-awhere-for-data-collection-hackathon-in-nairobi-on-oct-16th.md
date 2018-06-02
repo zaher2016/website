@@ -5,8 +5,7 @@ date: 2015-09-22T12:00:16+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6715
-categories:
-  - Uncategorized
+
 ---
 Agricultural organizations across East Africa are working hard to help smallholder farmers adapt to a changing climate and marketplace. Data is crucial to this adaptation, but organizations face challenges collecting reliable field data, sharing information with partners, and communicating actionable insights back to farmers.
 

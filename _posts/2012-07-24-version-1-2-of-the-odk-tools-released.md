@@ -7,8 +7,7 @@ layout: single
 guid: /?p=3000
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 The Open Data Kit toolset has been updated to version 1.2.
 

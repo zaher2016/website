@@ -5,8 +5,7 @@ date: 2014-02-08T06:36:32+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=4595
-categories:
-  - Uncategorized
+
 ---
 ODK Aggregate 1.4.1 is now available for download:
 

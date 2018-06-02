@@ -5,8 +5,7 @@ date: 2013-02-02T16:32:55+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=3399
-categories:
-  - Uncategorized
+
 ---
 ODK Aggregate 1.3.0 Production Release is now available for download. In many small ways, this is a complete update to the publishing capabilities of the server.
 

@@ -7,8 +7,7 @@ layout: single
 guid: /?p=750
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 One of the big challenges facing the Open Data Kit team is understanding how and where the ODK tools are being used. 
 

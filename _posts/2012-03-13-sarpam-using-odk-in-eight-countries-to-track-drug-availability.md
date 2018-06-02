@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2659
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Adi Eyal and his colleagues are using ODK Collect and a custom backend in eight African countries (South Africa, Lesotho, Zimbabwe, Mozambique, Zambia, Malawi, Tanzania and DRC) to collect information on the availability and quality of medications. They have around 180 field workers who are using cheap Vodafone 858 Android phones to collect quantitative information, as well as photos and audio interviews.
 

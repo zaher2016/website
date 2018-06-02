@@ -5,8 +5,7 @@ date: 2016-04-20T10:00:00+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=7107
-categories:
-  - Uncategorized
+
 ---
 _Yaw Anokwa is one of the founders of Open Data Kit (ODK) and the CEO of [Nafundi](https://nafundi.com), a consulting company that provides professional services around ODK. In this guest post, Yaw explains how the World Health Organization (WHO) has been improving polio campaign quality in Jordan, Somalia, and Sudan with ODK._
 

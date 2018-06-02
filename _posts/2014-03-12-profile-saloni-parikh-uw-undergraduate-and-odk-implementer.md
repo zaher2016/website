@@ -5,8 +5,7 @@ date: 2014-03-12T18:57:21+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=4860
-categories:
-  - Uncategorized
+
 ---
 People sometimes ask who are the members of the ODK team? While most members of the &#8220;core&#8221; ODK team are either University of Washington (UW) graduate students or staff; much of the customization and implementation work for field deployments is done by UW undergraduates. One such undergraduate, Saloni Parikh, was [profiled by the UW School of Public Health](http://sph.washington.edu/news/closeup/profile.asp?content_ID=4444). Saloni works with UW&#8217;s Department of Global Health to leverage ODK in Kenya.
 

@@ -10,7 +10,6 @@ thesis_thumb_height:
   - "66"
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 As the Open Data Kit community has grown, we&#8217;ve realized the need for a less technical resource for our users. Over the next few months, we will be building out this website as the new home for the community. Stay tuned!

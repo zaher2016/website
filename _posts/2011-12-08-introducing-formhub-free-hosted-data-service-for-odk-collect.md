@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2176
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Very exciting news from the [Modi Research Group](http://modi.mech.columbia.edu/) from Columbia University. They have launched [formhub](https://formhub.org), a free hosted data backend service for ODK Collect for those who don&#8217;t want to setup or manage their own server.
 

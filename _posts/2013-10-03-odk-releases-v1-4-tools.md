@@ -5,8 +5,7 @@ date: 2013-10-03T10:10:10+00:00
 author: Mitchell Sundt
 layout: single
 guid: /?p=4102
-categories:
-  - Uncategorized
+
 ---
 Version 1.4 updates to the ODK tools are now available:
 

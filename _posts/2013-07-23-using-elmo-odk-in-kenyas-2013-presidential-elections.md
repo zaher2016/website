@@ -5,8 +5,7 @@ date: 2013-07-23T12:01:46+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3984
-categories:
-  - Uncategorized
+
 ---
 Connie Moon Sehat, Assistant Director, Democracy Program, from The Carter Center has written a guest blog post about their ODK usage. If you would like to write a guest blog post please send us an email at <contact@opendatakit.org>.
 

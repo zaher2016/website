@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1031
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [Carbon For Water](http://www.vestergaard-frandsen.com/carbon-for-water/index.html) ([@CarbonForWater](https://twitter.com/Carbonforwater)) is using 4000 ODK-enabled phones to collect 40,000 forms per day. The data is used to support [Vestergaard Frandsen](http://www.vestergaard-frandsen.com/)&#8216;s campaign to distribute LifeStraw Family water treatment units to 4 million people in Western Kenya. 
 

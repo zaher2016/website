@@ -5,8 +5,7 @@ date: 2013-02-12T16:01:08+00:00
 author: Yaw Anokwa
 layout: single
 guid: /?p=3465
-categories:
-  - Uncategorized
+
 ---
 This great &#8220;[Trading Bows and Arrows for Laptops](https://www.youtube.com/watch?v=LvJYdoTssMQ)&#8221; video from filmmaker Denise Zmekhol shows how the Surui tribe is using ODK and Google Earth to help protect the Amazon rainforest and their way of life.
 

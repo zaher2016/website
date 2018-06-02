@@ -5,8 +5,7 @@ date: 2016-05-24T04:01:12+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=7439
-categories:
-  - Uncategorized
+
 ---
 _Ken Evans is the project leader of Mine Technology Group at Charles Darwin University. In this guest post, Ken describes his work deploying ODK in Nusa Tenggara Timur._
 

@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1414
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 We are pleased to announce a new ODK tool &#8212; XLS2XForm. You can find the tool and a tutorial at </use/xls2xform>.
 

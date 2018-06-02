@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1128
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Sanjay Patel and Adam Hammouda from [WebFirst](http://webfirst.com/) will be at University of Maryland&#8217;s [HCI Lab Symposium](http://www.cs.umd.edu/hcil/soh/) this week, presenting on their work on a [Open Source mHealth Solution based on Drupal 7](http://www.cs.umd.edu/hcil/sharp/workshop2011/speakers.html). The abstract is below.
 

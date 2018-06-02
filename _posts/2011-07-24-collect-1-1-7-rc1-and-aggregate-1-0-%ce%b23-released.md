@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1332
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 We&#8217;ve posted Collect 1.1.7 RC1 and Aggregate 1.0 β3 to the Google Code website. Both releases fix bugs that the community has reported. Many thanks for all the help so far &#8212; we simply cannot do this work without your support!
 

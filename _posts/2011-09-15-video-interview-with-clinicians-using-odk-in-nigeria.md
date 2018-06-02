@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1508
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [eHealthNigeria](http://ehealthnigeria.org/) ([@eHealthNigeria](https://twitter.com/#!/eHealthNigeria)) has a [video interview](https://www.youtube.com/watch?v=fwI48EZdb1o) with Dr. Habiba and Dr. Nike from the [Ahmadu Bello Teaching Hospital](http://www.abuth.org/) in Zaria. 
 

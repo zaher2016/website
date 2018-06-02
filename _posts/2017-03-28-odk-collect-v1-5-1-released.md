@@ -5,8 +5,7 @@ date: 2017-03-28T18:18:05+00:00
 author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=8293
-categories:
-  - Uncategorized
+
 ---
 ODK Collect v1.5.1 is now available on the [Google Play Store](https://play.google.com/store/apps/details?id=org.odk.collect.android)! It&#8217;s also available for download [here](https://opendatakit.org/downloads/download-info/odk-collect-apk/).
 

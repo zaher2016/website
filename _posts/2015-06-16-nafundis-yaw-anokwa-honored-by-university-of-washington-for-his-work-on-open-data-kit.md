@@ -5,8 +5,7 @@ date: 2015-06-16T08:00:12+00:00
 author: Carl Hartung
 layout: single
 guid: https://opendatakit.org/?p=6501
-categories:
-  - Uncategorized
+
 ---
 Every year, the University of Washington College of Engineering selects four outstanding individuals who have made significant contributions to the field of engineering and presents each with a Diamond Award. This year, ODK co-founder and [Nafundi](http://nafundi.com) CEO, Yaw Anokwa was selected for the [Diamond Award for Distinguished Service](http://www.engr.washington.edu/alumcomm/diamond/2015honorees.html#anokwa). The committee chose Yaw out of the tens of thousands of alumni because of his use of technology in helping the under-served.
 

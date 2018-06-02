@@ -7,8 +7,7 @@ layout: single
 guid: /?p=3151
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 The African Soil Information Service (AfSIS) is assisting national agencies in Africa with developing soil information systems. AfSIS uses ODK Collect for field data collection.
 

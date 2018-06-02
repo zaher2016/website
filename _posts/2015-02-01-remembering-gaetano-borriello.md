@@ -5,8 +5,7 @@ date: 2015-02-01T14:08:31+00:00
 author: Waylon Brunette
 layout: single
 guid: https://opendatakit.org/?p=6096
-categories:
-  - Uncategorized
+
 ---
 [<img style="float: right; margin-bottom: 5px; margin-left: 5px" class="size-medium wp-image-6097 alignright" src="/assets/wp-content/uploads/2015/02/20110310-_BRH9798-239x300.jpg" alt="Gaetano" width="239" height="300" srcset="/assets/wp-content/uploads/2015/02/20110310-_BRH9798-239x300.jpg 239w, /assets/wp-content/uploads/2015/02/20110310-_BRH9798-768x963.jpg 768w, /assets/wp-content/uploads/2015/02/20110310-_BRH9798-817x1024.jpg 817w, /assets/wp-content/uploads/2015/02/20110310-_BRH9798.jpg 957w" sizes="(max-width: 239px) 100vw, 239px" />](/assets/wp-content/uploads/2015/02/20110310-_BRH9798.jpg)
 

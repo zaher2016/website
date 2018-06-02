@@ -7,8 +7,7 @@ layout: single
 guid: /?p=2150
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Dr. Martin Were and Dr. Joaquín Blaya, both long time ODK implementers, have been awarded two of the mHealth Alliance and Rockefeller Foundation&#8217;s [Top 11 in 2011 Innovators Challenge](http://healthunbound.org/top11_winners). 
 

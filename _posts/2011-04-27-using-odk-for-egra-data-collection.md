@@ -7,8 +7,7 @@ layout: single
 guid: /?p=996
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 Max Heinritz (@[maxheinritz](http://twitter.com/maxheinritz)) has implemented an Early Grade Reading Assessment (EGRA) system using ODK. 
 

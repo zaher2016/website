@@ -5,8 +5,7 @@ date: 2013-05-27T09:00:38+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=3816
-categories:
-  - Uncategorized
+
 ---
 We designed ODK to work all over the world and supporting multiple languages inside each tool has always been an important goal. With the community&#8217;s help, we&#8217;ve made great progress. For example, ODK Collect has been localized into seventeen languages!
 

@@ -6,8 +6,7 @@ author: Yaw Anokwa
 layout: single
 guid: https://opendatakit.org/?p=8418
 
-categories:
-  - Uncategorized
+
 ---
 **We&#8217;ve successfully migrated all the emails from Google Groups to the ODK Forum at <https://forum.opendatakit.org>. Join us there!** 
 

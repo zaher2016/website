@@ -5,8 +5,7 @@ date: 2014-04-13T13:55:58+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=4924
-categories:
-  - Uncategorized
+
 ---
 CGIAR&#8217;s Research Program on Climate Change, Agriculture, and Food Security posted a [blog entry](http://ccafs.cgiar.org/blog/agriculture-and-climate-change-research-meet-high-tech-world-easy-use-online-data-kit) discussing the benefits and challenges of using ODK for research.
 

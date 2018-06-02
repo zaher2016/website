@@ -7,8 +7,7 @@ layout: single
 guid: /?p=956
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [eHealth Nigeria](http://ehealthnigeria.org) did a training for the Population and Reproductive Health Initiative (PRHI), an organization based at the [Ahmadu Bello Teaching Hospital](http://www.abuth.org/) in Zaria, on how to use Open Data Kit. PRHI is using ODK as a way to collect demographic and health information on women living in one of the nearby villages. Below are blog posts and videos from that training.
 

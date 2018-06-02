@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1256
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [Maryann Cairns](http://anthropology.usf.edu/graduate/Cairns/) is a doctoral student in Applied Anthropology at University of South Florida. As part of an NSF-funded research grant she had the opportunity to travel to Bolivia to complete data collection for her &#8220;Community Perceptions and Community Impact: An Assessment of Water Systems in Rural Bolivia&#8221; project. 
 
@@ -54,4 +53,4 @@ The enumerators reported that it was not intimidating and that the technology di
 
 I completed qualitative focus groups and interviews without the use of ODK and KoBo for this trip. However, I think that the tools have endless possibilities for qualitative data collection. When I return to Bolivia it is possible that I may use them for photo voice/photo essays, voice/video recording, more extensive mapping, etc. I&#8217;ll keep you posted.&#8221;</em>
 
-Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto://contact@opendatakit.org).
+Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).

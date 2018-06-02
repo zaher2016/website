@@ -7,8 +7,7 @@ layout: single
 guid: /?p=1022
 aktt_notify_twitter:
   - 'no'
-categories:
-  - Uncategorized
+
 ---
 [ODK Build](http://build.opendatakit.org) has been updated with a feature many of you have asked for in different variations: the ability to be able to save forms in a native format (an .odkbuild file, not an xform .xml file), and reload them into Build at a later time, largely for purposes of sharing forms with each other over email.
 
