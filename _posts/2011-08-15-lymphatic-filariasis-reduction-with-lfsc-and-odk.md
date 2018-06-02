@@ -19,4 +19,4 @@ We are going to be working in countries throughout West Africa, East Africa, Sou
 
 I tried many other solutions before ODK, including other EpiCollect, but found ODK&#8217;s solution was the best. I am excited to use the software and I am happy to help anyone else who is trying to get started with an ODK solution of their own.</em>&#8221;
 
-Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto://contact@opendatakit.org).
+Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).

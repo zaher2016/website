@@ -17,4 +17,4 @@ You can see the map at <http://bit.ly/boholtourismmap>.
 
 <img width="538" src="/assets/wp-content/uploads/2011/08/bohol.png" />
 
-Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto://contact@opendatakit.org).
+Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).

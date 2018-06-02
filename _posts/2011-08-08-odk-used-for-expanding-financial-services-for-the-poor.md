@@ -17,4 +17,4 @@ In Airplane Mode, the batteries last for 2 full days of data collection. You cou
 
 Thanks for your tireless work on ODK &#8212; it&#8217;s improving our data quality and is changing our lives!&#8221;</em>
 
-Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto://contact@opendatakit.org).
+Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).
