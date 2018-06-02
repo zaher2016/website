@@ -14,8 +14,6 @@ The Open Data Kit (ODK) project is governed by the Project Management Committee 
 
 The project management committee consists of individuals identified as "project owners". The PMC responsibilities are to ensure the smooth running of the project. PMC members are expected to participate in strategic planning and approve changes to the governance model.
 
-_Note: As ODK transitions out of the University of Washington, the current PMC’s authority will be transferred to a Transition Board. Once the transition is finished, the authority will transfer to a more permanent governance body (likely another PMC). The TSCs will remain active throughout the transition process and post-transition._
-
 See [PMC Governance](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md) for more.
 
 ### [ODK PMC](#odk-pmc)
