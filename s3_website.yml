@@ -59,6 +59,25 @@ routing_rules:
       replace_key_with: form-question-types/#openmapkit-widget
       http_redirect_code: 301
   - condition:
+      key_prefix_equals: help/form-design/cascading-selects
+    redirect:
+      host_name: docs.opendatakit.org
+      replace_key_with: form-logic/#filtering-options-in-select-questions
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: help/form-design/data-preloading
+    redirect:
+      host_name: xlsform.org
+      replace_key_with: '#pre-loading-csv-data'
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: help/form-design/external-itemsets
+    redirect:
+      host_name: xlsform.org
+      replace_key_with: '#external'
+      http_redirect_code: 301
+      
+  - condition:
       key_prefix_equals: help/form-design
     redirect:
       host_name: docs.opendatakit.org
@@ -161,9 +180,9 @@ routing_rules:
       host_name: docs.opendatakit.org
       replace_key_with: form-uploader
       http_redirect_code: 301
-  # use/sensors/zebra-printer-driver
+  # use/sensors/*
   - condition:
-      key_prefix_equals: use/sensors/zebra-printer-driver
+      key_prefix_equals: use/sensors
     redirect:
       host_name: docs.opendatakit.org
       replace_key_with: printer-widget
@@ -215,6 +234,12 @@ routing_rules:
       host_name: docs.opendatakit.org
       replace_key_with: security-privacy
       http_redirect_code: 301
+  - condition:
+      key_prefix_equals: about/team
+    redirect:
+      host_name: opendatakit.org
+      replace_key_with: community/governance
+      http_redirect_code: 301      
   - condition:
       key_prefix_equals: about/tools
     redirect:
