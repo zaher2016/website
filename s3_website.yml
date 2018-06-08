@@ -238,7 +238,7 @@ routing_rules:
       key_prefix_equals: about/team
     redirect:
       host_name: opendatakit.org
-      replace_key_with: community/governance
+      replace_key_with: community
       http_redirect_code: 301      
   - condition:
       key_prefix_equals: about/tools
