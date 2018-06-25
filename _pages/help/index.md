@@ -6,7 +6,7 @@ permalink: /help/
 
 # Help
 
-The ODK community produces two suites of software, ODK 1 and ODK 2.
+The ODK community produces two suites of software: ODK 1 and ODK 2.
 
 The ODK 1 suite contains our most well-known and widely deployed tools, so we recommend you start there! If you find that the ODK 1 suite does not meet your needs, then try the ODK 2 suite. See [Software](/software) for more.
 

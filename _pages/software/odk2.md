@@ -33,7 +33,7 @@ Download [Services releases on GitHub](https://github.com/opendatakit/services/r
 [Source Code](https://github.com/opendatakit/services)
 
 ## [ODK Application Designer](#odk-application-designer)
-A  Windows/macOS/Linux design environment that runs in Chrome for creating, customizing, and previewing your forms that will render on Survey. 
+A Windows/macOS/Linux design environment that runs in Chrome for creating, customizing, and previewing your forms that will render on Survey. 
 
 Download [Application Designer releases on GitHub](https://github.com/opendatakit/app-designer/releases)
 
