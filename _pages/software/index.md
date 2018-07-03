@@ -5,7 +5,7 @@ author_profile: false
 layout: splash
 permalink: /software/
 feature_row:
-  - image_path: /assets/images/odk-collect.jpg
+  - image_path: /assets/images/odk-collect.png
     alt: "Looking for a simple way to collect data and analyze the results?"
     title: "Looking for a simple way to collect data and analyze the results?"
     excerpt: "You probably want Collect and Aggregate, in the ODK 1 Suite. Check out the [ODK 1 Getting Started Guide](http://docs.opendatakit.org/getting-started/) on the ODK Documentation Hub for more information. Then head to the [ODK 1 download page](/software/odk1/) to download the latest versions of the following tools: [Collect](/software/odk1/#collect), [Aggregate](/software/odk1/#aggregate), [Build](/software/odk1/#build), [Briefcase](/software/odk1/#briefcase), & [other ODK 1 tools](/software/odk1/#other)."
