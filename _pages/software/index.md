@@ -1,55 +1,31 @@
 ---
 title: Software
-date: 2018-03-01T00:00:00+00:00
-author_profile: false
 layout: splash
 permalink: /software/
-feature_row:
-  - image_path: /assets/images/odk-collect.png
-    alt: "Looking for a simple way to collect data and analyze the results?"
-    title: "Looking for a simple way to collect data and analyze the results?"
-    excerpt: "You probably want Collect and Aggregate, in the ODK 1 Suite. Check out the [ODK 1 Getting Started Guide](http://docs.opendatakit.org/getting-started/) on the ODK Documentation Hub for more information. Then head to the [ODK 1 download page](/software/odk1/) to download the latest versions of the following tools: [Collect](/software/odk1/#collect), [Aggregate](/software/odk1/#aggregate), [Build](/software/odk1/#build), [Briefcase](/software/odk1/#briefcase), & [other ODK 1 tools](/software/odk1/#other)."
-    url: "/software/odk1/"
-    btn_label: "<i class='fas fa-download'></i> Download ODK 1"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/odk2.png
-    alt: "Have some programming experience and want to design your own data management tool?"
-    title: "Have some programming experience and want to design your own data management tool?"
-    excerpt: "Check out the ODK 2 Suite. Head to the [ODK 2 download page](/software/odk2/) to download the latest versions of the following tools: [Tables](/software/odk2/#tables), [Survey](/software/odk2/#survey), [Suitcase](/software/odk2/#suitcase), [Services](/software/odk2/#services), & [Application Designer](/software/odk2/#application-designer)."
-    url: "/software/odk2/"
-    btn_label: "<i class='fas fa-download'></i> Download ODK 2"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/choose.png
-    alt: "Not sure which route to choose?"
-    title: "Not sure which route to choose?"
-    excerpt: "No problem, we've got help if you're uncertain. Check out our feature comparison table below, which illustrates the major differences in features between ODK 1 and ODK 2 suites."
-choose:
-  - image_path: /assets/images/choose.png
-    alt: "Help me choose an ODK Suite..."
-    title: "Help me choose an ODK Suite..."
-    excerpt: "One question frequently asked by our users is how do they decide which suite to use. Some users will look at the version number and assume the latest is the greatest, but this is not always the case. Because of this confusion with the version issue, the ODK 2 suite of tools will be renamed in the near future. **The ODK 2 suite was designed to co-exist with ODK 1 tools, and does not replace any ODK 1 software.** <br /><br />In general, ODK 1 tools are easier to use, require less setup, and are widely adopted. However, if you have a complex longitudinal study and possess some technical skills, then ODK 2 software may be better suited to your needs. **We suggest starting with the [ODK 1 Suite](/software/odk1/) and if it does not fulfill the requirements of your desired usage scenario, then move on to the more advanced [ODK 2 Suite](/software/odk2/).**"
-
 ---
 
-{% include feature_row %}
+# Software
 
-{% include feature_row id="choose" type="left" %}
+The ODK community produces two suites of software: ODK 1 and ODK 2.
 
-| Feature | ODK 1 | ODK 2 |
-| ---------------- | --------------------------- | -------------------------- |
-| Stage of technology lifecycle | Maturity | Introductory |
-| Collect data with mobile device | ✓ | ✓ |
-| Widely adopted | ✓ | |
-| Drag and drop tool to create survey forms | ✓ | |
-| Transmit collected data from device to server | ✓ | ✓ |
-| Ability to capture rich data types (e.g., GPS, Images, Audio, Video) | ✓ | ✓ |
-| One to one mapping of a question to database fields (except for GPS) | ✓ | ✓ |
-| One to many mapping of a question to database fields | | ✓ |
-| Static input constraint checks | ✓ | ✓ |
-| Dynamic input constraint checks | | ✓ |
-| Ability to control basic layout of questions prompts on the Android device | ✓ | ✓ |
-| Fully customizable layout of prompts on the Android device using HTML/JavaScript | | ✓ |
-| Bi-directional synchronization of collected data across devices | | ✓ |
-| Visualizations of collected data available on the device | | ✓ |
-| Link longitudinal data to collected data | | ✓ |
-| User permissions for row filtering of data available on the device | | ✓ |
+Each ODK suite contains tools that work together to collect, use, and manage data, but the two suites require different levels of technical skill, are at different stages of adoption, and are incompatible.
+
+## ODK 1: Tools for the common case
+The ODK 1 suite contains our most well-known and widely deployed tools, so we recommend you start with it!
+* For teams who need simple tools that support the most common use cases
+* Widely deployed, proven at scale, and compatible with a large [ecosystem](/community/ecosystem) (e.g., Ona, Enketo, Kobo, ELMO)
+* Includes Collect, Aggregate, XLSForm, Build, and Briefcase
+
+Read the [ODK 1 Getting Started Guide](http://docs.opendatakit.org/getting-started).
+
+Download [ODK 1 Tools](/software/odk1).
+
+## ODK 2: Tools for complex workflows
+If you find that the ODK 1 suite and accompanying ecosystem does not meet your needs, try the ODK 2 suite!
+* Flexible tool suite that supports complex workflows via JavaScript customization
+* Features non-sequential navigation, bi-directional synchronization, and on-device data management
+* Includes Application Designer, Services, Survey, Tables, and Suitcase
+
+Read the [ODK 2 Getting Started Guide](https://docs.opendatakit.org/odk2/getting-started-2-user).
+
+Download [ODK 2 Tools](/software/odk2).
