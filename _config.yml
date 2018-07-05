@@ -79,7 +79,7 @@ facebook:
   username               : &facebook "opendatakit"
   app_id                 :
   publisher              :
-og_image                 : "/assets/odk/odk-sq-tx.png" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/odk/odk-sq-tx.png"
+  avatar           : "/assets/images/logo.png"
   bio              : "A global community of volunteers."
   location         :
   email            :
