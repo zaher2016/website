@@ -2,7 +2,7 @@ Yaw Anokwa:
   name: "Yaw Anokwa"
   uri: "https://nafundi.com"
   bio: "Owner @ Nafundi<br>ODK PMC, ODK TSC"
-  avatar: "/assets/images/authors/yanokwa.png"
+  avatar: "/assets/images/authors/yanokwa.jpg"
   location: "San Diego, CA"
   twitter: "yanokwa"
   github: "yanokwa"
@@ -11,7 +11,7 @@ Hélène Martin:
   name: "Hélène Martin"
   uri: "https://nafundi.com"
   bio: "Owner @ Nafundi<br>ODK TSC"
-  avatar: "/assets/images/authors/ln.png"
+  avatar: "/assets/images/authors/ln.jpg"
   location: "San Diego, CA"
   twitter: "purplespatula"
   github: "lognaturel"
@@ -20,25 +20,25 @@ Waylon Brunette:
   name: "Waylon Brunette"
   bio: "ODK Project Management Committee"
   location: "Seattle, WA"
-  avatar: "/assets/images/authors/waylon.png"
+  avatar: "/assets/images/authors/waylon.jpg"
   github: "wbrunette"
 
 Richard Anderson:
   name: "Richard Anderson"
   bio: "Professor @ University of Washington; ODK Project Management Committee"
   location: "Seattle, WA"
-  avatar: "/assets/images/authors/richard.png"
+  avatar: "/assets/images/authors/richard.jpg"
   uri: "https://www.cs.washington.edu/people/faculty/anderson"
 
 Carl Hartung:
   name: "Carl Hartung"
   bio: "Co-founder & CTO at Libro.fm; ODK Project Management Committee"
   location: "Seattle, WA"
-  avatar: "/assets/images/authors/carl.png"
+  avatar: "/assets/images/authors/carl.jpg"
   github: "chartung"
 
 Mitchell Sundt:
   name: "Mitch Sundt"
   location: "Seattle, WA"
-  avatar: "/assets/images/authors/msundt.png"
+  avatar: "/assets/images/authors/msundt.jpg"
   github: "mitchellsundt"
