@@ -36,11 +36,16 @@ The ODK 1 TSC is responsible for ODK Collect, ODK Aggregate, ODK XLSForm, ODK Bu
 
 The ODK 1 TSC meets every two weeks to discuss the [ODK 1 Roadmap](https://github.com/opendatakit/roadmap/projects/1).
 
-| [<img src="/assets/images/odk1/tsc/shobhit-agarwal.jpg" width="200px;"/><br /><b>Shobhit Agarwal</b>](https://github.com/shobhitagarwal1612)<br />[Tonbo Imaging](http://www.tonboimaging.com/) | [<img src="/assets/images/odk1/tsc/alex-anderson.jpg" width="200px;"/><br /><b>Alex Anderson</b>](https://github.com/alxndrsn)<br />[Medic Mobile](https://medicmobile.org/) | [<img src="/assets/images/odk1/tsc/yaw-anokwa.jpg" width="200px;"/><br /><b>Yaw Anokwa</b>](http://anokwa.com/)<br />[Nafundi](http://nafundi.com/) |
+### Current members
 
-| [<img src="/assets/images/odk1/tsc/brent-atkinson.jpg" width="200px;"/><br /><b>Brent Atkinson</b>](https://github.com/batkinson)<br />[CIMS Bioko](http://cims-bioko.github.io/) | [<img src="/assets/images/odk1/tsc/adam-butler.jpg" width="200px;"/><br /><b>Adam Butler</b>](ttps://twitter.com/adamvert)<br />[eHealth Africa](https://www.ehealthafrica.org/) | [<img src="/assets/images/odk1/tsc/aurelio-di-pasquale.jpg" width="200px;"/><br /><b>Aurelio di Pasquale</b>](https://www.linkedin.com/in/aureliodipasquale/)<br />[Swiss TPH](https://www.swisstph.ch/en/) |
+| [<img src="/assets/images/odk1/tsc/shobhit-agarwal.jpg" width="200px;"/><br /><b>Shobhit Agarwal</b>](https://github.com/shobhitagarwal1612)<br />[Tonbo Imaging](http://www.tonboimaging.com/) | [<img src="/assets/images/odk1/tsc/alex-anderson.jpg" width="200px;"/><br /><b>Alex Anderson</b>](https://github.com/alxndrsn)<br />[Medic Mobile](https://medicmobile.org/) | [<img src="/assets/images/odk1/tsc/yaw-anokwa.jpg" width="200px;"/><br /><b>Yaw Anokwa</b>](http://anokwa.com/)<br />[Nafundi](http://nafundi.com/) | [<img src="/assets/images/odk1/tsc/adam-butler.jpg" width="200px;"/><br /><b>Adam Butler</b>](https://twitter.com/adamvert)<br />[eHealth Africa](https://www.ehealthafrica.org/)
 
-| [<img src="/assets/images/odk1/tsc/helene-martin.jpg" width="200px;"/><br /><b>Hélène Martin</b>](https://twitter.com/purplespatula)<br />[Nafundi](http://nafundi.com) | [<img src="/assets/images/odk1/tsc/tom-smyth.jpg" width="200px;"/><br /><b>Tom Smyth</b>](https://github.com/frigginglorious)<br />[Sassafras](https://sassafras.coop/) | [<img src="/assets/images/odk1/tsc/dickson-ukanga.jpg" width="200px;"/><br /><b>Dickson Ukanga</b>](https://github.com/ukanga)<br />[Ona](https://ona.io/home/) |
+| [<img src="/assets/images/odk1/tsc/aurelio-di-pasquale.jpg" width="200px;"/><br /><b>Aurelio di Pasquale</b>](https://www.linkedin.com/in/aureliodipasquale/)<br />[Swiss TPH](https://www.swisstph.ch/en/) | [<img src="/assets/images/odk1/tsc/helene-martin.jpg" width="200px;"/><br /><b>Hélène Martin</b>](https://twitter.com/purplespatula)<br />[Nafundi](http://nafundi.com) | [<img src="/assets/images/odk1/tsc/tom-smyth.jpg" width="200px;"/><br /><b>Tom Smyth</b>](https://github.com/frigginglorious)<br />[Sassafras](https://sassafras.coop/) | [<img src="/assets/images/odk1/tsc/dickson-ukanga.jpg" width="200px;"/><br /><b>Dickson Ukanga</b>](https://github.com/ukanga)<br />[Ona](https://ona.io/home/)
+
+#### Former members
+
+| [<img src="/assets/images/odk1/tsc/brent-atkinson.jpg" width="100px;"/><br /><b>Brent Atkinson</b>](https://github.com/batkinson)<br />[CIMS Bioko](http://cims-bioko.github.io/)
+
 
 ### [ODK 2 TSC](#odk2-tsc)
 
