@@ -16,7 +16,7 @@ The ODK 1 suite contains our most well-known and widely deployed tools, so we re
 * Widely deployed, proven at scale, and compatible with a large [ecosystem](/community/ecosystem) (e.g., Ona, Enketo, Kobo, ELMO)
 * Includes Collect, Aggregate, XLSForm, Build, and Briefcase
 
-Read the [ODK 1 Getting Started Guide](http://docs.opendatakit.org/getting-started).
+Read the [ODK 1 Docs](http://docs.opendatakit.org).
 
 Download [ODK 1 Tools](/software/odk1).
 
@@ -26,6 +26,6 @@ If you find that the ODK 1 suite and accompanying ecosystem does not meet your n
 * Features non-sequential navigation, bi-directional synchronization, and on-device data management
 * Includes Application Designer, Services, Survey, Tables, and Suitcase
 
-Read the [ODK 2 Getting Started Guide](https://docs.opendatakit.org/odk2/getting-started-2-user).
+Read the [ODK 2 Docs](https://docs.opendatakit.org/odk2).
 
 Download [ODK 2 Tools](/software/odk2).
