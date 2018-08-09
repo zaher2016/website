@@ -15,3 +15,29 @@ $link-color-hover: #1590d3;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(/assets/icons/sprite.svg);
+}
+.icon-r {
+  width: 14px;
+  height: 16px;
+  background-position: 0 0;
+}
+.icon-g {
+  width: 14px;
+  height: 16px;
+  background-position: -32px 0;
+}
+.icon-f {
+  width: 14px;
+  height: 16px;
+  background-position: -64px 0;
+}
+.icon-t {
+  width: 14px;
+  height: 16px;
+  background-position: -96px 0;
+}
