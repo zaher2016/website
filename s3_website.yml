@@ -29,6 +29,12 @@ cloudfront_wildcard_invalidation: true
 routing_rules:
   # help/form-design/*
   - condition:
+      key_prefix_equals: help/form-design/binding
+    redirect:
+      host_name: docs.opendatakit.org
+      replace_key_with: form-logic
+      http_redirect_code: 301
+  - condition:
       key_prefix_equals: help/form-design/external-apps
     redirect:
       host_name: docs.opendatakit.org
