@@ -28,7 +28,7 @@ jobs:
           command: bundle exec jekyll build
       - run:
           name: Test site
-          command: bundle exec htmlproofer _site --disable-external --empty-alt-ignore --help
+          command: bundle exec htmlproofer _site --check-html --disable-external --allow_hash_href --alt-ignore '/.*/'
       - save_cache:
           paths:
             - /usr/local/bundle/gems
