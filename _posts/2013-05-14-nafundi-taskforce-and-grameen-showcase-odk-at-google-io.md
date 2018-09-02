@@ -9,7 +9,7 @@ guid: /?p=3757
 ---
 [Google I/O](https://developers.google.com/events/io/) is an annual developer conference that showcases the latest from Google&#8217;s product teams and partners. One of the exciting parts of I/O is the Developer Sandbox, where apps based on technologies and products are shown to attendees.
 
-This year, three out of the nine presenters in the &#8220;[Develop for Good](https://developers.google.com/events/io/developer-sandbox#t-develop-for-good)&#8221; sandbox will be showcasing ODK-based projects! The three presenters are [Nafundi](http://nafundi.com), [Taskforce for Global Health](http://taskforce.org), and [Grameen Foundation](http://www.grameenfoundation.org/). Staff from all three organizations will be at I/O in San Francisco this week, so swing by their booths, and say hello!
+This year, three out of the nine presenters in the “[Develop for Good](https://developers.google.com/events/io/developer-sandbox#t-develop-for-good)” sandbox will be showcasing ODK-based projects! The three presenters are [Nafundi](http://nafundi.com), [Taskforce for Global Health](http://taskforce.org), and [Grameen Foundation](http://www.grameenfoundation.org/). Staff from all three organizations will be at I/O in San Francisco this week, so swing by their booths, and say hello!
 
 Also present at I/O will be ODK core team members from the University of Washington. If you&#8217;ve ever wanted to chat with Waylon, Mitch, or Sam in person, now is your chance! Find them on the conference floor, share your ODK use case, and maybe get a demo of the upcoming tools.
 

@@ -13,9 +13,9 @@ In April 2011, [New York City&#8217;s Department of Health and Mental Hygiene](h
 
 
 
-InSTEDD writes, &#8220;_These Community Outreach Teams teams deploy into local communities in order to share information as well as capture location-based data from those communities. The goal of the ECHO project was to support the COT teams by allowing them to create and fill out electronic surveys on a handheld devices and then transmit that information back to the Emergency Operations Center for analysis &#8211; in near real-time. </p> 
+InSTEDD writes, “_These Community Outreach Teams teams deploy into local communities in order to share information as well as capture location-based data from those communities. The goal of the ECHO project was to support the COT teams by allowing them to create and fill out electronic surveys on a handheld devices and then transmit that information back to the Emergency Operations Center for analysis &#8211; in near real-time. </p> 
 
-Now, in situations that require an investigation (such as a potential disease outbreak) these teams will be able to create survey based forms and push them out to a team of people who each has their own Motorola Xoom tablet [running ODK Collect]. The team will then collect answers to the survey by interviewing affected communities, and push them back to the server where they will later be able to export it to a Geographical Information System (GIS) tool.</em>&#8221;
+Now, in situations that require an investigation (such as a potential disease outbreak) these teams will be able to create survey based forms and push them out to a team of people who each has their own Motorola Xoom tablet [running ODK Collect]. The team will then collect answers to the survey by interviewing affected communities, and push them back to the server where they will later be able to export it to a Geographical Information System (GIS) tool.</em>”
 
 As part of that work, InSTEDD re-designed the ODK Collect interface to better use the large screen sizes now available on Android tablets. We would love to integrate the beautiful changes shown below into ODK. If you are interested in helping, send an email to <opendatakit@googlegroups.com>! 
 

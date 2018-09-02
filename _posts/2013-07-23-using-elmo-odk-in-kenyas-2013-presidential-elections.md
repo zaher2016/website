@@ -9,7 +9,7 @@ guid: /?p=3984
 ---
 Connie Moon Sehat, Assistant Director, Democracy Program, from The Carter Center has written a guest blog post about their ODK usage. If you would like to write a guest blog post please send us an email at <contact@opendatakit.org>.
 
-_&#8220;What does it mean for an election to be democratically successful? Election observation attempts to assess whether a particular election process reflects the will of the people. At [The Carter Center](http://www.cartercenter.org), this requires first-person observations of the conditions and context surrounding the election, everything from voter education before the event to happenings within a particular polling station on election day. In the past, many of these observations teams have used lists of questions, reams of paper, and lots of late night data entry. The Carter Center has observed over 90 elections and with the help of ODK, we are approaching the practice of election observation in a different way._
+_“What does it mean for an election to be democratically successful? Election observation attempts to assess whether a particular election process reflects the will of the people. At [The Carter Center](http://www.cartercenter.org), this requires first-person observations of the conditions and context surrounding the election, everything from voter education before the event to happenings within a particular polling station on election day. In the past, many of these observations teams have used lists of questions, reams of paper, and lots of late night data entry. The Carter Center has observed over 90 elections and with the help of ODK, we are approaching the practice of election observation in a different way._
 
 _ELMO (standing for ELection MOnitoring) is an open-source data collection and reporting system under development by The Carter Center&#8217;s Democracy Program. The system interfaces with ODK Collect to gather data on different aspects of the election process. Since our first prototypes in the Liberian and Cherokee Nation elections of 2011-12, ELMO and ODK Collect have allowed international observers to provide their data via tablets and directly online._
 
@@ -41,7 +41,7 @@ _&#8211; data collection via multiple channels: ODK Collect, web form, and SMS_
   
  _&#8211; multilingual support (currently English & French)_
 
-_We are pushing to release a fully documented application by the end of the year for anyone to share. Contact [Connie Moon Sehat](mailto:connie.moon.sehat@emory.edu) if you would like to learn more or get involved!&#8221;_
+_We are pushing to release a fully documented application by the end of the year for anyone to share. Contact [Connie Moon Sehat](mailto:connie.moon.sehat@emory.edu) if you would like to learn more or get involved!”_
 
 [<img class="alignnone size-medium wp-image-3990" alt="480944_596318541234_797876850_n" src="/assets/wp-content/uploads/2013/07/480944_596318541234_797876850_n-225x300.jpg" width="225" height="300" srcset="/assets/wp-content/uploads/2013/07/480944_596318541234_797876850_n-225x300.jpg 225w, /assets/wp-content/uploads/2013/07/480944_596318541234_797876850_n.jpg 720w" sizes="(max-width: 225px) 100vw, 225px" />](/assets/wp-content/uploads/2013/07/480944_596318541234_797876850_n.jpg)
 

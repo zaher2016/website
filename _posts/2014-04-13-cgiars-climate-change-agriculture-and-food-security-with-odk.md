@@ -15,8 +15,8 @@ From CGIAR&#8217;s [Blog Post:](http://ccafs.cgiar.org/blog/agriculture-and-clim
 
 _“This has so many benefits over using paper forms. All the validation checks we would have done at the ‘data entry’ phase are now conducted at the point of collection. We can even do some extra consistency checks back in the office while the enumerators are still in the field,” Dave continues._
 
-_&#8220;This really helped us to run the entire project more efficiently. In the first site, I noticed that two forms had been submitted for the same household – with different GPS coordinates. After a quick skype conversation, the enumerator returned to the village the next day to redo that household.&#8221; _
+_“This really helped us to run the entire project more efficiently. In the first site, I noticed that two forms had been submitted for the same household – with different GPS coordinates. After a quick skype conversation, the enumerator returned to the village the next day to redo that household.” _
 
-_&#8220;With paper forms, we would have spotted the error weeks or months later – far too late to resolve it. These types of issue are inevitable in a project of this scale.  By using the Open Data Kit, we were able to resolve many of them during data collection. This will make analysing and archiving the data much easier,” says Dave._
+_“With paper forms, we would have spotted the error weeks or months later – far too late to resolve it. These types of issue are inevitable in a project of this scale.  By using the Open Data Kit, we were able to resolve many of them during data collection. This will make analysing and archiving the data much easier,” says Dave._
 
 <img src=http://ccafs.cgiar.org/sites/default/files/images/BF01-TO23-179-1.jpg width="300">

@@ -14,7 +14,7 @@ The highlight for this month is the bulk configuration feature added to Collect 
 **Collect 1.7.0**
 
   * Bulk configure devices offline via QR code (In Admin Settings, under Import/Export settings)
-  * Take pictures that default to front camera by using &#8220;selfie&#8221; appearance property
+  * Take pictures that default to front camera by using “selfie” appearance property
   * Scan barcodes without needing external Barcode Scanner app
 
 Use: <https://play.google.com/store/apps/details?id=org.odk.collect.android>

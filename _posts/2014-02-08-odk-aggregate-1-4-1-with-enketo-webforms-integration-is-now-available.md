@@ -13,7 +13,7 @@ ODK Aggregate 1.4.1 is now available for download:
 
 The [ODK Aggregate VM](http://gum.co/odk-aggregate-vm) (maintained by Nafundi) is available as well.
 
-Our <a href="http://opendatakit.appspot.com" title="opendatakit.appspot.com" target="_blank">opendatakit.appspot.com</a> site now has Enketo Webforms enabled. Click on the &#8220;Enketo Webforms&#8221; button at the top of the Submissions page to open a webform to enter submissions online.
+Our <a href="http://opendatakit.appspot.com" title="opendatakit.appspot.com" target="_blank">opendatakit.appspot.com</a> site now has Enketo Webforms enabled. Click on the “Enketo Webforms” button at the top of the Submissions page to open a webform to enter submissions online.
 
 See the release notes for details:
 

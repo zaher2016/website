@@ -21,7 +21,7 @@ A celebration event was also held in the Soy village by Dr. Kimaiyo, who met the
 
 In 2009, AMPATH began deploying health workers out into the rural villages and communities. Armed with a bag of testing and counseling supplies and a smartphone with a GPS and AMPATH’s electronic medical record system, the community health workers travel by foot door-to-door assuring every person over the age of 13 and every at-risk child is tested for HIV. AMPATH’s structure to end the HIV pandemic is based on the FLTR model: to find (F) every HIV-infected person, link (L) that person to care, treat (T) the individual, and retain (R) them in care.
 
-&#8220;The ability to collect data in electronic form and integrate it with the rest of the system is the most important tool we have to be able to successfully implement the pHCT program,&#8221; said Martin Were, Chief Medical Information Officer for the AMPATH Consortium. &#8220;The Open Data Kit has been instrumental in this data collection.&#8221;
+“The ability to collect data in electronic form and integrate it with the rest of the system is the most important tool we have to be able to successfully implement the pHCT program,” said Martin Were, Chief Medical Information Officer for the AMPATH Consortium. “The Open Data Kit has been instrumental in this data collection.”
 
 In addition to reaching HIV-positive people and connecting them with necessary services, the AMPATH program is also helping those who test negative by making them aware of their status and providing information and support so they remain HIV-free. While historic numbers of patients are receiving modern antiretroviral treatment, the incidence of new infections and prevalence rates remain stubbornly high in Kenya. 
 

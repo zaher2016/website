@@ -9,7 +9,7 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-In April, UC Berkeley&#8217;s Human Rights Center hosted &#8220;[Advancing the New Machine: Human Rights and Technology](http://www.law.berkeley.edu/HRCweb/events/TechConference2011/index.html)&#8220;, a conference for human rights practitioners and technologists to discuss the progress, successes, and challenges that have emerged with the growth of information technologies.
+In April, UC Berkeley&#8217;s Human Rights Center hosted “[Advancing the New Machine: Human Rights and Technology](http://www.law.berkeley.edu/HRCweb/events/TechConference2011/index.html)“, a conference for human rights practitioners and technologists to discuss the progress, successes, and challenges that have emerged with the growth of information technologies.
 
 At the conference, the Mobile Technology panel focused on mobile technology as a data collection tool, highlighting the challenges in implementing such projects and ensuring the security of those using it. 
 

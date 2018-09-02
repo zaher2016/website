@@ -42,7 +42,7 @@ Thanks to Carsten and Saul for their contributions to this release!
   * Adds alphabetic form sorting
   * Adds settings pane for Briefcase storage location
   * Adds saving server settings between restarts
-  * Fixes &#8220;Details&#8230;&#8221; user interface
+  * Fixes “Details&#8230;” user interface
 
 Read full release notes: <https://github.com/opendatakit/briefcase/releases>
   

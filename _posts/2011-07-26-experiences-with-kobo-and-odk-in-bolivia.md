@@ -9,11 +9,11 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-[Maryann Cairns](http://anthropology.usf.edu/graduate/Cairns/) is a doctoral student in Applied Anthropology at University of South Florida. As part of an NSF-funded research grant she had the opportunity to travel to Bolivia to complete data collection for her &#8220;Community Perceptions and Community Impact: An Assessment of Water Systems in Rural Bolivia&#8221; project. 
+[Maryann Cairns](http://anthropology.usf.edu/graduate/Cairns/) is a doctoral student in Applied Anthropology at University of South Florida. As part of an NSF-funded research grant she had the opportunity to travel to Bolivia to complete data collection for her “Community Perceptions and Community Impact: An Assessment of Water Systems in Rural Bolivia” project. 
 
 Maryann used the [KoBo Project](http://koboproject.org/), data collection tools from Berkeley&#8217;s [Human Rights Center](http://www.law.berkeley.edu/HRCweb/index.html). Like ODK, KoBo is built on the [OpenRosa](http://openrosa.org/) standard. The popular tools are the KoBo Form Builder (based on [PurcForms](http://code.google.com/p/purcforms/)) and KoBo Post Processor. ODK and KoBo tools are fully compatible so many users like Maryann can mix and match as they need!
 
-She writes, _&#8220;I was lucky enough to have the funding to purchase 5 Huawei IDEOS devices and worked with ODK and KoBo for my surveys. </p> 
+She writes, _“I was lucky enough to have the funding to purchase 5 Huawei IDEOS devices and worked with ODK and KoBo for my surveys. </p> 
 
 [<img src="/assets/wp-content/uploads/2011/07/IMG_3943-300x225.jpg" width="250" align="left" />](/assets/wp-content/uploads/2011/07/IMG_3943.jpg) 
 
@@ -51,6 +51,6 @@ However, just to confirm after my research experience, the individuals we survey
 
 The enumerators reported that it was not intimidating and that the technology didn&#8217;t even elicit comment from most of those who were surveyed. I would argue that using the cell for voice recording would have been less intimidating than a traditional voice recording device &#8212; I might try to work that out for my next trip. 
 
-I completed qualitative focus groups and interviews without the use of ODK and KoBo for this trip. However, I think that the tools have endless possibilities for qualitative data collection. When I return to Bolivia it is possible that I may use them for photo voice/photo essays, voice/video recording, more extensive mapping, etc. I&#8217;ll keep you posted.&#8221;</em>
+I completed qualitative focus groups and interviews without the use of ODK and KoBo for this trip. However, I think that the tools have endless possibilities for qualitative data collection. When I return to Bolivia it is possible that I may use them for photo voice/photo essays, voice/video recording, more extensive mapping, etc. I&#8217;ll keep you posted.”</em>
 
 Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).

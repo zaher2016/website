@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 According to [YugaTech](http://www.yugatech.com/blog/the-internet/dti-maps-entire-bohol-tourist-site-with-galaxy-tabs), Philippine&#8217;s Department of Trade and Industry (DTI-GIZ), under the [Private Sector Promotion Program](http://www.smedsep.ph/) (SMEDSEP) has mapped over 700 tourist sites on [Bohol](http://en.wikipedia.org/wiki/Bohol) island.
 
-The data for the &#8220;ultimate travel guide to Bohol&#8221; was collected by [Holy Name University](http://www.hnu.edu.ph/) (HNU) researchers equipped with Open Data Kit. The form included contact information, facility descriptions, GPS locations, and site photos.
+The data for the “ultimate travel guide to Bohol” was collected by [Holy Name University](http://www.hnu.edu.ph/) (HNU) researchers equipped with Open Data Kit. The form included contact information, facility descriptions, GPS locations, and site photos.
 
 You can see the map at <http://bit.ly/boholtourismmap>.
 

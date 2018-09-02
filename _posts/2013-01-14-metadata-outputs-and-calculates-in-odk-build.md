@@ -19,7 +19,7 @@ Build now supports the ${/data/dataName} output syntax for referring to previous
   
 _Your device ID is ${/data/deviceID}. Your first name is ${/data/firstName}._ 
 
-When a data collector sees this caption on the device, it can be filled in with the answers previously given. In this case, if a form designer had a metadata prompt called &#8220;deviceID&#8221; and a text prompt called &#8220;firstName&#8221; that was previously answered, the caption would read:
+When a data collector sees this caption on the device, it can be filled in with the answers previously given. In this case, if a form designer had a metadata prompt called “deviceID” and a text prompt called “firstName” that was previously answered, the caption would read:
   
 _Your device ID is 12:34:56:78:90. Your first name is Yaw._
 

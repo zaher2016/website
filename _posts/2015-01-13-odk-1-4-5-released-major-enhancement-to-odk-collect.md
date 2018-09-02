@@ -14,7 +14,7 @@ There are new v1.4.5 versions available on the downloads page <a title="Download
 **ODK Collect**
 
   * numerous bug fixes and extreme performance improvements to the form evaluation logic resulting from a close collaboration between the ODK core team and SurveyCTO.
-  * Added Admin Setting for &#8220;Form Processing Logic&#8221; to select among different form evaluation logic implementations: 
+  * Added Admin Setting for “Form Processing Logic” to select among different form evaluation logic implementations: 
       * Recommended form evaluation logic (default &#8211; whatever logic is the current best going forward)
       * January 2015 (fastest) form evaluation logic
       * January 2015 (safest) form evaluation logic

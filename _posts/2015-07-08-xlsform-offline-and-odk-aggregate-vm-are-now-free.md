@@ -9,7 +9,7 @@ guid: https://opendatakit.org/?p=6585
 ---
 Yesterday, XLSForm Offline was $95 and ODK Aggregate VM was $995. Today, Nafundi has made both XLSForm Offline and ODK Aggregate VM free. Forever!
 
-The [announcement on Nafundi&#8217;s blog](http://nafundi.com/blog/posts/xlsform-offline-and-odk-aggregate-vm-are-now-free/) reads, _&#8220;this is an unconventional way to price software, but Nafundi has always been an unconventional company. And while we&#8217;ve set suggested prices that ensure we can continue to add features and provide support, you can now pay whatever you&#8217;d like for XLSForm Offline and ODK Aggregate. We hope that with this model, those who can pay continue to do so. And for those who cannot, we hope this makes your data collection campaigns a little easier!&#8221;_
+The [announcement on Nafundi&#8217;s blog](http://nafundi.com/blog/posts/xlsform-offline-and-odk-aggregate-vm-are-now-free/) reads, _“this is an unconventional way to price software, but Nafundi has always been an unconventional company. And while we&#8217;ve set suggested prices that ensure we can continue to add features and provide support, you can now pay whatever you&#8217;d like for XLSForm Offline and ODK Aggregate. We hope that with this model, those who can pay continue to do so. And for those who cannot, we hope this makes your data collection campaigns a little easier!”_
 
 You can find out more about XLSForm Offline and ODK Aggregate VM below.
 
