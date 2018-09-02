@@ -9,7 +9,7 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-We’ve shipped a bunch of new updates to ODK tools this week. If you are using old versions, make sure to upgrade by going [here](/downloads/)!
+We’ve shipped a bunch of new updates to ODK tools this week. If you are using old versions, make sure to upgrade by going [here](https://github.com/opendatakit)!
 
 [ODK Aggregate 1.0.6](http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes) now supports publishing of forms from Build. We’ve also added support do bulk delete submissions.
 
@@ -17,4 +17,4 @@ We’ve shipped a bunch of new updates to ODK tools this week. If you are using 
 
 [ODK Validate 1.6](/use/validate/) fixes an issue where the same form would return different errors.
 
-Again, you can find all the new versions [here](/downloads/).
+Again, you can find all the new versions [here](https://github.com/opendatakit).
