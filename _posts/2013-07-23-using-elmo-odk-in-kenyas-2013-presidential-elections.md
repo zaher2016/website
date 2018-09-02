@@ -1,6 +1,6 @@
 ---
 id: 3984
-title: 'Using ELMO &#038; ODK in Kenya’s 2013 Presidential Elections'
+title: 'Using ELMO & ODK in Kenya’s 2013 Presidential Elections'
 date: 2013-07-23T12:01:46+00:00
 author: Waylon Brunette
 layout: single
