@@ -9,7 +9,7 @@ permalink: /community/research/
 
 ---
 
-Open Data Kit is a research platform for the Department of Computer Science & Engineering at the University of Washington. The community disseminates our work through academic as well as the [popular press](/about/#press).
+Open Data Kit is a research platform for the Department of Computer Science & Engineering at the University of Washington. The community disseminates our work through academic as well as the popular press.
 
 Below you will find a collection of publications about the ODK project over the years.
 

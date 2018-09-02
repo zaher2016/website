@@ -15,7 +15,7 @@ The project management committee consists of individuals identified as "project 
 
 See [PMC Governance](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md) for more.
 
-### [ODK PMC](#odk-pmc)
+<a name="odk-pmc"></a>ODK PMC
 
 | [<img src="/assets/images/pmc/richard-anderson.jpg" width="200px;"/><br /><b>Richard Anderson</b>](https://www.cs.washington.edu/people/faculty/anderson)<br />[UW-CSE](https://www.cs.washington.edu/) | [<img src="/assets/images/pmc/yaw-anokwa.jpg" width="200px;"/><br /><b>Yaw Anokwa</b>](https://github.com/yanokwa)<br />[Nafundi](http://nafundi.com/) | [<img src="/assets/images/pmc/waylon-brunette.jpg" width="200px;"/><br /><b>Waylon Brunette</b>](https://github.com/wbrunette)<br />[UW-CSE](https://www.cs.washington.edu/) | [<img src="/assets/images/pmc/carl-hartung.jpg" width="200px;"/><br /><b>Carl Hartung</b>](https://github.com/chartung)<br />[Libro.fm](http://libro.fm) |
 
@@ -30,7 +30,7 @@ The Technical Steering Committees (ODK 1 TSC, ODK 2 TSC) are responsible for hig
 
 See [TSC Governance](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) for more.
 
-### [ODK 1 TSC](#odk1-tsc)
+<a name="odk1-tsc"></a>ODK 1 TSC
 
 The ODK 1 TSC is responsible for ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK JavaRosa, and the ODK XForms specification.
 
@@ -48,8 +48,7 @@ The ODK 1 TSC meets every two weeks to discuss the [ODK 1 Roadmap](https://githu
 
 | [<img src="/assets/images/odk1/tsc/brent-atkinson.jpg" width="100px;"/><br /><b>Brent Atkinson</b>](https://github.com/batkinson)<br />[CIMS Bioko](http://cims-bioko.github.io/)
 
-
-### [ODK 2 TSC](#odk2-tsc)
+<a name="odk2-tsc"></a>ODK 2 TSC
 
 The ODK 2 TSC is responsible for ODK Application Designer, ODK Services, ODK Survey, ODK Cloud Endpoints, ODK Suitcase, ODK Tables, and ODK Scan.
 
