@@ -17,4 +17,4 @@ We expect to release a second Beta with an incompatible database change as we al
 
 We consider this Beta to be nearly code complete. We are considering changes to how the back button works (both the device back button and the back button within the app). We also expect to change the CSS styling of the widgets to create a flatter, more modern, look-and-feel.
 
-Instructions for ODK Survey are available [here](/use/beta/survey/).
+Instructions for ODK Survey are available [here](https://docs.opendatakit.org/odk2/survey-intro/).

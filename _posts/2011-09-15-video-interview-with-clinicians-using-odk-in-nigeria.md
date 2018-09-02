@@ -22,4 +22,4 @@ In their interview, the clinicians confirm that ODK works well in the field.
   * _“If a woman answers yes to a certain question, the questions that follows it are different that if she had answered no. I really like that part.”_
   * _“[The women] really like the picture part! They are just eager for us to take their photos!”_
 
-Dr. Habiba’s and Dr. Nike’s feedback adds to a trend we have seen across [deployments](//opendatakit.org/use/deployments) of all sizes — ODK is faster, easier to use and more efficient than paper.
+Dr. Habiba’s and Dr. Nike’s feedback adds to a trend we have seen across deployments of all sizes — ODK is faster, easier to use and more efficient than paper.
