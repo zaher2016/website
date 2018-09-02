@@ -21,4 +21,4 @@ As part of that work, InSTEDD re-designed the ODK Collect interface to better us
 
 Update: The source code can be found at <https://bitbucket.org/instedd/echo>.
 
-<img width="524" src="//opendatakit.org/assets/wp-content/uploads/2011/09/instedd.jpg" />
+<img width="524" src="/assets/wp-content/uploads/2011/09/instedd.jpg" alt="Mockup of ODK Collect with tablet-friendly redesign" />

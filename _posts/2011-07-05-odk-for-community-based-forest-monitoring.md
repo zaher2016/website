@@ -13,6 +13,6 @@ As noted on the Google.org blog post titled “[Getting Data From the Ground To 
 
 Many in the working group use ODK for data collection, and so the core team was present to answer questions ranging from form design to device choice. We also demoed some of the upcoming functionality in ODK.
 
-<img width="170" src="/assets/wp-content/uploads/2011/07/plotType.png" />&nbsp;<img width="170" src="/assets/wp-content/uploads/2011/07/dbhType.png" />&nbsp;<img width="170" src="/assets/wp-content/uploads/2011/07/plotStatus.png" />
+<img width="170" src="/assets/wp-content/uploads/2011/07/plotType.png" alt="Screenshot of images of various plots as answers"/>&nbsp;<img width="170" src="/assets/wp-content/uploads/2011/07/dbhType.png" alt="Screenshot of images of DBH types as answers" />&nbsp;<img width="170" src="/assets/wp-content/uploads/2011/07/plotStatus.png" alt="Screenshot of yes and no questions in a vertical list" />
 
 If you’d like to find out more about the working group (and check out all the presentations from the workshop) visit <http://cfm.earthoutreach.org>.

@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 Adi Eyal and his colleagues are using ODK Collect and a custom backend in eight African countries (South Africa, Lesotho, Zimbabwe, Mozambique, Zambia, Malawi, Tanzania and DRC) to collect information on the availability and quality of medications. They have around 180 field workers who are using cheap Vodafone 858 Android phones to collect quantitative information, as well as photos and audio interviews.
 
-<img src="/assets/wp-content/uploads/2012/03/tendai_map.png" width="538" />
+<img src="/assets/wp-content/uploads/2012/03/tendai_map.png" width="538" alt="Map of countries in Southern Africa with markers for hospitals, clinics, pharmacies, and other" />
 
 The data is being used for the Tendai Project, which according to [Daniel Molokele](http://www.medicinesinfohub.net/what-the-experts-say/tendai-gathering-information-to-drive-change/) of [SARPAM](http://www.medicinesinfohub.net/about/sarpam/), is _“a practical intervention designed to ease the burden of the people by monitoring the situation at community level and disseminating information. The project aims to raise awareness of the challenges communities face in accessing essential medicines, provider pharmaceutical marketplace information through a regional info hub and contribute to improving access to medicines in the Southern African Development Community.”_
 

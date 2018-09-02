@@ -13,4 +13,4 @@ We think the current localization process is a little cumbersome, so today, in p
 
 If you speak English and another language (especially Swahili, Hindi, Portuguese, Hausa, or Indonesian) our users need your help. Please go to [https://transifex.com/projects/p/odk-collect](https://www.transifex.com/projects/p/odk-collect), and sign up to improve on, or add a translation.
 
-<img alt="" src="/assets/wp-content/uploads/2013/05/translate.png" width="538px" />
+<img alt="" src="/assets/wp-content/uploads/2013/05/translate.png" width="538px" alt="Screenshot of Android Studio's translation interface" />

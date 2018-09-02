@@ -26,9 +26,3 @@ ODK Collect 1.2.1 has been released. Upgrades are available on the <a href="http
 Examples of how to use the new features can be found on the example page: <a href="https://docs.opendatakit.org/form-question-types" target="_blank">here</a>
 
 Additional changes of note are found in the release notes: <a href="http://code.google.com/p/opendatakit/wiki/CollectReleaseNotes" target="_blank">http://code.google.com/p/opendatakit/wiki/CollectReleaseNotes</a>
-
-<div>
-  <div id=":18a" data-tooltip="Show trimmed content">
-    <img src="https://mail.google.com/mail/u/0/images/cleardot.gif" alt="" />
-  </div>
-</div>

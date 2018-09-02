@@ -11,6 +11,6 @@ guid: /?p=3468
 
 Today, Matt Adams, one of the Radical’s founders, has graciously open-sourced the Android client for Group Complete. The [code repository](http://github.com/radicaldynamic/gcmobile) is fantastic place to start if you are looking to build group-oriented and ODK-compatible data collection.
 
-<img src="/assets/wp-content/uploads/2013/02/browser-menu.jpg" width="538" />
+<img src="/assets/wp-content/uploads/2013/02/browser-menu.jpg" width="538" alt="Screenshot of mobile app with explanations of various user interface elements" />
 
 Matt is a fantastic member of the ODK community and we are deeply appreciative of this contribution. Again, the repo is at <http://github.com/radicaldynamic/gcmobile>. If you intend on releasing derivative works, please pay close attention to the [README](https://github.com/radicaldynamic/gcmobile/blob/master/README).

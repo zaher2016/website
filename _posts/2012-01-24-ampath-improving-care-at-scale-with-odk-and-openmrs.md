@@ -21,7 +21,7 @@ They write, “_First, although costs were significantly lower than paper-based 
 
 In late 2009, we provided an early version of ODK Collect to AMPATH (on an HTC Dream, the first Android device). We spent a week with them in Kenya piloting the system, and based on the available functionality, AMPATH decided to switch to Open Data Kit. Below is a picture of one of the CHWs scanning a patient barcode with the phone.
 
-<img width="524" src="//opendatakit.org/assets/wp-content/uploads/2012/01/ampath-barcode.png" />
+<img width="524" src="//opendatakit.org/assets/wp-content/uploads/2012/01/ampath-barcode.png" alt="One of the CHWs scanning a patient barcode with the phone" />
 
 In early 2010, AMPATH finalized the HCT form, made minor changes to the user interface, acquired Android devices, and started to scale up. It is important to note that ODK’s core developers were not involved at this stage.
 

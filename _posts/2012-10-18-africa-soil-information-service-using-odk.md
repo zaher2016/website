@@ -19,4 +19,4 @@ Read more about this at African Soil Information Service website:
   
  <http://www.africasoils.net/MobileCollectTransmit>
 
-<img src="http://www.africasoils.net/sites/afsis/files/feature_images/news2_transmitting_data.jpeg" alt="" width="538" />
+<img src="http://africasoils.net/files/2014/11/news2_transmitting_data.jpeg" alt="Surveyors arrive at site, collect information about plot, and take plot pictures" width="538" />

@@ -21,4 +21,4 @@ With this mobile-based intervention, there is no need to fill in long paper-base
 
 The data PHSRP generates is available on [their website](http://www.punjabmodel.gov.pk/dashboard/androidMap). They also have a (non-English) [demo video](http://youtu.be/Fd6Ilr89ii4) of their form. Make sure to read the [white paper](http://www.punjabmodel.gov.pk/dashboard/downloads/PHSRP%20-%20Monitoring%20the%20Monitors.pdf) for more info.
 
-<img width="524" src="/assets/wp-content/uploads/2011/10/phsrp.png" />
+<img width="524" src="/assets/wp-content/uploads/2011/10/phsrp.png" alt="Screenshot of PHSRP mapping interface" />

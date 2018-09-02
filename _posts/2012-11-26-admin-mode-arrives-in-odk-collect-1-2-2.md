@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 I’m excited to announce the addition of a new feature in ODK Collect — admin mode!
 
-<img src="/assets/wp-content/uploads/2012/11/admin-mode.png" alt="" width="200" align="right" />
+<img src="/assets/wp-content/uploads/2012/11/admin-mode.png" alt="Screenshot of admin mode settings" width="200" align="right" />
 
 Admin mode enables you to customize what features in ODK Collect are available to your data collectors.
 

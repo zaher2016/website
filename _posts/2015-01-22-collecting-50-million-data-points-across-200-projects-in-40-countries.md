@@ -13,7 +13,7 @@ _Brian Chu is an Associate Program Director with the [Neglected Tropical Disease
 
 Mobile data collection using Open Data Kit (ODK) has allowed global health staff, scientists, and researchers to rapidly gather and process data in the global effort to control and eliminate neglected tropical diseases (NTDs). NTDs are a group of 17 diseases that cause substantial morbidity and chronic suffering to over 1 billion people in 149 countries worldwide.
 
-<img src="/assets/wp-content/uploads/2015/01/taskforce-exam.jpg" width="538" />_A child in Ethiopia being examined for trachoma, one of many neglected tropical diseases that affects the world’s poor. Photo courtesy of Dominic Nahr, Magnum Photos, and Sightsavers._
+<img src="/assets/wp-content/uploads/2015/01/taskforce-exam.jpg" width="538" alt="A child in Ethiopia being examined for trachoma, one of many neglected tropical diseases that affects the world's poor." />_A child in Ethiopia being examined for trachoma, one of many neglected tropical diseases that affects the world’s poor. Photo courtesy of Dominic Nahr, Magnum Photos, and Sightsavers._
 
 NTDs most commonly affect the world’s poor through manifestations such as blindness, anemia, stunting, swollen limbs, and skin deformity that perpetuate cycles of poverty and stigma. NTDs were originally coined as ‘neglected’ due to their low awareness and low-profile funding, but recent years have seen incredible commitments by leading pharmaceutical companies, global health organizations, private foundations, and donor and endemic country governments towards combating NTDs.
 
@@ -27,7 +27,7 @@ Early NTD-SC (formerly Lymphatic Filariasis Support Center) efforts utilized PDA
 
 ODK has become so indispensable for NTD-SC’s global portfolio of projects that we worked with Nafundi to develop a customized branch of ODK called [LINKS](http://www.plosntds.org/article/info%3Adoi%2F10.1371%2Fjournal.pntd.0002654). LINKS meets specific NTD-SC requirements such as cascading selects and additional language support and navigation options.
 
-<img src="/assets/wp-content/uploads/2015/01/taskforce-entry.jpg" width="538" />_A woman enters survey data into ODK-based LINKS for a trachoma prevalence tracking project. Photo courtesy of Dominic Nahr, Magnum Photos, and Sightsavers._
+<img src="/assets/wp-content/uploads/2015/01/taskforce-entry.jpg" width="538" alt="A woman enters survey data into ODK-based LINKS for a trachoma prevalence tracking project." />_A woman enters survey data into ODK-based LINKS for a trachoma prevalence tracking project. Photo courtesy of Dominic Nahr, Magnum Photos, and Sightsavers._
 
 LINKS has essentially revolutionized data collection for the NTD-SC and has even spawned [LINKS System](http://linkssytem.org), a small mHealth department within the organization that services partners in the NTD research community including the World Health Organization, CDC, RTI International, Washington University in St. Louis, University of Georgia, Liverpool School of Tropical Medicine, and many others. The success and inherent benefits of LINKS has also led to NTD-SC supporting mobile data collection for non-NTD organizations such as CARE and Children’s Investment Foundation Fund.
 

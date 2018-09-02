@@ -21,6 +21,6 @@ Read the [blog post here](http://www.kiva.org/updates/fellows/2012/09/12/technol
   
 
   
-<img src="http://kivafellows.files.wordpress.com/2012/08/photo.png" alt="" width="538" />
+<img src="http://kivafellows.files.wordpress.com/2012/08/photo.png" alt="Photo capture integrated with the survey" width="538" />
 
-<img src="http://kivafellows.files.wordpress.com/2012/08/odk-in-the-field.jpg" alt="" width="538" />
+<img src="http://kivafellows.files.wordpress.com/2012/08/odk-in-the-field.jpg" alt="Juhudi loan officer using mobile app to capture Kiva profile info" width="538" />
