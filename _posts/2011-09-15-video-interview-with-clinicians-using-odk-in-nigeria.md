@@ -18,7 +18,7 @@ The clinicians are using ODK to collect demographic and health information on wo
 In their interview, the clinicians confirm that ODK works well in the field. 
 
   * _“[The phone] is easier, honestly. You don’t need to carry bulky files to the field. It’s faster [than the paper].”_
-  * _“My finger is bigger than the tabs&#8230;but I think, over time, I got the hang of it. I didn’t really encounter any problems thereafter.”_
+  * _“My finger is bigger than the tabs…but I think, over time, I got the hang of it. I didn’t really encounter any problems thereafter.”_
   * _“If a woman answers yes to a certain question, the questions that follows it are different that if she had answered no. I really like that part.”_
   * _“[The women] really like the picture part! They are just eager for us to take their photos!”_
 

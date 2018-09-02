@@ -39,7 +39,7 @@ Once you have claimed your account, you can go to ‘Preferences’ and ‘Enabl
   
 If you are able to post, post your questions in the meta category. If you are not able to post, email <team@opendatakit.org> and we’ll be glad to help! 
 
-**One more thing&#8230;**
+**One more thing…**
   
 This migration would not have been possible without these kind and thoughtful people below. From everyone in the ODK community, thank you!
 

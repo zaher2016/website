@@ -34,7 +34,7 @@ There are new v1.4.4 versions of:
 xlsform.exe
 
   * Most documentation has moved to [here](http://xlsform.org/)
-  * New prompt type: “select one external” Documentation coming shortly&#8230;
+  * New prompt type: “select one external” Documentation coming shortly…
 
 ##### ODK Validate
 

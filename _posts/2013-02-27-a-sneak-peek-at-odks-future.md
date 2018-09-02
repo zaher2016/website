@@ -1,6 +1,6 @@
 ---
 id: 3564
-title: 'A sneak peek at ODK’s future&#8230;'
+title: 'A sneak peek at ODK’s future…'
 date: 2013-02-27T16:40:52+00:00
 author: Waylon Brunette
 layout: single
