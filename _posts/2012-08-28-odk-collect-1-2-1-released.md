@@ -13,7 +13,7 @@ ODK Collect 1.2.1 has been released. Upgrades are available on the <a href="http
 
 **Notable features:**
 
-1) Behr Atherton has contributed 3 new data widgets ([examples plus code snippets](/help/form-design/examples/ "Examples"))
+1) Behr Atherton has contributed 3 new data widgets ([examples plus code snippets](https://docs.opendatakit.org/form-question-types))
 
   * Draw widget — freeform drawing
   * Annotate widget — take a picture then annotate it by drawing on top of the image.
@@ -23,7 +23,7 @@ ODK Collect 1.2.1 has been released. Upgrades are available on the <a href="http
 
 —–
 
-Examples of how to use the new features can be found on the example page: <a href="/help/form-design/examples/" target="_blank">/help/form-design/examples/</a>
+Examples of how to use the new features can be found on the example page: <a href="https://docs.opendatakit.org/form-question-types" target="_blank">here</a>
 
 Additional changes of note are found in the release notes: <a href="http://code.google.com/p/opendatakit/wiki/CollectReleaseNotes" target="_blank">http://code.google.com/p/opendatakit/wiki/CollectReleaseNotes</a>
 

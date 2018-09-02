@@ -11,7 +11,7 @@ The ODK Team is pleased to announce a new release that includes many new excitin
 
 ### **Collect 1.3**
 
-  * Added printer support on Android 3.1 and higher systems. See <a href="/help/form-design/examples/#printing_widgets" rel="nofollow">example printing widget</a> and <a href="https://docs.opendatakit.org/printer-widget/" rel="nofollow">printer driver</a> for more information
+  * Added printer support on Android 3.1 and higher systems. See <a href="https://docs.opendatakit.org/printer-widget" rel="nofollow">example printing widget</a> for more information
   * configurable display and use of ‘back’ and ‘next’ buttons, and the enabling or disabling of swipe treatment within form pages (contributed work by Nafundi).
   * configurable background transmission of submissions when network connections are detected (contributed work by Nafundi).
   * application settings can now be saved to disk and loaded from disk (makes configuring device fleets easier). (contributed work by Nafundi).
@@ -40,5 +40,4 @@ The ODK Team is pleased to announce a new release that includes many new excitin
 ### Zebra Printer Driver 2.0
 
   * Tested on Zebra MZ220 and Zebra MZ320 printers.
-  * For installation and configuration please see: <a href="https://docs.opendatakit.org/printer-widget/" rel="nofollow">Zebra printer driver</a>
-  * For usage examine the <a href="/help/form-design/examples/#printing_widgets" rel="nofollow">example printing widget</a>
+  * For installation, configuration, and usage please see: <a href="https://docs.opendatakit.org/printer-widget/" rel="nofollow">example printing widget</a>
