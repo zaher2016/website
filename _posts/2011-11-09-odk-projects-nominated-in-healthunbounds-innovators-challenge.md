@@ -26,4 +26,4 @@ aktt_notify_twitter:
 
 HealthUnbound needs your help to get down to the winners. Go to <http://healthunbound.org/top11_vote> to learn more and vote on your favorite.
 
-Congratulations to all, and please do [vote now](http://healthunbound.org/top11_vote) &#8212; the deadline is this Friday!
+Congratulations to all, and please do [vote now](http://healthunbound.org/top11_vote) — the deadline is this Friday!

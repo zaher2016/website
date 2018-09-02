@@ -25,21 +25,21 @@ _All of this is important because as an organization with a strong interest in s
 
 _ELMO is an open-source project under active development led by [Sassafras Tech Collective](http://www.sassafrastech.com/). It has many helpful features:_
 
-_&#8211; data collection via multiple channels: ODK Collect, web form, and SMS_
+_– data collection via multiple channels: ODK Collect, web form, and SMS_
   
- _&#8211; form design, data review, and custom reporting integrated into a single tool_
+ _– form design, data review, and custom reporting integrated into a single tool_
   
- _&#8211; keyword searching of responses_
+ _– keyword searching of responses_
   
- _&#8211; SMS broadcast messaging as an easy way to quickly reach all observers_
+ _– SMS broadcast messaging as an easy way to quickly reach all observers_
   
- _&#8211; support for multiple ‘missions’, each with their own sets of forms, options, users, settings, etc._
+ _– support for multiple ‘missions’, each with their own sets of forms, options, users, settings, etc._
   
- _&#8211; role-based user management_
+ _– role-based user management_
   
- _&#8211; batch user operations for handling large teams_
+ _– batch user operations for handling large teams_
   
- _&#8211; multilingual support (currently English & French)_
+ _– multilingual support (currently English & French)_
 
 _We are pushing to release a fully documented application by the end of the year for anyone to share. Contact [Connie Moon Sehat](mailto:connie.moon.sehat@emory.edu) if you would like to learn more or get involved!”_
 

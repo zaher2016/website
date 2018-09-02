@@ -1,6 +1,6 @@
 ---
 id: 1383
-title: 'Urgent Need for ODK Assistance &#8211; East Africa Famine'
+title: 'Urgent Need for ODK Assistance – East Africa Famine'
 date: 2011-08-03T18:56:10+00:00
 author: Yaw Anokwa
 layout: single
@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 David Pablo Cohn is a friend of the ODK team, a long time Google employee, and an all around nice guy. He just sent out an urgent call to our mailing list for help with an ODK deployment.
 
-He writes, _“I’m putting a call out on behalf of an organization trying to use ODK and related technology to help respond to the unfolding famine in East Africa. The Royal Veterinary College is supporting Vetaid Kenya and other Vetaid partners in the South East of the country &#8211; where some grazing and food stocks remain – to try and help the pastoralists breeding stock alive through the next 6 months. Obviously the priority has rightly been feeding the people first but without their livestock there is little chance of hem ever leaving the camps and returning to their pastoral way of life.</p> 
+He writes, _“I’m putting a call out on behalf of an organization trying to use ODK and related technology to help respond to the unfolding famine in East Africa. The Royal Veterinary College is supporting Vetaid Kenya and other Vetaid partners in the South East of the country – where some grazing and food stocks remain – to try and help the pastoralists breeding stock alive through the next 6 months. Obviously the priority has rightly been feeding the people first but without their livestock there is little chance of hem ever leaving the camps and returning to their pastoral way of life.</p> 
 
 They’ve trying to figure out how to use the G1 phones they’re receiving from Google to monitor vaccination coverage/drought conditions in the affected area – the intention is to make this data available for the NGOs, FAO, Government and even to raise awareness amongst UK donors. They specifically need someone who can help them 
 

@@ -34,7 +34,7 @@ The Bolivian university students involved in my project as enumerators learned t
 
 [<img src="/assets/wp-content/uploads/2011/07/IMG_3945-300x225.jpg" width="250" align="right" />](/assets/wp-content/uploads/2011/07/IMG_3945.jpg)
 
-The research assistant that worked with me learned the basics of ODK Build, KoBo Form Builder, data collection software, and learned to sync with the KoBo Post Processor after minimal training. Now, she is one of the best undergrads I have ever worked with &#8212; but it really is intuitive.
+The research assistant that worked with me learned the basics of ODK Build, KoBo Form Builder, data collection software, and learned to sync with the KoBo Post Processor after minimal training. Now, she is one of the best undergrads I have ever worked with — but it really is intuitive.
 
 I did not have any trouble with students being distracted by the fact that the devices are in fact telephones. I checked the applications they used daily and KoBo was the only app they visited. Students are interested in the software and want to work with ODK and KoBo in the future.
 
@@ -49,7 +49,7 @@ However, just to confirm after my research experience, the individuals we survey
 
 [<img src="/assets/wp-content/uploads/2011/07/IMG_3935-300x225.jpg" width="250" align="left" />](/assets/wp-content/uploads/2011/07/IMG_3935.jpg)
 
-The enumerators reported that it was not intimidating and that the technology didn’t even elicit comment from most of those who were surveyed. I would argue that using the cell for voice recording would have been less intimidating than a traditional voice recording device &#8212; I might try to work that out for my next trip. 
+The enumerators reported that it was not intimidating and that the technology didn’t even elicit comment from most of those who were surveyed. I would argue that using the cell for voice recording would have been less intimidating than a traditional voice recording device — I might try to work that out for my next trip. 
 
 I completed qualitative focus groups and interviews without the use of ODK and KoBo for this trip. However, I think that the tools have endless possibilities for qualitative data collection. When I return to Bolivia it is possible that I may use them for photo voice/photo essays, voice/video recording, more extensive mapping, etc. I’ll keep you posted.”</em>
 

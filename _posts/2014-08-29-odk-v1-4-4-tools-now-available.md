@@ -15,7 +15,7 @@ There are new v1.4.4 versions of:
   * IE 6 and IE 7 are no longer supported.
   * Fix for column naming bug that sometimes impacted tables with 60+character-long field names
   * Many updates to 3rd party libraries
-  * Incompatible ODK Tables changes &#8212; if you have tried ODK Tables, see the [release notes](http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes) for upgrade steps.
+  * Incompatible ODK Tables changes — if you have tried ODK Tables, see the [release notes](http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes) for upgrade steps.
 
 ##### ODK Collect
 

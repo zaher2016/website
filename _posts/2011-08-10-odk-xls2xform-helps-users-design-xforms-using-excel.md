@@ -9,7 +9,7 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-We are pleased to announce a new ODK tool &#8212; XLS2XForm. You can find the tool and a tutorial at </use/xls2xform>.
+We are pleased to announce a new ODK tool — XLS2XForm. You can find the tool and a tutorial at </use/xls2xform>.
 
 With XLS2XForm, forms can be designed in Excel and converted to a XForm that can be used with ODK tools. XLS2XForm supports the entire range of prompts (even some unreleased ones), constraints and branching, multiple languages and multimedia. And for those making larger and more complex forms, we think you’ll love the spreadsheet form factor.
 

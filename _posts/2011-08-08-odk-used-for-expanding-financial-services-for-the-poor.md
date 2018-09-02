@@ -15,6 +15,6 @@ He writes, _“We’re using 16 Huawei Android IDEOS ($90 each from Safaricom, t
 
 In Airplane Mode, the batteries last for 2 full days of data collection. You could compare these IDEOS to the HTC Magic, just a bit smaller and cheaper. I would highly recommend them if someone is looking for a cheap unlocked Android without a QWERTY keyboard.
 
-Thanks for your tireless work on ODK &#8212; it’s improving our data quality and is changing our lives!”</em>
+Thanks for your tireless work on ODK — it’s improving our data quality and is changing our lives!”</em>
 
 Do you have an ODK story you’d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).

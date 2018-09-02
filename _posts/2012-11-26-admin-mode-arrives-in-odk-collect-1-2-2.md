@@ -9,7 +9,7 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-I’m excited to announce the addition of a new feature in ODK Collect &#8212; admin mode!
+I’m excited to announce the addition of a new feature in ODK Collect — admin mode!
 
 <img src="/assets/wp-content/uploads/2012/11/admin-mode.png" alt="" width="200" align="right" />
 

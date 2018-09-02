@@ -33,4 +33,4 @@ From the main screen, tap the menu button. Tap Admin Settings, tap the menu butt
   
 
   
-Upgrade to [ODK Collect v1.3](https://play.google.com/store/apps/details?id=org.odk.collect.android) today to start using auto send, navigation buttons, and bulk configuration. And remember, you can hide any of these options from your users using [admin mode](/2012/11/admin-mode-arrives-in-odk-collect-1-2-2) &#8212; a feature we added only a few months ago.
+Upgrade to [ODK Collect v1.3](https://play.google.com/store/apps/details?id=org.odk.collect.android) today to start using auto send, navigation buttons, and bulk configuration. And remember, you can hide any of these options from your users using [admin mode](/2012/11/admin-mode-arrives-in-odk-collect-1-2-2) — a feature we added only a few months ago.

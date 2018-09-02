@@ -28,5 +28,5 @@ Both projects are due to a close collaboration with the University of Washington
   
 
 
-  * Watch More: [MiDoctor &#8211; Chronic Diseases](https://www.youtube.com/watch?v=RRjr5X519gY)
+  * Watch More: [MiDoctor – Chronic Diseases](https://www.youtube.com/watch?v=RRjr5X519gY)
   * Read More: [eHealth Systems](http://ehs-chile.com/)

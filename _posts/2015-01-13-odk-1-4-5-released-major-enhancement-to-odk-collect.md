@@ -1,6 +1,6 @@
 ---
 id: 6014
-title: 'ODK 1.4.5 released &#8211; major enhancement to ODK Collect'
+title: 'ODK 1.4.5 released – major enhancement to ODK Collect'
 date: 2015-01-13T15:01:21+00:00
 author: Mitchell Sundt
 layout: single
@@ -9,13 +9,13 @@ guid: https://opendatakit.org/?p=6014
 ---
 There are new v1.4.5 versions available on the downloads page <a title="Downloads Page" href="https://opendatakit.org/downloads/" target="_blank">https://opendatakit.org/downloads/</a>
 
-**<span style="color: #008000;">Many thanks to Survey CTO</span>** (<a title="SurveyCTO" href="http://www.surveycto.com" target="_blank">http://www.surveycto.com</a>) for working with the ODK core team to achieve vast improvements in the correctness and speed of the ODK Collect form evaluation logic &#8212; particularly in the handling of repeat groups.
+**<span style="color: #008000;">Many thanks to Survey CTO</span>** (<a title="SurveyCTO" href="http://www.surveycto.com" target="_blank">http://www.surveycto.com</a>) for working with the ODK core team to achieve vast improvements in the correctness and speed of the ODK Collect form evaluation logic — particularly in the handling of repeat groups.
 
 **ODK Collect**
 
   * numerous bug fixes and extreme performance improvements to the form evaluation logic resulting from a close collaboration between the ODK core team and SurveyCTO.
   * Added Admin Setting for “Form Processing Logic” to select among different form evaluation logic implementations: 
-      * Recommended form evaluation logic (default &#8211; whatever logic is the current best going forward)
+      * Recommended form evaluation logic (default – whatever logic is the current best going forward)
       * January 2015 (fastest) form evaluation logic
       * January 2015 (safest) form evaluation logic
       * Mid 2014 form evaluation logic (ODK Collect 1.4.4 and 1.4.3)
