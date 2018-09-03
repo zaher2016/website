@@ -9,7 +9,7 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-I&#8217;m excited to announce the addition of a new feature in ODK Collect &#8212; admin mode!
+I’m excited to announce the addition of a new feature in ODK Collect &#8212; admin mode!
 
 <img src="/assets/wp-content/uploads/2012/11/admin-mode.png" alt="" width="200" align="right" />
 
@@ -17,7 +17,7 @@ Admin mode enables you to customize what features in ODK Collect are available t
 
 For example, you can choose what buttons appear on the main screen in order to prevent collectors from accidentally editing or deleting saved forms.
 
-You can also prevent collectors from jumping to arbitrary prompts, renaming saved forms, or changing any of ODK Collect&#8217;s settings unless they know the admin password.
+You can also prevent collectors from jumping to arbitrary prompts, renaming saved forms, or changing any of ODK Collect’s settings unless they know the admin password.
 
 You can try admin mode in [ODK Collect v1.2.2](https://play.google.com/store/apps/details?id=org.odk.collect.android) on the Google Play Store or at the [ODK download](https://code.google.com/p/opendatakit) site.
 

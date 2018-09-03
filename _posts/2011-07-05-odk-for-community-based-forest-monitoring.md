@@ -15,4 +15,4 @@ Many in the working group use ODK for data collection, and so the core team was 
 
 <img width="170" src="/assets/wp-content/uploads/2011/07/plotType.png" />&nbsp;<img width="170" src="/assets/wp-content/uploads/2011/07/dbhType.png" />&nbsp;<img width="170" src="/assets/wp-content/uploads/2011/07/plotStatus.png" />
 
-If you&#8217;d like to find out more about the working group (and check out all the presentations from the workshop) visit <http://cfm.earthoutreach.org>.
+If you’d like to find out more about the working group (and check out all the presentations from the workshop) visit <http://cfm.earthoutreach.org>.

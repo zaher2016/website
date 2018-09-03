@@ -7,7 +7,7 @@ layout: single
 guid: /?p=5082
 
 ---
-[An agrilinks post](http://agrilinks.org/blog/partnership-open-source-technology-opens-door-improved-survey-data) discusses how ODK can be leveraged for M&E as part of USAID&#8217;s Feed the Future program. 
+[An agrilinks post](http://agrilinks.org/blog/partnership-open-source-technology-opens-door-improved-survey-data) discusses how ODK can be leveraged for M&E as part of USAID’s Feed the Future program. 
 
 _“The project’s work with ODK is just one example of USAID’s public commitment to develop and scale innovation through strategic partnerships with the private sector. Within USAID Forward, smarter data use is placed center stage in the Agency’s efforts to increase transparency, collaboration, and impact.”_
 

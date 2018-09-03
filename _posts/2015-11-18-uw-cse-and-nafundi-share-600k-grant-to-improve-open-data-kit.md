@@ -7,4 +7,4 @@ layout: single
 guid: https://opendatakit.org/?p=6795
 
 ---
-The University of Washington&#8217;s [Computer Science and Engineering](http://cs.washington.edu/) (UW CSE) program has received a $600K grant from the Bill & Melinda Gates Foundation to continue improving ODK. [Nafundi](https://nafundi.com) is a sub-grantee on this effort and will be responsible for providing technical support to organizations implementing ODK. The two-year grant accelerates UW CSE and Nafundi&#8217;s ongoing work making data collection easier and we are excited to have the support of the Gates Foundation.
+The University of Washington’s [Computer Science and Engineering](http://cs.washington.edu/) (UW CSE) program has received a $600K grant from the Bill & Melinda Gates Foundation to continue improving ODK. [Nafundi](https://nafundi.com) is a sub-grantee on this effort and will be responsible for providing technical support to organizations implementing ODK. The two-year grant accelerates UW CSE and Nafundi’s ongoing work making data collection easier and we are excited to have the support of the Gates Foundation.

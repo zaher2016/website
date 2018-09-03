@@ -11,7 +11,7 @@ At [Nafundi](http://nafundi.com), we have made a commitment to improving ODK Col
 
 **Auto sending of finalized forms**
   
-In our consulting work, we&#8217;ve had a few clients request that we change ODK Collect so it automatically sends finalized forms to the server. This feature is needed because it ensures data is immediately available for reports. Auto send also reduces training requirements. Thanks to [eHealth Nigeria](http://ehealthnigeria.org), we are now able to provide this feature to the ODK community. 
+In our consulting work, we’ve had a few clients request that we change ODK Collect so it automatically sends finalized forms to the server. This feature is needed because it ensures data is immediately available for reports. Auto send also reduces training requirements. Thanks to [eHealth Nigeria](http://ehealthnigeria.org), we are now able to provide this feature to the ODK community. 
 
 To enable auto send, go to the main screen, tap the menu button, and then tap General Settings. Scroll to the Auto Send section, and choose to auto send with Wi-Fi or the cell network or both.
 
@@ -23,7 +23,7 @@ Historically, ODK Collect has used swipes to move between form entry screens. Th
 
 Today, Android devices are getting larger and we saw an opportunity to make form navigation more intuitive for novice users. To do this, we added an option for placing forward and backward buttons on the bottom of the form entry screens. 
 
-To try this feature, tap the menu button while on the main screen. Tap General Settings and scroll to the User Interface section. Tap on Navigation to choose between horizontal swipes (the default), forward/backward buttons, or both. We think you&#8217;ll find that the buttons make navigation easier for users. Thanks to [The Taskforce for Global Health](http://taskforce.org) for making this feature possible.
+To try this feature, tap the menu button while on the main screen. Tap General Settings and scroll to the User Interface section. Tap on Navigation to choose between horizontal swipes (the default), forward/backward buttons, or both. We think you’ll find that the buttons make navigation easier for users. Thanks to [The Taskforce for Global Health](http://taskforce.org) for making this feature possible.
 
 **Bulk configuration of devices**
   

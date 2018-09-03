@@ -1,6 +1,6 @@
 ---
 id: 3984
-title: 'Using ELMO &#038; ODK in Kenya&#8217;s 2013 Presidential Elections'
+title: 'Using ELMO &#038; ODK in Kenya’s 2013 Presidential Elections'
 date: 2013-07-23T12:01:46+00:00
 author: Waylon Brunette
 layout: single
@@ -11,7 +11,7 @@ Connie Moon Sehat, Assistant Director, Democracy Program, from The Carter Center
 
 _“What does it mean for an election to be democratically successful? Election observation attempts to assess whether a particular election process reflects the will of the people. At [The Carter Center](http://www.cartercenter.org), this requires first-person observations of the conditions and context surrounding the election, everything from voter education before the event to happenings within a particular polling station on election day. In the past, many of these observations teams have used lists of questions, reams of paper, and lots of late night data entry. The Carter Center has observed over 90 elections and with the help of ODK, we are approaching the practice of election observation in a different way._
 
-_ELMO (standing for ELection MOnitoring) is an open-source data collection and reporting system under development by The Carter Center&#8217;s Democracy Program. The system interfaces with ODK Collect to gather data on different aspects of the election process. Since our first prototypes in the Liberian and Cherokee Nation elections of 2011-12, ELMO and ODK Collect have allowed international observers to provide their data via tablets and directly online._
+_ELMO (standing for ELection MOnitoring) is an open-source data collection and reporting system under development by The Carter Center’s Democracy Program. The system interfaces with ODK Collect to gather data on different aspects of the election process. Since our first prototypes in the Liberian and Cherokee Nation elections of 2011-12, ELMO and ODK Collect have allowed international observers to provide their data via tablets and directly online._
 
 _With nearly 30 teams deployed in Kenya, Carter Center staff and observers were able to collect nearly 400 data checklists in 36 hours, covering election processes such as polling station opening, voting operations, counting and tabulation. Prior to the use of ELMO and ODK, staff would spend upwards of 17-20 hours manually transmitting and inputting data to analyze it. But in Kenya, with data coming in real-time on the server, we were able to clean data quickly and generate reports and official statements faster than ever before. In Kenya, using ELMO and ODK improved the accuracy of our data and enabled us to provide important hard data on prevalent parts of the process in a timely fashion, not to mention allowing staff to actually get to sleep!_
 
@@ -19,7 +19,7 @@ _With nearly 30 teams deployed in Kenya, Carter Center staff and observers were 
 
 #### A Carter Center observer witnesses the polling process with tablet (and backup paper forms) in hand.
 
-_This is not to say that we didn&#8217;t run into problems. In Kenya, as in many countries the Center works in, staff faced unique infrastructural and technical challenges such as lack of 3G or 4G coverage on very slow bandwidth hotel wireless networks and tablet malfunctions that required extensive troubleshooting. But troubleshooting and problem solving are all in a day’s work for mission staff and each time we’ve had the opportunity to use ELMO and ODK in the field, we believe we are making this new technology work for us more efficiently._
+_This is not to say that we didn’t run into problems. In Kenya, as in many countries the Center works in, staff faced unique infrastructural and technical challenges such as lack of 3G or 4G coverage on very slow bandwidth hotel wireless networks and tablet malfunctions that required extensive troubleshooting. But troubleshooting and problem solving are all in a day’s work for mission staff and each time we’ve had the opportunity to use ELMO and ODK in the field, we believe we are making this new technology work for us more efficiently._
 
 _All of this is important because as an organization with a strong interest in sustainable impact, The Carter Center sees the success of ELMO and ODK in Kenya as another indicator that this kind of technology can be tremendously useful to improving the quality and accuracy of observation, not just for us but for domestic organizations as well. Higher quality data and analysis from domestic and international observers will generate stronger reports leading to greater overall impact on the electoral process: a goal that all observer organizations strive to achieve._
 
@@ -33,7 +33,7 @@ _&#8211; data collection via multiple channels: ODK Collect, web form, and SMS_
   
  _&#8211; SMS broadcast messaging as an easy way to quickly reach all observers_
   
- _&#8211; support for multiple &#8216;missions&#8217;, each with their own sets of forms, options, users, settings, etc._
+ _&#8211; support for multiple ‘missions’, each with their own sets of forms, options, users, settings, etc._
   
  _&#8211; role-based user management_
   

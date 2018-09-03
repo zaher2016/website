@@ -17,6 +17,6 @@ We are just in testing of how this will work. Next month, we are going to do our
 
 I would like to personally thank you folks for all your effort on ODK and I hope this works out for Wisconsin.</em>”
 
-As you can see below, the [Wisconsin&#8217;s Hazard Assessment and Mapping (WHAM)](http://www.ncwrpc.org/WHAM/) application passed its functional exercise today. Congrats to Andrew and his team!
+As you can see below, the [Wisconsin’s Hazard Assessment and Mapping (WHAM)](http://www.ncwrpc.org/WHAM/) application passed its functional exercise today. Congrats to Andrew and his team!
 
 [<img width="538" src="/assets/wp-content/uploads/2011/10/wham.png" />](https://www.google.com/fusiontables/embedviz?viz=MAP&q=select+col3%3E%3E1+from+1797591+&h=false&lat=45.3747531436229&lng=-89.20268911451967&z=15&t=1&l=col3%3E%3E1)

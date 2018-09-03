@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 The African Soil Information Service (AfSIS) is assisting national agencies in Africa with developing soil information systems. AfSIS uses ODK Collect for field data collection.
 
-From AfSIS&#8217;s website:
+From AfSIS’s website:
   
 _“Data gathering is managed by formhub, a mobile data collection service developed by the Modi Research Group at Columbia University, leverages Open Data Kit (ODK) Collect on the phone. ODK Collect, developed by the University of Washington, is an open source survey tool that can run on nearly any Android phone or tablet, giving organizations the flexibility to choose from a broad range of devices based on availability, budget, hardware specifications, and more. The tool is packaged with comprehensive supporting materials culled from our experiences piloting the tools and the observations of many others who have implemented mobile past surveys over the past years.﻿”_
 

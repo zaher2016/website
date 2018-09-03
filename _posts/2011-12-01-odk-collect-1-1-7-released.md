@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 We are delighted to announce the release of ODK Collect 1.1.7!
 
-In this release, we&#8217;ve added multiple questions per screen, secure network connectivity, a few new widgets and a lot of bug fixes that will make data collection a little easier. Find out all the new features on our [project roadmap](http://code.google.com/p/opendatakit/wiki/Roadmap).
+In this release, we’ve added multiple questions per screen, secure network connectivity, a few new widgets and a lot of bug fixes that will make data collection a little easier. Find out all the new features on our [project roadmap](http://code.google.com/p/opendatakit/wiki/Roadmap).
 
 If you have the Android Market, download it [here](https://market.android.com/details?id=org.odk.collect.android&hl=en) or by searching for “ODK Collect”. You can also find it on our [ODK Collect APK downloads](/downloads/download-category/collect/) page.
 

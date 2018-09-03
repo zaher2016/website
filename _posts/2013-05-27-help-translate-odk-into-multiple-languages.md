@@ -7,7 +7,7 @@ layout: single
 guid: /?p=3816
 
 ---
-We designed ODK to work all over the world and supporting multiple languages inside each tool has always been an important goal. With the community&#8217;s help, we&#8217;ve made great progress. For example, ODK Collect has been localized into seventeen languages!
+We designed ODK to work all over the world and supporting multiple languages inside each tool has always been an important goal. With the community’s help, we’ve made great progress. For example, ODK Collect has been localized into seventeen languages!
 
 We think the current localization process is a little cumbersome, so today, in partnership with [Nafundi](http://nafundi.com), we are launching a new easy-to-use process to improve on and add to these seventeen translations.
 

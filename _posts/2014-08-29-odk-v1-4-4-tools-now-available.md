@@ -38,4 +38,4 @@ xlsform.exe
 
 ##### ODK Validate
 
-  * Fix: recognizes property(&#8216;propertyname&#8217;) function and detects typos in property names
+  * Fix: recognizes property(‘propertyname’) function and detects typos in property names

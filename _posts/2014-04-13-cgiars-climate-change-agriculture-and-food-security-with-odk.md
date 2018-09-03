@@ -1,15 +1,15 @@
 ---
 id: 4924
-title: 'CGIAR&#8217;s Climate Change, Agriculture, and Food Security with ODK'
+title: 'CGIAR’s Climate Change, Agriculture, and Food Security with ODK'
 date: 2014-04-13T13:55:58+00:00
 author: Waylon Brunette
 layout: single
 guid: /?p=4924
 
 ---
-CGIAR&#8217;s Research Program on Climate Change, Agriculture, and Food Security posted a [blog entry](http://ccafs.cgiar.org/blog/agriculture-and-climate-change-research-meet-high-tech-world-easy-use-online-data-kit) discussing the benefits and challenges of using ODK for research.
+CGIAR’s Research Program on Climate Change, Agriculture, and Food Security posted a [blog entry](http://ccafs.cgiar.org/blog/agriculture-and-climate-change-research-meet-high-tech-world-easy-use-online-data-kit) discussing the benefits and challenges of using ODK for research.
 
-From CGIAR&#8217;s [Blog Post:](http://ccafs.cgiar.org/blog/agriculture-and-climate-change-research-meet-high-tech-world-easy-use-online-data-kit)
+From CGIAR’s [Blog Post:](http://ccafs.cgiar.org/blog/agriculture-and-climate-change-research-meet-high-tech-world-easy-use-online-data-kit)
 
 **_What are the benefits from working with online data tools?_** 
 

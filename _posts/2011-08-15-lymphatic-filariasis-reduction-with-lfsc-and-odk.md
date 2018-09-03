@@ -17,6 +17,6 @@ Alex Pavluck from LFSC writes, “_Our research activities have been strengthene
 
 We are going to be working in countries throughout West Africa, East Africa, South Pacific, and Southeast Asia. The number of phones will depend on the size of the teams. The way we are implementing ODK is as a replacement for a previous PDA based solution where the survey was hard-coded. That system had a relational database that linked demographic to test results via bar codes. Now, we developed separate surveys for the field, the onsite lab, and for the reference laboratories. All of the data will be linked by personID, which is a bar code scanned ID, on the back-end. We are using Google Apps to collect the data and then downloading it into a mySQL database. We have build a webpage using PHP/mySQL to link and present the data as reports and downloadable datasets. We found that splitting the roles into separate surveys made the work, and training, easier for everyone.
 
-I tried many other solutions before ODK, including other EpiCollect, but found ODK&#8217;s solution was the best. I am excited to use the software and I am happy to help anyone else who is trying to get started with an ODK solution of their own.</em>”
+I tried many other solutions before ODK, including other EpiCollect, but found ODK’s solution was the best. I am excited to use the software and I am happy to help anyone else who is trying to get started with an ODK solution of their own.</em>”
 
-Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).
+Do you have an ODK story you’d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).

@@ -19,4 +19,4 @@ This release:
 
 You can find more details in the [release notes](https://github.com/opendatakit/opendatakit/wiki/Collect-Release-Notes).
 
-Thanks to Allan, Brent, Hélène, Jon, Max, and Neil for their contributions to this release! If you are a developer, don&#8217;t let these folks have all the fun. Go to [GitHub](https://github.com/opendatakit/collect) and help us fix bugs for the next release.
+Thanks to Allan, Brent, Hélène, Jon, Max, and Neil for their contributions to this release! If you are a developer, don’t let these folks have all the fun. Go to [GitHub](https://github.com/opendatakit/collect) and help us fix bugs for the next release.

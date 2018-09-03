@@ -17,4 +17,4 @@ The first part of the paper, application options, details my results of attempti
 
 The second part of the paper, detailed instructions, gives detailed step by step instructions on how to create GIS data collection and display solutions for each of the development options found to have the most potential. Each set of detailed instructions covers all of the steps needed by a user with no previous experience to install, configure, build, and deploy the solution.</em>”
 
-Download the paper from [Doug Browning](https://sites.google.com/site/dougbrowningportfolio/Resources/mobile-gis)&#8216;s site.
+Download the paper from [Doug Browning](https://sites.google.com/site/dougbrowningportfolio/Resources/mobile-gis)‘s site.

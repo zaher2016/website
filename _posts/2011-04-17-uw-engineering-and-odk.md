@@ -9,4 +9,4 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-The UW&#8217;s [College of Engineering](http://www.engr.washington.edu/) students, faculty and researchers tackle new problems and seek to transform our lives through innovation every day. In the [video](https://www.youtube.com/watch?v=98esaJqCUvg) below, I describe how the UW enables the work we do on ODK.
+The UW’s [College of Engineering](http://www.engr.washington.edu/) students, faculty and researchers tackle new problems and seek to transform our lives through innovation every day. In the [video](https://www.youtube.com/watch?v=98esaJqCUvg) below, I describe how the UW enables the work we do on ODK.

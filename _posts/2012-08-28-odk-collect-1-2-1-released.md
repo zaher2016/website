@@ -17,7 +17,7 @@ ODK Collect 1.2.1 has been released. Upgrades are available on the <a href="/dow
 
   * Draw widget &#8212; freeform drawing
   * Annotate widget &#8212; take a picture then annotate it by drawing on top of the image.
-  * Signature widget &#8212; capture a user&#8217;s signature
+  * Signature widget &#8212; capture a user’s signature
 
 2) Autoplay of audio or video prompts as you swipe forward in a form. See the examples page, at the bottom, for how to enable that feature.
 

@@ -7,7 +7,7 @@ layout: single
 guid: /?p=5018
 
 ---
-Megan J. Miller from [AMPATH](http://www.ampathkenya.org) wrote in to highlight an incredible milestone. AMPATH&#8217;s ODK-powered home-based HIV/AIDS counseling and testing program in Western Kenya has reached over a million people.
+Megan J. Miller from [AMPATH](http://www.ampathkenya.org) wrote in to highlight an incredible milestone. AMPATH’s ODK-powered home-based HIV/AIDS counseling and testing program in Western Kenya has reached over a million people.
 
 In the village of Soy, Uasin Gishu County, Kenya, William Tenai, and his wife Jane anxiously awaited a group of visitors from Eldoret. The visitors included AMPATH leaders and community health workers who would be testing Mr. and Mrs. Tenai for HIV. The AMPATH leaders came along on this home-based testing visit because Mr. and Mrs. Tenai would soon become the one-millionth person and one-millionth-and-one person respectively to be reached since the inception of the AMPATH perpetual home-based counseling and testing program (pHCT).
 

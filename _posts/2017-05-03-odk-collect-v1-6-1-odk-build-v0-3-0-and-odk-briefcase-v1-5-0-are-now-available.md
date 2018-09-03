@@ -7,11 +7,11 @@ layout: single
 guid: https://opendatakit.org/?p=8331
 
 ---
-April&#8217;s updates to Collect, Build, and Briefcase are now available, and if you care about offline data collection at scale, there is a lot to be excited about!
+April’s updates to Collect, Build, and Briefcase are now available, and if you care about offline data collection at scale, there is a lot to be excited about!
 
-We&#8217;ve made Collect much smaller to download and improved date handling, Build is about 100x faster for big forms and can now be used entirely offline, and Briefcase de-duplicates exports to save disk space and reduce data cleaning.
+We’ve made Collect much smaller to download and improved date handling, Build is about 100x faster for big forms and can now be used entirely offline, and Briefcase de-duplicates exports to save disk space and reduce data cleaning.
 
-Across all three tools, we had more 25 individual contributors adding features, fixing bugs, and improving the quality of the code. We&#8217;ve put the highlights below, but be sure to check out the full release notes!
+Across all three tools, we had more 25 individual contributors adding features, fixing bugs, and improving the quality of the code. We’ve put the highlights below, but be sure to check out the full release notes!
 
 ODK improves a lot faster if you contribute! If you are a user, please file issues when you find them. If you are a developer, join us on <http://slack.opendatakit.org> and help fix those issues for the next release. Together, we can make ODK even better!
 

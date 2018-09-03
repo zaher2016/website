@@ -9,7 +9,7 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-Sanjay Patel and Adam Hammouda from [WebFirst](http://webfirst.com/) will be at University of Maryland&#8217;s [HCI Lab Symposium](http://www.cs.umd.edu/hcil/soh/) this week, presenting on their work on a [Open Source mHealth Solution based on Drupal 7](http://www.cs.umd.edu/hcil/sharp/workshop2011/speakers.html). The abstract is below.
+Sanjay Patel and Adam Hammouda from [WebFirst](http://webfirst.com/) will be at University of Maryland’s [HCI Lab Symposium](http://www.cs.umd.edu/hcil/soh/) this week, presenting on their work on a [Open Source mHealth Solution based on Drupal 7](http://www.cs.umd.edu/hcil/sharp/workshop2011/speakers.html). The abstract is below.
 
 “_Many data collection platforms exist in the world of mobile health. Examples of these include: EpiSurveyor, Ushahidi, MOTECH, RapidSMS, FrontlineSMS. While these solutions are low-cost and effective for many mHealth interventions, they are limited in their flexibility, scalability, and ability to publish and share data. In order to fully achieve the goals of the mHealth community (improving access to information, improve data reliability, improve the quality of care by providing better decision-support tools) it is important to consider platforms that are open and well-supported by a large developer community.</p> 
 

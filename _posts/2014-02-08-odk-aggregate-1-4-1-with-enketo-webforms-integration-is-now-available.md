@@ -21,7 +21,7 @@ See the release notes for details:
 
 Highlights:
 
-  1. <a href="https://enketo.org/" title="Enketo" target="_blank">Enketo</a> Webforms integration. You can now use Enketo&#8217;s browser-based Webforms to fill-in and publish submissions directly into ODK Aggregate. This feature was developed and donated by <a href="http://sdrc.co.in/" title="SDFC India" target="_blank">SDRC India</a>. To enable Enketo integration, go to the `Site Admin / Preferences` tab and click on `Enketo API Configuration`.
+  1. <a href="https://enketo.org/" title="Enketo" target="_blank">Enketo</a> Webforms integration. You can now use Enketo’s browser-based Webforms to fill-in and publish submissions directly into ODK Aggregate. This feature was developed and donated by <a href="http://sdrc.co.in/" title="SDFC India" target="_blank">SDRC India</a>. To enable Enketo integration, go to the `Site Admin / Preferences` tab and click on `Enketo API Configuration`.
   2. fix the `Z-ALPHA JSON` publisher and the `JSON File` export to emit an array of zero or more objects, one object per submission, with proper treatment of embedded quotes, no missing comma, etc. Confirmed that the output passes JSLint.
   3. fix the `CVS File` export functionality to double-up all occurrences of double-quotes in a field before surrounding that field with double quotes (per RFC 4180). This should correct problems with importing text containing double quotes.
   4. clean up date and time handling in `REDCap` publisher and enforce GMT time zone interpretation when rendering date and time strings.

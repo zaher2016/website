@@ -12,7 +12,7 @@ The ODK Team is pleased to announce a new release that includes many new excitin
 ### **Collect 1.3**
 
   * Added printer support on Android 3.1 and higher systems. See <a href="/help/form-design/examples/#printing_widgets" rel="nofollow">example printing widget</a> and <a href="/use/sensors-framework/zebra-printer-driver/" rel="nofollow">printer driver</a> for more information
-  * configurable display and use of &#8216;back&#8217; and &#8216;next&#8217; buttons, and the enabling or disabling of swipe treatment within form pages (contributed work by Nafundi).
+  * configurable display and use of ‘back’ and ‘next’ buttons, and the enabling or disabling of swipe treatment within form pages (contributed work by Nafundi).
   * configurable background transmission of submissions when network connections are detected (contributed work by Nafundi).
   * application settings can now be saved to disk and loaded from disk (makes configuring device fleets easier). (contributed work by Nafundi).
   * [issue 401](http://code.google.com/p/opendatakit/issues/detail?id=401 "Show bigger box for 'long text' fields ") &#8211; string prompts now can render a configurable-height text entry box, via the <tt>rows</tt> attribute on their <tt><input></tt> tag.
@@ -25,10 +25,10 @@ The ODK Team is pleased to announce a new release that includes many new excitin
 
   * Improved Fusion Tables publisher  that will batch submissions to move the data to Fusion Tables much faster (a reduction in speed occurred when Aggregate 1.3 moved away from Fusion Tables deprecated API to Fusion Tables API v1).
   * Automatically create a Fusion Tables View that includes all first-level repeats.
-  * change watchdog to run more frequently if there is an active publisher. Provide a &#8216;disable&#8217; button on the Site Admin / Preferences page to restore older behavior (to conserve GAE quota).
+  * change watchdog to run more frequently if there is an active publisher. Provide a ‘disable’ button on the Site Admin / Preferences page to restore older behavior (to conserve GAE quota).
   * [issue 794](http://code.google.com/p/opendatakit/issues/detail?id=794 "Error handling in FormParserForJavaRosa.guardedInitHelper() could use improvement") &#8211; form upload failed for some forms on MySQL with stack exhaustion.
   * [issue 761](http://code.google.com/p/opendatakit/issues/detail?id=761 "Publish to JSON Server fails and crashes Aggregate UI") &#8211; Fix to simple JSON publisher. had caused instability when used.
-  * [issue 697](http://code.google.com/p/opendatakit/issues/detail?id=697 "Problematic placement of Aggregate's delete-form pop-up") &#8211; popups don&#8217;t show centered in screen when displayed on top of scrolling regions.
+  * [issue 697](http://code.google.com/p/opendatakit/issues/detail?id=697 "Problematic placement of Aggregate's delete-form pop-up") &#8211; popups don’t show centered in screen when displayed on top of scrolling regions.
   * [issue 786](http://code.google.com/p/opendatakit/issues/detail?id=786 "Aggregate: can't upload revisions to forms with repeat groups") &#8211; forms with repeat groups cannot be versioned.
   * [issue 768](http://code.google.com/p/opendatakit/issues/detail?id=768 "Rows-per-page value keeps being reset") &#8211; rows-per-page value keeps getting reset on refresh..
 

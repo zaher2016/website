@@ -9,7 +9,7 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-The [Punjab Health Sector Reform Program](http://www.phsrp.punjab.gov.pk/) (PHSRP) of Punjab Government&#8217;s Health Department has developed a project they call, “Monitoring the Monitors”. As the name implies, health monitors tasked with visiting health facilities in their area will be required to enter data in an ODK-enabled phone.
+The [Punjab Health Sector Reform Program](http://www.phsrp.punjab.gov.pk/) (PHSRP) of Punjab Government’s Health Department has developed a project they call, “Monitoring the Monitors”. As the name implies, health monitors tasked with visiting health facilities in their area will be required to enter data in an ODK-enabled phone.
 
 In their detailed “[PHSRP &#8211; Monitoring the Monitors](http://www.punjabmodel.gov.pk/dashboard/downloads/PHSRP%20-%20Monitoring%20the%20Monitors.pdf)” whitepaper, Program Director Farasat Iqbal says, “_Our traditional monitoring system had many weaknesses which we wanted to overcome. The practical situation is that the current system is irregular and unreliable._”
 

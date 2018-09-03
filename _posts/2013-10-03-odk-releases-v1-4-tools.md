@@ -12,7 +12,7 @@ Version 1.4 updates to the ODK tools are now available:
 ### ODK Collect 1.4 rev 1037
 
   * Fix to prevent corruption during encryption. See notes for details.
-  * new &#8216;placement-map&#8217; appearance for geopoint widget. Allows the user to move the location marker on the map.
+  * new ‘placement-map’ appearance for geopoint widget. Allows the user to move the location marker on the map.
   * Now uses Android 3.x and 4.x look-and-feel when running on those devices.
   * Several functions have been added for use in calculations.
   * Numerous other bug fixes and enhancements.
