@@ -23,9 +23,9 @@ ODK Collect 1.2.1 has been released. Upgrades are available on the <a href="/dow
 
 &#8212;&#8211;
 
-Examples of how to use the new features can be found on the example page: <a href="/help/form-design/examples/" target="_blank">/help/<wbr>form-design/examples/</wbr></a>
+Examples of how to use the new features can be found on the example page: <a href="/help/form-design/examples/" target="_blank">/help/form-design/examples/</a>
 
-Additional changes of note are found in the release notes: <a href="http://code.google.com/p/opendatakit/wiki/CollectReleaseNotes" target="_blank">http://code.google.com/p/<wbr>opendatakit/wiki/<wbr>CollectReleaseNotes</wbr></wbr></a>
+Additional changes of note are found in the release notes: <a href="http://code.google.com/p/opendatakit/wiki/CollectReleaseNotes" target="_blank">http://code.google.com/p/opendatakit/wiki/CollectReleaseNotes</a>
 
 <div>
   <div id=":18a" data-tooltip="Show trimmed content">

@@ -15,7 +15,7 @@ Therefore, the ODK team is requesting that all ODK users please fill out a brief
 
 The survey is available here:
   
-<a href="https://catalyst.uw.edu/webq/survey/nixdell/175976" target="_blank">https://catalyst.uw.edu/webq/<wbr>survey/nixdell/175976</wbr></a>
+<a href="https://catalyst.uw.edu/webq/survey/nixdell/175976" target="_blank">https://catalyst.uw.edu/webq/survey/nixdell/175976</a>
 
 Thanks in advance for dedicating some of your valuable time to provide feedback to the ODK Team!
 
