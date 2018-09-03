@@ -9,11 +9,11 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-[Maryann Cairns](http://anthropology.usf.edu/graduate/Cairns/) is a doctoral student in Applied Anthropology at University of South Florida. As part of an NSF-funded research grant she had the opportunity to travel to Bolivia to complete data collection for her &#8220;Community Perceptions and Community Impact: An Assessment of Water Systems in Rural Bolivia&#8221; project. 
+[Maryann Cairns](http://anthropology.usf.edu/graduate/Cairns/) is a doctoral student in Applied Anthropology at University of South Florida. As part of an NSF-funded research grant she had the opportunity to travel to Bolivia to complete data collection for her “Community Perceptions and Community Impact: An Assessment of Water Systems in Rural Bolivia” project. 
 
-Maryann used the [KoBo Project](http://koboproject.org/), data collection tools from Berkeley&#8217;s [Human Rights Center](http://www.law.berkeley.edu/HRCweb/index.html). Like ODK, KoBo is built on the [OpenRosa](http://openrosa.org/) standard. The popular tools are the KoBo Form Builder (based on [PurcForms](http://code.google.com/p/purcforms/)) and KoBo Post Processor. ODK and KoBo tools are fully compatible so many users like Maryann can mix and match as they need!
+Maryann used the [KoBo Project](http://koboproject.org/), data collection tools from Berkeley’s [Human Rights Center](http://www.law.berkeley.edu/HRCweb/index.html). Like ODK, KoBo is built on the [OpenRosa](http://openrosa.org/) standard. The popular tools are the KoBo Form Builder (based on [PurcForms](http://code.google.com/p/purcforms/)) and KoBo Post Processor. ODK and KoBo tools are fully compatible so many users like Maryann can mix and match as they need!
 
-She writes, _&#8220;I was lucky enough to have the funding to purchase 5 Huawei IDEOS devices and worked with ODK and KoBo for my surveys. </p> 
+She writes, _“I was lucky enough to have the funding to purchase 5 Huawei IDEOS devices and worked with ODK and KoBo for my surveys. </p> 
 
 [<img src="/assets/wp-content/uploads/2011/07/IMG_3943-300x225.jpg" width="250" align="left" />](/assets/wp-content/uploads/2011/07/IMG_3943.jpg) 
 
@@ -34,7 +34,7 @@ The Bolivian university students involved in my project as enumerators learned t
 
 [<img src="/assets/wp-content/uploads/2011/07/IMG_3945-300x225.jpg" width="250" align="right" />](/assets/wp-content/uploads/2011/07/IMG_3945.jpg)
 
-The research assistant that worked with me learned the basics of ODK Build, KoBo Form Builder, data collection software, and learned to sync with the KoBo Post Processor after minimal training. Now, she is one of the best undergrads I have ever worked with &#8212; but it really is intuitive.
+The research assistant that worked with me learned the basics of ODK Build, KoBo Form Builder, data collection software, and learned to sync with the KoBo Post Processor after minimal training. Now, she is one of the best undergrads I have ever worked with — but it really is intuitive.
 
 I did not have any trouble with students being distracted by the fact that the devices are in fact telephones. I checked the applications they used daily and KoBo was the only app they visited. Students are interested in the software and want to work with ODK and KoBo in the future.
 
@@ -43,14 +43,14 @@ I hold that ODK and KoBo
   1. Are faster than paper. I had a 99 question survey and it took enumerators approximately 15-30 minutes to complete including the informed consent process.
   2. Produces more accurate data than that collected with paper. I argue that there is a decreased error rate, but I will have to update on this as I complete analysis.
 
-One of my colleagues asked me prior to my trip if I was worried about the individuals involved in my survey being put-off or shocked by the use of technology (cell phones, ODK, KoBo) for data collection. I wasn&#8217;t. 
+One of my colleagues asked me prior to my trip if I was worried about the individuals involved in my survey being put-off or shocked by the use of technology (cell phones, ODK, KoBo) for data collection. I wasn’t. 
 
 However, just to confirm after my research experience, the individuals we surveyed were mostly poor rural farmers, but none of my enumerators reported any of those interviewed being shocked or upset by the technology. Most everyone these days has seen a cell phone. 
 
 [<img src="/assets/wp-content/uploads/2011/07/IMG_3935-300x225.jpg" width="250" align="left" />](/assets/wp-content/uploads/2011/07/IMG_3935.jpg)
 
-The enumerators reported that it was not intimidating and that the technology didn&#8217;t even elicit comment from most of those who were surveyed. I would argue that using the cell for voice recording would have been less intimidating than a traditional voice recording device &#8212; I might try to work that out for my next trip. 
+The enumerators reported that it was not intimidating and that the technology didn’t even elicit comment from most of those who were surveyed. I would argue that using the cell for voice recording would have been less intimidating than a traditional voice recording device — I might try to work that out for my next trip. 
 
-I completed qualitative focus groups and interviews without the use of ODK and KoBo for this trip. However, I think that the tools have endless possibilities for qualitative data collection. When I return to Bolivia it is possible that I may use them for photo voice/photo essays, voice/video recording, more extensive mapping, etc. I&#8217;ll keep you posted.&#8221;</em>
+I completed qualitative focus groups and interviews without the use of ODK and KoBo for this trip. However, I think that the tools have endless possibilities for qualitative data collection. When I return to Bolivia it is possible that I may use them for photo voice/photo essays, voice/video recording, more extensive mapping, etc. I’ll keep you posted.”</em>
 
-Do you have an ODK story you&#8217;d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).
+Do you have an ODK story you’d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).

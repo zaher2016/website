@@ -9,9 +9,9 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-We&#8217;ve shipped a bunch of new updates to ODK tools this week. If you are using old versions, make sure to upgrade by going [here](/downloads/)!
+We’ve shipped a bunch of new updates to ODK tools this week. If you are using old versions, make sure to upgrade by going [here](/downloads/)!
 
-[ODK Aggregate 1.0.6](http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes) now supports publishing of forms from Build. We&#8217;ve also added support do bulk delete submissions.
+[ODK Aggregate 1.0.6](http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes) now supports publishing of forms from Build. We’ve also added support do bulk delete submissions.
 
 [ODK Briefcase 1.0.2](http://code.google.com/p/opendatakit/wiki/ODKBriefcase) and [ODK Form Uploader 1.0.2](http://code.google.com/p/opendatakit/wiki/ODKFormUploader) now work much better when accessing Aggregate through slow internet connections.
 

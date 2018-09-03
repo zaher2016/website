@@ -13,6 +13,6 @@ Agricultural organizations across East Africa are working hard to help smallhold
 
 From October 16th to October 18th at Sankara Nairobi, the partners will train developers on useful data collection tools like Open Data Kit, connect these developers with organizations in need, and support both as they brainstorm and build solutions during a hackathon. Teams will compete for the best solution and the winner will earn a consultancy contract to further develop their idea.
 
-In addition to the training and hackathon, there will be a kickoff and networking reception on the evening of October 16th. The reception will feature a keynote speech by [Dr. Bitange Ndemo](http://bitangendemo.me/), former Permanent Secretary of Kenya&#8217;s Ministry of Information and Communication.
+In addition to the training and hackathon, there will be a kickoff and networking reception on the evening of October 16th. The reception will feature a keynote speech by [Dr. Bitange Ndemo](http://bitangendemo.me/), former Permanent Secretary of Kenya’s Ministry of Information and Communication.
 
 To sign up for Hack4Farming hackathon in Nairobi from October 16th to 18th, go to [https://hack4farming.github.io](https://hack4farming.github.io/).

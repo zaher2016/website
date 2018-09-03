@@ -9,7 +9,7 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-A recent Carter Center blog post entitled &#8220;<a title="Permanent Link to Carter Center on Leading Edge of Technology Use in Election Observation" href="http://blog.cartercenter.org/2012/08/06/carter-center-on-leading-edge-of-technology-use-in-election-observation/" rel="bookmark">Carter Center on Leading Edge of Technology Use in Election Observation</a>&#8221; discusses their use of Open Data Kit:
+A recent Carter Center blog post entitled “<a title="Permanent Link to Carter Center on Leading Edge of Technology Use in Election Observation" href="http://blog.cartercenter.org/2012/08/06/carter-center-on-leading-edge-of-technology-use-in-election-observation/" rel="bookmark">Carter Center on Leading Edge of Technology Use in Election Observation</a>” discusses their use of Open Data Kit:
 
 _The Carter Center is pioneering new technology that allows observations from polling stations across a country to be transmitted to headquarters immediately, allowing a richer picture of an election to emerge in real time – key to being able to determine quicker if an election is credible._
 

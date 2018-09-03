@@ -13,4 +13,4 @@ One of the big challenges facing the Open Data Kit team is understanding how and
 
 To help inform our next steps, we would like all previous and current users of Open Data Kit tools to complete the brief survey at <http://goo.gl/B5VSP>.
 
-The information we gather will be used to demonstrate ODK&#8217;s impact and will guide how we move the project forward. Thanks for your time and your feedback.
+The information we gather will be used to demonstrate ODK’s impact and will guide how we move the project forward. Thanks for your time and your feedback.

@@ -9,9 +9,9 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-We&#8217;ve opened up a web-enabled chatroom for the ODK community. 
+We’ve opened up a web-enabled chatroom for the ODK community. 
 
-This chat is available for real-time communication with other community members. It can be an ideal way to get help with a problem you&#8217;re having, discuss development ideas, or just chat and share information.
+This chat is available for real-time communication with other community members. It can be an ideal way to get help with a problem you’re having, discuss development ideas, or just chat and share information.
 
 You can login at <http://webchat.freenode.net/?channels=opendatakit>. For those familiar with [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat), you can also connect to [#opendatakit](irc://irc.freenode.net/opendatakit) on freenode.net. 
 

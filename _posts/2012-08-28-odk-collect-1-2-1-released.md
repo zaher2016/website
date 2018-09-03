@@ -15,13 +15,13 @@ ODK Collect 1.2.1 has been released. Upgrades are available on the <a href="/dow
 
 1) Behr Atherton has contributed 3 new data widgets ([examples plus code snippets](/help/form-design/examples/ "Examples"))
 
-  * Draw widget &#8212; freeform drawing
-  * Annotate widget &#8212; take a picture then annotate it by drawing on top of the image.
-  * Signature widget &#8212; capture a user&#8217;s signature
+  * Draw widget — freeform drawing
+  * Annotate widget — take a picture then annotate it by drawing on top of the image.
+  * Signature widget — capture a user’s signature
 
 2) Autoplay of audio or video prompts as you swipe forward in a form. See the examples page, at the bottom, for how to enable that feature.
 
-&#8212;&#8211;
+—–
 
 Examples of how to use the new features can be found on the example page: <a href="/help/form-design/examples/" target="_blank">/help/form-design/examples/</a>
 

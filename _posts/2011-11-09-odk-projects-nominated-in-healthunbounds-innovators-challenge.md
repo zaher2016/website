@@ -1,6 +1,6 @@
 ---
 id: 2043
-title: 'ODK Projects Nominated in HealthUnbound&#8217;s Innovators Challenge'
+title: 'ODK Projects Nominated in HealthUnbound’s Innovators Challenge'
 date: 2011-11-09T05:01:52+00:00
 author: Yaw Anokwa
 layout: single
@@ -19,11 +19,11 @@ aktt_notify_twitter:
     MiDoctor uses ODK Voice for their interactive voice response functionality.
   * **Julius K.A. Awakame: OpenMRS-based telepsychiatry using mobile phones**
   
-    Mobile components of Julius&#8217; system will build on ODK.
-  * **Martin Were: AMPATH&#8217;s mHealth Programs**
+    Mobile components of Julius’ system will build on ODK.
+  * **Martin Were: AMPATH’s mHealth Programs**
   
     AMPATH uses ODK Collect and ODK Clinic in many of their mHealth programs.
 
 HealthUnbound needs your help to get down to the winners. Go to <http://healthunbound.org/top11_vote> to learn more and vote on your favorite.
 
-Congratulations to all, and please do [vote now](http://healthunbound.org/top11_vote) &#8212; the deadline is this Friday!
+Congratulations to all, and please do [vote now](http://healthunbound.org/top11_vote) — the deadline is this Friday!

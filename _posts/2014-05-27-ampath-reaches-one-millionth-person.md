@@ -7,7 +7,7 @@ layout: single
 guid: /?p=5018
 
 ---
-Megan J. Miller from [AMPATH](http://www.ampathkenya.org) wrote in to highlight an incredible milestone. AMPATH&#8217;s ODK-powered home-based HIV/AIDS counseling and testing program in Western Kenya has reached over a million people.
+Megan J. Miller from [AMPATH](http://www.ampathkenya.org) wrote in to highlight an incredible milestone. AMPATH’s ODK-powered home-based HIV/AIDS counseling and testing program in Western Kenya has reached over a million people.
 
 In the village of Soy, Uasin Gishu County, Kenya, William Tenai, and his wife Jane anxiously awaited a group of visitors from Eldoret. The visitors included AMPATH leaders and community health workers who would be testing Mr. and Mrs. Tenai for HIV. The AMPATH leaders came along on this home-based testing visit because Mr. and Mrs. Tenai would soon become the one-millionth person and one-millionth-and-one person respectively to be reached since the inception of the AMPATH perpetual home-based counseling and testing program (pHCT).
 
@@ -21,7 +21,7 @@ A celebration event was also held in the Soy village by Dr. Kimaiyo, who met the
 
 In 2009, AMPATH began deploying health workers out into the rural villages and communities. Armed with a bag of testing and counseling supplies and a smartphone with a GPS and AMPATH’s electronic medical record system, the community health workers travel by foot door-to-door assuring every person over the age of 13 and every at-risk child is tested for HIV. AMPATH’s structure to end the HIV pandemic is based on the FLTR model: to find (F) every HIV-infected person, link (L) that person to care, treat (T) the individual, and retain (R) them in care.
 
-&#8220;The ability to collect data in electronic form and integrate it with the rest of the system is the most important tool we have to be able to successfully implement the pHCT program,&#8221; said Martin Were, Chief Medical Information Officer for the AMPATH Consortium. &#8220;The Open Data Kit has been instrumental in this data collection.&#8221;
+“The ability to collect data in electronic form and integrate it with the rest of the system is the most important tool we have to be able to successfully implement the pHCT program,” said Martin Were, Chief Medical Information Officer for the AMPATH Consortium. “The Open Data Kit has been instrumental in this data collection.”
 
 In addition to reaching HIV-positive people and connecting them with necessary services, the AMPATH program is also helping those who test negative by making them aware of their status and providing information and support so they remain HIV-free. While historic numbers of patients are receiving modern antiretroviral treatment, the incidence of new infections and prevalence rates remain stubbornly high in Kenya. 
 

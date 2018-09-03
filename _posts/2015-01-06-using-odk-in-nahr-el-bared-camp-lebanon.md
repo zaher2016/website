@@ -7,7 +7,7 @@ layout: single
 guid: https://opendatakit.org/?p=5981
 
 ---
-_A guest blog post from Alia Aghajanian, PhD Candidate from Conflict, Violence and Development Cluster in the Vulnerability and Poverty Reduction Team from the Institute of Development Studies. This was also cross-posted to [Alia&#8217;s blog](https://thesideroom.wordpress.com/2015/01/28/using-open-source-tools-for-data-collection-experience-from-research-in-a-refugee-camp/)._ 
+_A guest blog post from Alia Aghajanian, PhD Candidate from Conflict, Violence and Development Cluster in the Vulnerability and Poverty Reduction Team from the Institute of Development Studies. This was also cross-posted to [Alia’s blog](https://thesideroom.wordpress.com/2015/01/28/using-open-source-tools-for-data-collection-experience-from-research-in-a-refugee-camp/)._ 
 
 **_Alia writes:_**
   

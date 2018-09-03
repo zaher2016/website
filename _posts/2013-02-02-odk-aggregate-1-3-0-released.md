@@ -13,16 +13,16 @@ ODK Aggregate 1.3.0 Production Release is now available for download. In many sm
 
 Significant fixes and features:
 
-  * Three new Alpha-stage publishers have been added &#8211; 1 REDCap compliant XML publisher, 2 JSON publishers. See [Publisher Details](http://code.google.com/p/opendatakit/wiki/AggregateToJSonXmlREDCapPublishers) for information about the new publishers.
+  * Three new Alpha-stage publishers have been added – 1 REDCap compliant XML publisher, 2 JSON publishers. See [Publisher Details](http://code.google.com/p/opendatakit/wiki/AggregateToJSonXmlREDCapPublishers) for information about the new publishers.
   * Most links open a new tab, rather than switching you off the page. Added and enabled links for repeat groups in Fusion Tables publishers and for the Google Spreadsheet publisher.
   * The Fusion Tables publisher now automatically constructs a flattened view (left outer join) of the top-level table and the first repeat group in the table.
-  * Added a &#8216;Published Through&#8217; and an &#8216;Owner&#8217; column to the &#8216;Published Data&#8217; table to communicate the progress of the publisher and who is receiving the data (really, the initial owner).
-  * [Issue 718](http://code.google.com/p/opendatakit/issues/detail?id=718), [Issue 730](http://code.google.com/p/opendatakit/issues/detail?id=730) &#8211; some large forms cause table subdivision algorithm to fail, preventing the form from loading into ODK Aggregate. This change affects what tables are constructed and what they contain.
-  * JSON file export &#8211; remove extra trailing comma from exported dataset (e.g., in repeat groups). Multiple-choice selects are now emitted as an array of string values.
+  * Added a ‘Published Through’ and an ‘Owner’ column to the ‘Published Data’ table to communicate the progress of the publisher and who is receiving the data (really, the initial owner).
+  * [Issue 718](http://code.google.com/p/opendatakit/issues/detail?id=718), [Issue 730](http://code.google.com/p/opendatakit/issues/detail?id=730) – some large forms cause table subdivision algorithm to fail, preventing the form from loading into ODK Aggregate. This change affects what tables are constructed and what they contain.
+  * JSON file export – remove extra trailing comma from exported dataset (e.g., in repeat groups). Multiple-choice selects are now emitted as an array of string values.
   * Forms are now listed alphabetically by title.
   * Installer now supports migrated AppEngine instance (for Master-Slave -to- High-Replication Datastore migration).
   * Webserver configuration has been revised to enable reference VM images to be constructed for, e.g., AWS deployments.
-  * Moved the periodic &#8216;watchdog&#8217; worker to the UI thread, which should lead to a reduction in quota usage.
+  * Moved the periodic ‘watchdog’ worker to the UI thread, which should lead to a reduction in quota usage.
   * Annual jar update and transition to OAuth 2.0 for all Google publishers.
 
 [Read the release notes](http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes) and then [download Aggregate v1.3](/downloads/) to try it out.

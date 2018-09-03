@@ -15,7 +15,7 @@ In the eastern Indonesian province of Nusa Tenggara Timur (NTT) problems of wate
   
 _Slope mass failure resulting in blockage of the primary irrigation channel. This results in areas downstream having no water for irrigation and growing food. ODK is a useful tool for local farmers to record this information and inform maintenance managers of the need for repair._
 
-As part of an Indonesian and International Research Partnership, Nusa Cendana University (UNDANA) and Charles Darwin University (CDU) trialed ODK as a tool to collect information on maintenance needs in poor and remote irrigated farming areas. Irrigation infrastructure in the areas is in need of regular maintenance to ensure equitable distribution of water thereby eradicating the &#8220;hungry season.&#8221;
+As part of an Indonesian and International Research Partnership, Nusa Cendana University (UNDANA) and Charles Darwin University (CDU) trialed ODK as a tool to collect information on maintenance needs in poor and remote irrigated farming areas. Irrigation infrastructure in the areas is in need of regular maintenance to ensure equitable distribution of water thereby eradicating the “hungry season.”
 
 <img src="/assets/wp-content/uploads/2016/05/undana-staff.jpg" alt="CDU and UNDANA staff" width="538" />
   

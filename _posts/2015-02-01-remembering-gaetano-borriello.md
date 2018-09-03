@@ -15,6 +15,6 @@ There is an [official announcement](https://news.cs.washington.edu/2015/02/01/re
 
 When we started working on ODK in 2008, Gaetano had just been diagnosed with cancer. Although he was given a few months to live, he refused to change course, instead doubling down on making ODK a reality. Over the last six years, Gaetano fought cancer with his unique brand of stubborn optimism. He drew his strength from this community and was so proud of ODK’s global impact.
 
-It&#8217;s a difficult time for all of us involved with ODK, but we have Gaetano’s example to guide us. The last thing he asked of us was to continue doing good work. It’s a responsibility we have planned for and take very seriously. ODK research and development will continue for years to come.
+It’s a difficult time for all of us involved with ODK, but we have Gaetano’s example to guide us. The last thing he asked of us was to continue doing good work. It’s a responsibility we have planned for and take very seriously. ODK research and development will continue for years to come.
 
 In remembrance of Gaetano’s legacy, the University of Washington has established two funds that accept donations: one supports [Open Data Kit research](https://www.washington.edu/giving/make-a-gift/?source_typ=3&source=CSEODK) and the other is a [student fellowship for improving the lives of the underserved](https://www.washington.edu/giving/make-a-gift/?page=make&code=GBEDFL).

@@ -11,9 +11,9 @@ Over the years the ODK team has received numerous feature requests for integrati
 
 To try Open[fn] go to the website: [https://www.openfn.org/](https://www.openfn.org/ "https://www.openfn.org/")
 
-The Open[fn] platform&#8217;s vision articulated in the [Salesforce Foundation blog entry](http://www.salesforcefoundation.org/technology-isnt-answer-shouldnt-problem/) is:
+The Open[fn] platform’s vision articulated in the [Salesforce Foundation blog entry](http://www.salesforcefoundation.org/technology-isnt-answer-shouldnt-problem/) is:
 
-_&#8220;We see a future where the technical setup of a mobile money platform, a biometrics tool, even an offline clinic registration platform, feels just like downloading an app from the app store. We’re still a long way from that reality, but we’ve built a totally open-source integration platform that’s poised to bring together the “technology for development” landscape with clicks, not code. Our marketplace guides users to the right tools based on their needs, our blog will feature in-depth case studies and implementation guides, and our mapping tool allows non-technical users to get data flowing from one technology to another in a few minutes.&#8221;_
+_“We see a future where the technical setup of a mobile money platform, a biometrics tool, even an offline clinic registration platform, feels just like downloading an app from the app store. We’re still a long way from that reality, but we’ve built a totally open-source integration platform that’s poised to bring together the “technology for development” landscape with clicks, not code. Our marketplace guides users to the right tools based on their needs, our blog will feature in-depth case studies and implementation guides, and our mapping tool allows non-technical users to get data flowing from one technology to another in a few minutes.”_
 
 More information about the Open[fn] can be found on [Salesforce Foundation blog entry](http://www.salesforcefoundation.org/technology-isnt-answer-shouldnt-problem/) or on their website [https://www.openfn.org/](https://www.openfn.org/ "https://www.openfn.org/").
 

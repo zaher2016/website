@@ -15,7 +15,7 @@ There are new v1.4.4 versions of:
   * IE 6 and IE 7 are no longer supported.
   * Fix for column naming bug that sometimes impacted tables with 60+character-long field names
   * Many updates to 3rd party libraries
-  * Incompatible ODK Tables changes &#8212; if you have tried ODK Tables, see the [release notes](http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes) for upgrade steps.
+  * Incompatible ODK Tables changes — if you have tried ODK Tables, see the [release notes](http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes) for upgrade steps.
 
 ##### ODK Collect
 
@@ -34,8 +34,8 @@ There are new v1.4.4 versions of:
 xlsform.exe
 
   * Most documentation has moved to [here](http://xlsform.org/)
-  * New prompt type: &#8220;select one external&#8221; Documentation coming shortly&#8230;
+  * New prompt type: “select one external” Documentation coming shortly…
 
 ##### ODK Validate
 
-  * Fix: recognizes property(&#8216;propertyname&#8217;) function and detects typos in property names
+  * Fix: recognizes property(‘propertyname’) function and detects typos in property names

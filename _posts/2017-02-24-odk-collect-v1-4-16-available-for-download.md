@@ -7,7 +7,7 @@ layout: single
 guid: https://opendatakit.org/?p=8259
 
 ---
-Over the last month, we&#8217;ve been focusing on fixing long-standing crashes in ODK Collect and the result of that work is today&#8217;s release. And if that sounds boring, don&#8217;t worry, we managed to squeeze in a few new features too!
+Over the last month, we’ve been focusing on fixing long-standing crashes in ODK Collect and the result of that work is today’s release. And if that sounds boring, don’t worry, we managed to squeeze in a few new features too!
 
 **ODK Collect v1.4.16 ([Download](https://play.google.com/store/apps/details?id=org.odk.collect.android))**
   
@@ -29,7 +29,7 @@ Thanks to Marcos, Neil, paraschadha2052, Ratikanta, Rasmus, and Shobhit for thei
   * Fixes SQLiteException when sending form
   * Fixes answers from lower levels in cascading select are not cleared
   * Fixes Prev button is enabled on first question
-  * Fixes Edit Saved Form count doesn&#8217;t match editable form count
+  * Fixes Edit Saved Form count doesn’t match editable form count
 
 Read full release notes: <https://github.com/opendatakit/collect/releases>
   

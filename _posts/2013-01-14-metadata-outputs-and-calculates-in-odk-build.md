@@ -19,7 +19,7 @@ Build now supports the ${/data/dataName} output syntax for referring to previous
   
 _Your device ID is ${/data/deviceID}. Your first name is ${/data/firstName}._ 
 
-When a data collector sees this caption on the device, it can be filled in with the answers previously given. In this case, if a form designer had a metadata prompt called &#8220;deviceID&#8221; and a text prompt called &#8220;firstName&#8221; that was previously answered, the caption would read:
+When a data collector sees this caption on the device, it can be filled in with the answers previously given. In this case, if a form designer had a metadata prompt called “deviceID” and a text prompt called “firstName” that was previously answered, the caption would read:
   
 _Your device ID is 12:34:56:78:90. Your first name is Yaw._
 
@@ -29,7 +29,7 @@ Below is an image of an output prompt showing the answer from a metadata prompt.
 
 **Calculates**
   
-Calculates are an advanced technique for running a calculation using a prompt&#8217;s answers. Because they are complex to use, they are found under the advanced section of Build&#8217;s prompt properties. Find out more about how to use calculates in the [form design guide](/help/form-design/binding/).
+Calculates are an advanced technique for running a calculation using a prompt’s answers. Because they are complex to use, they are found under the advanced section of Build’s prompt properties. Find out more about how to use calculates in the [form design guide](/help/form-design/binding/).
   
 
   

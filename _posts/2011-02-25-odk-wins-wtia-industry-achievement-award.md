@@ -13,8 +13,8 @@ aktt_notify_twitter:
 
 Open Data Kit has received the 2011 [Washington Technology Industry Association](http://www.washingtontechnology.org/) (WTIA) [Industry Achievement Award](http://www.washingtontechnology.org/IAA) (IAA) for Best Use of Technology in Government, Non-Profit, or Education. The IAA recognizes Washington State companies, organizations and individuals who best demonstrate technology and service innovation and excellence.
 
-&#8220;_These finalists represent the most creative and innovative companies and individuals in our industry and deserve the highest congratulations_,&#8221; said Susan Sigl, president and CEO of the WTIA. &#8220;_We&#8217;re fortunate to live and work in a state with such a diverse and vibrant technology community_.&#8221;
+“_These finalists represent the most creative and innovative companies and individuals in our industry and deserve the highest congratulations_,” said Susan Sigl, president and CEO of the WTIA. “_We’re fortunate to live and work in a state with such a diverse and vibrant technology community_.”
 
-ODK joins other [UW CSE](http://cs.washington.edu) projects recognized by the IAA, including [OneBusAway](http://onebusaway.org) (2010 winner) and [Living Voter&#8217;s Guide](http://www.livingvotersguide.org) (2011 finalist).
+ODK joins other [UW CSE](http://cs.washington.edu) projects recognized by the IAA, including [OneBusAway](http://onebusaway.org) (2010 winner) and [Living Voter’s Guide](http://www.livingvotersguide.org) (2011 finalist).
 
 Thanks to the [University of Washington](http://www.washington.edu), [Google](http://google.com/) and the growing community of developers, implementers and users for making this possible.
