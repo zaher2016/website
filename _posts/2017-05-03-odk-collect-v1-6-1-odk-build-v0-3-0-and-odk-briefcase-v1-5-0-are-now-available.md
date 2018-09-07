@@ -40,7 +40,7 @@ Report any issues: <https://github.com/opendatakit/collect/issues>
 
 Use online: <https://build.opendatakit.org>
   
-Use offline: [https://opendatakit.org/downloads/download-category/build](https://opendatakit.org/downloads/download-category/build/)
+Use offline: [https://github.com/opendatakit/build/releases](https://github.com/opendatakit/build/releases)
   
 Read full release notes: <https://github.com/opendatakit/build/releases>
   
@@ -52,7 +52,7 @@ Report any issues: <https://github.com/opendatakit/build/issues>
   * CSV exports are sorted chronologically and de-duplicated
   * Invalid encrypted instances no longer block exports
 
-Use: [https://opendatakit.org/downloads/download-category/briefcase](https://opendatakit.org/downloads/download-category/briefcase/)
+Use: [https://github.com/opendatakit/briefcase/releases](https://github.com/opendatakit/briefcase/releases)
   
 Read full release notes: <https://github.com/opendatakit/briefcase/releases>
   

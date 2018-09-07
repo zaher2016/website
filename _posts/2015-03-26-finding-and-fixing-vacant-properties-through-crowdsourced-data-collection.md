@@ -23,7 +23,7 @@ To collect and analyze data sourced from the community, we needed a better way. 
 
 _The full blog post is available [here](http://nafundi.com/blog/posts/finding-and-fixing-vacant-properties-through-crowdsourced-data-collection/)._
 
-<img src="/assets/wp-content/uploads/2015/03/vacant-voices-heatmap.jpg" alt="" width="538" />__
+<img src="/assets/wp-content/uploads/2015/03/vacant-voices-heatmap.jpg" alt="A map showing the concentration of homes with peeling paint. From this map, users can immediately see clusters of vacant properties which are priorities." width="538" />__
 
 _A map showing the concentration of homes with peeling paint. From this map, users can immediately see clusters of vacant properties which are priorities._
 

@@ -15,7 +15,7 @@ Maryann used the [KoBo Project](http://koboproject.org/), data collection tools 
 
 She writes, _“I was lucky enough to have the funding to purchase 5 Huawei IDEOS devices and worked with ODK and KoBo for my surveys. </p> 
 
-[<img src="/assets/wp-content/uploads/2011/07/IMG_3943-300x225.jpg" width="250" align="left" />](/assets/wp-content/uploads/2011/07/IMG_3943.jpg) 
+[<img src="/assets/wp-content/uploads/2011/07/IMG_3943-300x225.jpg" width="250" align="left" alt="Three people in an ODK training session" />](/assets/wp-content/uploads/2011/07/IMG_3943.jpg)
 
 One of the greatest difficulties when planning and executing a research project is managing the time aspect of the design. Enumerators need to be trained quickly. Data needs to be collected efficiently and needs to be quickly placed in a format from which analysis can be easily be completed.
 
@@ -32,7 +32,7 @@ As far as training, I had the opportunity to train 5 Bolivian undergraduates fro
 
 The Bolivian university students involved in my project as enumerators learned the software lightning-fast. They were familiar with smart phones, comfortable with the technology, and were intuitively guided by the skip logic and other checks in place with ODK Collect. 
 
-[<img src="/assets/wp-content/uploads/2011/07/IMG_3945-300x225.jpg" width="250" align="right" />](/assets/wp-content/uploads/2011/07/IMG_3945.jpg)
+[<img src="/assets/wp-content/uploads/2011/07/IMG_3945-300x225.jpg" width="250" align="right" alt="Two people in an ODK training session"/>](/assets/wp-content/uploads/2011/07/IMG_3945.jpg)
 
 The research assistant that worked with me learned the basics of ODK Build, KoBo Form Builder, data collection software, and learned to sync with the KoBo Post Processor after minimal training. Now, she is one of the best undergrads I have ever worked with — but it really is intuitive.
 
@@ -47,7 +47,7 @@ One of my colleagues asked me prior to my trip if I was worried about the indivi
 
 However, just to confirm after my research experience, the individuals we surveyed were mostly poor rural farmers, but none of my enumerators reported any of those interviewed being shocked or upset by the technology. Most everyone these days has seen a cell phone. 
 
-[<img src="/assets/wp-content/uploads/2011/07/IMG_3935-300x225.jpg" width="250" align="left" />](/assets/wp-content/uploads/2011/07/IMG_3935.jpg)
+[<img src="/assets/wp-content/uploads/2011/07/IMG_3935-300x225.jpg" width="250" align="left" alt="Five people in an ODK training session" />](/assets/wp-content/uploads/2011/07/IMG_3935.jpg)
 
 The enumerators reported that it was not intimidating and that the technology didn’t even elicit comment from most of those who were surveyed. I would argue that using the cell for voice recording would have been less intimidating than a traditional voice recording device — I might try to work that out for my next trip. 
 

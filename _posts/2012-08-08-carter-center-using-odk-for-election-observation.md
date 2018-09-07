@@ -23,4 +23,4 @@ _The monitors take detailed notes using the tablets at each polling station they
 
 [read the entire blog post](http://blog.cartercenter.org/2012/08/06/carter-center-on-leading-edge-of-technology-use-in-election-observation/ "read the entire blog post")
 
-<img src="http://cartercenterorg.files.wordpress.com/2012/08/carters-observe-closing-egypt-052412.jpg" alt="" width="538" />
+<img src="http://cartercenterorg.files.wordpress.com/2012/08/carters-observe-closing-egypt-052412.jpg" alt="The Carters enter their findings into a tablet at a Cairo polling station" width="538" />

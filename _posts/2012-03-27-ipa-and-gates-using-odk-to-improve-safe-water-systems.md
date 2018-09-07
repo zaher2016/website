@@ -13,7 +13,6 @@ Jessica Vernon from [Innovations for Poverty Action (IPA)](http://www.poverty-ac
 
 The [blog post](http://www.impatientoptimists.org/Posts/2012/03/Being-Smarter-About-Safe-Water) notes that _“the [Dispensers for Safe Water (DSW)](http://poverty-action.org/safewater) program at IPA (supported with a grant from the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/Pages/home.aspx)) is improving water quality by providing a point-of-collection Chlorine Dispenser System in western Kenya. Treating drinking water with dilute chlorine solution can cut child diarrhea by 41%, but this fact alone doesn’t guarantee impact. Using Open Data Kit, an open source set of data collection and management tools, DSW can significantly shorten the feedback loop from data collection to course-correction, allowing us to identify challenges with real-time data and address issues at a rapid pace. Surveys are built in Excel, uploaded to a server and downloaded to a low-cost smartphone.</p> 
 
-<img src="http://www.impatientoptimists.org/~/media/Images/BlogPosts/Home%20Page%20Features/I/IP%20IZ/ipa%20cd%20in%20use%202_jpg_autocropped.jpg" width="538" />
 
 DSW’s field officers visit chlorine dispensers in the field and identify them individually with a quick scan of their unique barcodes. Data are collected on any dispenser hardware problems, the backup chlorine supply, and their frequency of use by local community members. Daily results are then uploaded to a centralized database and available for instant analysis to guide subsequent fieldwork.
 

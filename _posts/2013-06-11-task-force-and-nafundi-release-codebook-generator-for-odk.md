@@ -11,6 +11,6 @@ guid: /?p=3848
 
 Nafundi has created [LINKS Codebook](http://linkssystem.org/support/Task-Force-LINKS-Codebook-v1.1.zip), a desktop application which takes an ODK compliant XForm and generates a codebook in PDF (with multiple languages). Codebook is perfect for users who download ODK datasets and need to understand what variables correspond with what prompts. It’s free, easy to use, and as you can see below, produces beautiful codebooks. 
 
-<img src="/assets/wp-content/uploads/2013/06/codebook.png" width="538" />
+<img src="/assets/wp-content/uploads/2013/06/codebook.png" width="538" alt="Sample output of LINKS Codebook with rows for each question and columns with variable name, question text, and saved value." />
 
 Download and try [LINKS Codebook v1.1](http://linkssystem.org/support/Task-Force-LINKS-Codebook-v1.1.zip) today. If you are a developer, try the [code repo](https://bitbucket.org/tfgh/codebook/).

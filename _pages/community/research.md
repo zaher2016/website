@@ -9,7 +9,7 @@ permalink: /community/research/
 
 ---
 
-Open Data Kit is a research platform for the Department of Computer Science & Engineering at the University of Washington. The community disseminates our work through academic as well as the [popular press](/about/#press).
+Open Data Kit is a research platform for the Department of Computer Science & Engineering at the University of Washington. The community disseminates our work through academic as well as the popular press.
 
 Below you will find a collection of publications about the ODK project over the years.
 
@@ -66,11 +66,11 @@ Below you will find a collection of publications about the ODK project over the 
 
   * [Advancing the New Machine: Mobile Technology](http://fora.tv/2011/04/26/Advancing_the_New_Machine_Mobile_Technology) (video). At Human Rights Center UC Berkeley, 2010.
 
-  * [Open Data Kit: Building Information Services for Developing Regions](/wp-content/uploads/2010/10/ODK-Talk-ICTD-2010.pdf) Yaw Anokwa. In ICTD, 2010.
+  * [Open Data Kit: Building Information Services for Developing Regions](/assets/wp-content/uploads/2010/10/ODK-Talk-ICTD-2010.pdf) Yaw Anokwa. In ICTD, 2010.
 
-  * [Open Data Kit: Building Information Services for Low Income Regions](/wp-content/uploads/2010/10/ODK-Talk-MSRI-2009.pdf) Yaw Anokwa, Carl Hartung. At Microsoft Research India, 2010.
+  * [Open Data Kit: Building Information Services for Low Income Regions](/assets/wp-content/uploads/2010/10/ODK-Talk-MSRI-2009.pdf) Yaw Anokwa, Carl Hartung. At Microsoft Research India, 2010.
 
-  * [The ODK Project](/wp-content/uploads/2010/10/ODK-Talk-AfricaGIS-2010.pdf) Yaw Anokwa. At Africa GIS, 2009.
+  * [The ODK Project](/assets/wp-content/uploads/2010/10/ODK-Talk-AfricaGIS-2010.pdf) Yaw Anokwa. At Africa GIS, 2009.
 
   * [Open Data Kit: Open Source Mobile Data Collection](http://www.uwtv.org/video/player.aspx?pid=rDajkYQ1VjdAsdPVDpSKWlJS0FC5Q1NF) (video) Gaetano Borriello. At UW CSE Colloquia 2009.
 
@@ -80,16 +80,16 @@ Below you will find a collection of publications about the ODK project over the 
 
   *  [Customizing and improving medical workflows using ODK survey]() Waylon Brunette, Mitchell Sundt, Amy Ginsburg, Gaetano Borriello. In ACM DEV-4 2013.
 
-  * [Open Data Kit: Building Information Services for Developing Regions](/wp-content/uploads/2010/10/ODK-Poster-ICTD-2010.pdf) Carl Hartung, Yaw Anokwa, Waylon Brunette, Adam Lerer, Clint Tseng, Gaetano Borriello. In ICTD, 2010.
+  * [Open Data Kit: Building Information Services for Developing Regions](/assets/wp-content/uploads/2010/10/ODK-Poster-ICTD-2010.pdf) Carl Hartung, Yaw Anokwa, Waylon Brunette, Adam Lerer, Clint Tseng, Gaetano Borriello. In ICTD, 2010.
 
-  * [Use of Open Source Tools to Facilitate Population Surveillance in Western Kenya](/wp-content/uploads/2010/10/ODK-Poster-ICEPHI-2010.pdf) Zeshan Rajput, Martin Were, Yaw Anokwa, Sam Mbugua, Burke Mamlin, Paul Biondich, Samson Ndege. In ICEPHI, 2010.
+  * [Use of Open Source Tools to Facilitate Population Surveillance in Western Kenya](/assets/wp-content/uploads/2010/10/ODK-Poster-ICEPHI-2010.pdf) Zeshan Rajput, Martin Were, Yaw Anokwa, Sam Mbugua, Burke Mamlin, Paul Biondich, Samson Ndege. In ICEPHI, 2010.
 
-  * [Modular Open-Source Tools for Mobile Data Collection](/wp-content/uploads/2010/10/ODK-Poster-mHealth-2009.pdf) Gaetano Borriello, Yaw Anokwa, Waylon Brunette, Carl Hartung, Adam Lerer. In mHealth Summit, 2009.
+  * [Modular Open-Source Tools for Mobile Data Collection](/assets/wp-content/uploads/2010/10/ODK-Poster-mHealth-2009.pdf) Gaetano Borriello, Yaw Anokwa, Waylon Brunette, Carl Hartung, Adam Lerer. In mHealth Summit, 2009.
 
 ## Demos
 
   *  [Demo: Open Data Kit 2.0 Suite](http://dl.acm.org/citation.cfm?id=2594368.2601466&coll=DL&dl=ACM&CFID=623867570&CFTOKEN=82500071) Waylon Brunette, Sam Sudar, Gaetano Borriello. In MobiSys, 2014.
 
-  * [Open Data Kit](/wp-content/uploads/2010/10/ODK-Demo-Ubicomp-2009.pdf) In Ubicomp, 2009.
+  * [Open Data Kit](/assets/wp-content/uploads/2010/10/ODK-Demo-Ubicomp-2009.pdf) In Ubicomp, 2009.
 
-  * [A New Generation of Open Source Data Collection Tools](/wp-content/uploads/2010/10/ODK-Demo-ICTD-2009.pdf) Yaw Anokwa, Carl Hartung, Adam Lerer, Brian DeRenzi, Gaetano Borriello. In ICTD, 2009.
+  * [A New Generation of Open Source Data Collection Tools](/assets/wp-content/uploads/2010/10/ODK-Demo-ICTD-2009.pdf) Yaw Anokwa, Carl Hartung, Adam Lerer, Brian DeRenzi, Gaetano Borriello. In ICTD, 2009.

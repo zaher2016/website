@@ -9,7 +9,7 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-![](/assets/wp-content/uploads/2011/03/wtia-ceremony.jpg)
+![ODK developers receiving WTIA award](/assets/wp-content/uploads/2011/03/wtia-ceremony.jpg)
 
 Open Data Kit has received the 2011 [Washington Technology Industry Association](http://www.washingtontechnology.org/) (WTIA) [Industry Achievement Award](http://www.washingtontechnology.org/IAA) (IAA) for Best Use of Technology in Government, Non-Profit, or Education. The IAA recognizes Washington State companies, organizations and individuals who best demonstrate technology and service innovation and excellence.
 

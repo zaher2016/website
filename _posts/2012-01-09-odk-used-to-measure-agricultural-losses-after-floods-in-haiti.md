@@ -14,5 +14,3 @@ Reporting for [Haiti Regeneration Initiative](http://haitiregeneration.org/node/
 In October 2011, staff from EI and United Nations Environment Programme (UNEP) trained a group of agronomists and staff members from CSI on ODK. HRI reports that during “_the week of the ORE ict4Ag training, the South Department experienced severe flooding as a result of heavy rains in the region. Anticipating widespread damage to personal property and infrastructure, UNEP asked ORE to undertake a rapid agricultural assessment to gauge the agriculture losses caused by the flooding. ORE agronomists were able to use their new phones and take advantage of their new ODK knowledge to undertake a rapid agricultural assessment._”
 
 Congratulations to the ORE team on their quick transition from training to field usage! Find out more about their work at <http://haitiregeneration.org>.
-
-<img src="http://www.haitiregeneration.org/sites/hri7/files/styles/large/public/Outdoors.JPG" width="538" />

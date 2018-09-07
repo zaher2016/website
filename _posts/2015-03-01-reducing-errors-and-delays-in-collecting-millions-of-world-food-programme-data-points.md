@@ -23,7 +23,7 @@ At the beginning of the project, the complex data sets, each with about 1,600 va
 
 In 2013, with the support of Nafundi, AERC started using ODK for data collection in Rwanda. The benefits were immediately clear. The time between data collection and analysis was reduced by almost half. Additionally, the near real time remote monitoring enabled catching and correcting errors while surveyors were still in the field.
 
-<img src="/assets/wp-content/uploads/2015/02/wfp-surveyors.jpg" width="538" />_Two WFP surveyors use ODK to collect data from a farmer organization in Rwanda._
+<img src="/assets/wp-content/uploads/2015/02/wfp-surveyors.jpg" width="538" alt="Two WFP surveyors use ODK to collect data from a farmer organization in Rwanda." />_Two WFP surveyors use ODK to collect data from a farmer organization in Rwanda._
 
 AERC has since successfully used ODK to collect P4P data in Kenya, Ethiopia, El Salvador, Ghana, and Zambia. To date, more than 2,300 households and 230 farmer organizations have been surveyed using ODK in these countries. This represents more than 3.6 million data points collected with ODK.
 

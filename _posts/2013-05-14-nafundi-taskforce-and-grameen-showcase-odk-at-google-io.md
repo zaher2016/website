@@ -15,4 +15,4 @@ Also present at I/O will be ODK core team members from the University of Washing
 
 If you won’t be at I/O, make sure to check out Nafundi’s [ODK customization services](http://nafundi.com), Taskforce’s [LINKS system](http://linkssystem.org), Grameen’s [TaroWorks system](http://taroworks.org/), and UW’s paper on [ODK’s future](/2013/02/a-sneak-peek-at-odks-future/).
 
-<img alt="" src="/assets/wp-content/uploads/2013/05/dev_for_good.png" width="500" />
+<img alt="" src="/assets/wp-content/uploads/2013/05/dev_for_good.png" width="500" alt="Logos of the various organizations involved in Develop for Good" />

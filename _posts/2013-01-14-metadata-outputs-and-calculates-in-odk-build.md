@@ -25,11 +25,11 @@ _Your device ID is 12:34:56:78:90. Your first name is Yaw._
 
 Below is an image of an output prompt showing the answer from a metadata prompt.
   
-<img src="/assets/wp-content/uploads/2013/01/outputExample.png" width="538" />
+<img src="/assets/wp-content/uploads/2013/01/outputExample.png" width="538" alt="An output prompt showing the answer from a metadata prompt" />
 
 **Calculates**
   
-Calculates are an advanced technique for running a calculation using a prompt’s answers. Because they are complex to use, they are found under the advanced section of Build’s prompt properties. Find out more about how to use calculates in the [form design guide](/help/form-design/binding/).
+Calculates are an advanced technique for running a calculation using a prompt’s answers. Because they are complex to use, they are found under the advanced section of Build’s prompt properties. Find out more about how to use calculates in the [form design guide](https://docs.opendatakit.org/form-logic).
   
 
   

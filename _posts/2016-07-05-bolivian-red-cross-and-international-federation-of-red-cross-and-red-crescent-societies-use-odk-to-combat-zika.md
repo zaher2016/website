@@ -7,7 +7,7 @@ layout: single
 guid: https://opendatakit.org/?p=7743
 
 ---
-From the International Federation of Red Cross and Red Crescent Societies [post](http://nternational Federation of Red Cross and Red Crescent Societies):
+From the International Federation of Red Cross and Red Crescent Societies [post](http://www.ifrc.org/en/news-and-media/news-stories/americas/bolivia/bolivian-red-cross-and-ifrc-visits-border-between-bolivia-and-brazil--72334):
 
 _To complement the knowledge regarding the surveillance model for Zika, the visit included a workshop for volunteers in Riberalta on Open Data Kit (ODK), an Android based mobile data collection tool capable of sending real time results from the field to an online server, regardless of the availability of functional internet service.  This 15 hour workshop was attended by 29 volunteers, 28 of whom are women.  With this training, the Riberalta branch will be able to carry out the activities in their action plan in a more secure and efficient manner._
 

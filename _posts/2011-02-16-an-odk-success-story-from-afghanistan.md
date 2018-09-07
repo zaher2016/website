@@ -15,8 +15,6 @@ David wrote, “_As an NGO performing infrastructure development oversight activ
 
 Traditional handheld GPS and digital cameras have been used in the past, but present two major problems. First, they are seen by many local people as an indication that the person using these devices is either collecting intelligence information or coordinating military activities. This has placed field monitors in very dangerous situations. Second, it has been extremely difficult to collect, sort, verify and integrate data collected in the field with the infrastructure database we manage on behalf of the development community and Afghan Government.
 
-<img src="http://www.aidc.af/aidc/images/collection.gif" align="right" />
-
 This fall we began testing ODK in the office and more importantly, in the field. Owing to the success of these tests we have decided to redirect our in-house mobile application development to the ODK platform. Now our field monitors carry inconspicuous smart phones with on board GPS and camera. The elimination of dedicated GPS and digital camera equipment has significantly reduced their harassment and risk of personal injury. 
 
 In addition, they can now send their field reports via the ubiquitous GPRS network from almost anywhere in the country. The data moves quickly to our database where office engineers can review and retask as necessary. One side benefit is that the Android platform provides internet connectivity for their issued laptops. They are no longer forced expose themselves to additional risk by visiting public internet cafes to send periodic and administrative reports.

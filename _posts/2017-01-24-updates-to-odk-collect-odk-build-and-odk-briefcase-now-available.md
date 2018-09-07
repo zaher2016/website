@@ -35,7 +35,7 @@ Report any issues: <https://github.com/opendatakit/collect/issues>
 
 Report any issues: <https://github.com/opendatakit/build/issues>
 
-**ODK Briefcase v1.4.10 ([Download](https://opendatakit.org/downloads/download-category/briefcase/))**
+**ODK Briefcase v1.4.10 ([Download](https://github.com/opendatakit/briefcase/releases))**
   
 Thanks to Carsten and Saul for their contributions to this release!
 

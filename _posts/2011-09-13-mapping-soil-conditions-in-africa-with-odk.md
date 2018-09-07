@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 [The Globally Integrated Africa Soil Information Service](http://africasoils.net/) (AfSIS) is a large-scale, research-based project that is building on recent advances in digital soil mapping, infrared spectroscopy, remote sensing, statistics, integrated soil fertility management, and information and communication technologies.
 
-[<img src="/assets/wp-content/uploads/2011/09/afsis_collect_small.jpg" align="right" width="200" />](/assets/wp-content/uploads/2011/09/afsis_collect_small.jpg) 
+[<img src="/assets/wp-content/uploads/2011/09/afsis_collect_small.jpg" align="right" width="200" alt="Enumerator entering data into ODK" />](/assets/wp-content/uploads/2011/09/afsis_collect_small.jpg) 
 
 Eric Couper, the ICT & Agriculture Coordinator of AfSIS writes, _“We are currently researching the agricultural input/output relationship and existing agricultural information flows in the [Kisongo](http://g.co/maps/kpqvk), Musa, and Mateves wards, just west of Arusha, Tanzania. When paired with soil data that AfSIS has previously collected, AfSIS’s data can be used by the Tanzanian Ministry of Agriculture, other agricultural research organizations, and NGOs to inform their work and recommendations.</p> 
 

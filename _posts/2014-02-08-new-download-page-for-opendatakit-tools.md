@@ -9,8 +9,6 @@ guid: /?p=4593
 ---
 We have a new Download tab for opendatakit.org.
 
-<a href="/downloads/" title="/downloads/" target="_blank">Download</a>
-
 Our downloads are now hosted on Google Drive, which scans all downloads for viruses. 
 
 When you download any of the ODK Aggregate installers, you will see a warning message that Google Drive is unable to scan the download for viruses because of its size, and it will ask you to “Download anyway” to proceed with the download. Apologies for the need for the extra click.

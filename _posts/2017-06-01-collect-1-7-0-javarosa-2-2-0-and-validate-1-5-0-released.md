@@ -38,7 +38,7 @@ Report any issues: <https://github.com/opendatakit/javarosa/issues>
 
   * Upgraded to JavaRosa 2.2.0
 
-Use: <https://opendatakit.org/downloads/download-info/odk-validate-2>
+Use: <https://github.com/opendatakit/validate/releases>
   
 Read full release notes: <https://github.com/opendatakit/validate/releases>
   

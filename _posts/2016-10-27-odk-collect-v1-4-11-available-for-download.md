@@ -7,7 +7,7 @@ layout: single
 guid: https://opendatakit.org/?p=8089
 
 ---
-ODK Collect v1.4.11 is now available for [download](https://opendatakit.org/downloads/download-info/odk-collect-apk/) and will be rolling out on [Google Play](https://play.google.com/store/apps/details?id=org.odk.collect.android) over the next few hours.
+ODK Collect v1.4.11 is now available for [download](https://github.com/opendatakit/collect/releases) and will be rolling out on [Google Play](https://play.google.com/store/apps/details?id=org.odk.collect.android) over the next few hours.
 
 This release has some great additions:
 
