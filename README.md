@@ -29,7 +29,7 @@ The ODK website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) an
 
 	Once `rbenv` has been installed, install the latest Ruby (currently `2.5.1`):
 ```
-$ rbenv install 2.5.1
+rbenv install 2.5.1
 ```
 
 ### Windows
@@ -45,33 +45,33 @@ $ rbenv install 2.5.1
 	a. Navigate to the root directory of your project.
 
 	```
-	$ cd /MY/DEVELOPMENT/DIRECTORY/website
+	cd /MY/DEVELOPMENT/DIRECTORY/website
 	```
 
 	b. Set the local application-specific Ruby version by using [`rbenv-local`](https://github.com/rbenv/rbenv#rbenv-local).
 
 	```
-	$ rbenv local 2.5.1
+	rbenv local 2.5.1
 	```
 
 	c. Verify that your project is using Ruby version `2.5.1`:
 	```
-	$ ruby -v
+	ruby -v
 	```
 
 3. Install `bundler`.
 ```
-$ gem install bundler
+gem install bundler
 ```
 
 4. Install this project.
 ```
-$ bundle install
+bundle install
 ```
 
 5. Launch the server.
 ```
-$ bundle exec jekyll serve
+bundle exec jekyll serve
 ```
 
 	The local site will update as changes are made.
