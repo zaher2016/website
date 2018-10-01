@@ -42,7 +42,7 @@ rbenv install 2.5.1
 
 2. Configure your project to use the correct version of Ruby.
 
-	a. Navigate to the root directory of your project.
+	a. Navigate to the root directory of your project. If you use Windows, replace the `cd` command with `dir`.
 
 	```
 	cd /MY/DEVELOPMENT/DIRECTORY/website
