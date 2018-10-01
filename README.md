@@ -15,13 +15,13 @@ This repository is home to the [ODK homepage](https://opendatakit.org/).
 
 ## Installing requirements
 
-The ODK website is built with [Ruby](https://www.ruby-lang.org/en/downloads/).
+The ODK website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) and we use [rbenv](https://github.com/rbenv) to install the requirements.
 
 ### MacOS, Linux
 
 1. Installing `rbenv`
 
-	**MacOS**: Simple installation instructions using Homebrew can be found in the [`rbenv` documentation](https://github.com/rbenv/rbenv#homebrew-on-macos). This is the preferred method for MacOS. To install `rbenv` without Homebrew, refer to the Linux instructions.
+	**MacOS**: Installation instructions using Homebrew can be found in the [`rbenv` documentation](https://github.com/rbenv/rbenv#homebrew-on-macos). This is the preferred method for MacOS. To install `rbenv` without Homebrew, refer to the Linux instructions.
 
 	**Linux**: The [`rbenv-installer`](https://github.com/rbenv/rbenv-installer#rbenv-installer) is a script which idempotently installs or updates `rbenv` on your system.
 
