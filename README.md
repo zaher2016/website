@@ -6,42 +6,42 @@ This repository is home to the [ODK homepage](https://opendatakit.org/).
 
 ## Table of Contents
 
-* [Developing locally](#developing-locally)
-	- [Installing Ruby](#installing-ruby)
-		- [*nix](#macos,-gnu/linux)
-		- [Windows](#microsoft-windows)
-	- [Installing website](#installing/running-opendatakit/website)
+* [Installing requirements](#installing-requirements)
+	* [MacOS, Linux](#macos-linux)
+	* [Windows](#windows)
+* [Running the website](#running-the-website)
 * [Contributing](#contributing)
 * [Troubleshooting](#troubleshooting)
 
-## Developing locally
-
-### Installing Ruby
+## Installing requirements
 
 The ODK website is built with [Ruby](https://www.ruby-lang.org/en/downloads/).
 
-#### MacOS, GNU/Linux
+### MacOS, Linux
 
-1. **Installing `rbenv`**
-*MacOS:* Simple installation instructions using Homebrew can be found in the [`rbenv` documentation](https://github.com/rbenv/rbenv#homebrew-on-macos). This is the preferred method for MacOS. To install `rbenv` without Homebrew, refer to the GNU/Linux instructions.
+1. Installing `rbenv`
 
-	*GNU/Linux:* The [`rbenv-installer`](https://github.com/rbenv/rbenv-installer#rbenv-installer) is a script which idempotently installs or updates `rbenv` on your system.
+	**MacOS**: Simple installation instructions using Homebrew can be found in the [`rbenv` documentation](https://github.com/rbenv/rbenv#homebrew-on-macos). This is the preferred method for MacOS. To install `rbenv` without Homebrew, refer to the Linux instructions.
 
-2. **Installing Ruby**
-Once `rbenv` has been installed, install the latest Ruby (currently `2.5.1`):
+	**Linux**: The [`rbenv-installer`](https://github.com/rbenv/rbenv-installer#rbenv-installer) is a script which idempotently installs or updates `rbenv` on your system.
+
+2. Installing Ruby
+
+	Once `rbenv` has been installed, install the latest Ruby (currently `2.5.1`):
 ```
 $ rbenv install 2.5.1
 ```
 
-#### Microsoft Windows
+### Windows
 
-Windows users should use [RubyInstaller](https://rubyinstaller.org/).
+1. Windows users should use [RubyInstaller](https://rubyinstaller.org/).
 
-### Installing/Running OpenDataKit/website
+## Running the website
 
 1. Follow the instructions in the [contribution guide](https://github.com/opendatakit/website/blob/master/CONTRIBUTING.md) to [fork](https://help.github.com/articles/fork-a-repo/) the website repository and then [clone](https://help.github.com/articles/cloning-a-repository/) your fork.
 
 2. Configure your project to use the correct version of Ruby.
+
 	a. Navigate to the root directory of your project.
 
 	```
@@ -60,15 +60,21 @@ Windows users should use [RubyInstaller](https://rubyinstaller.org/).
 	```
 
 3. Install `bundler`.
-`$ gem install bundler`
+```
+$ gem install bundler
+```
 
 4. Install this project.
-`$ bundle install`
+```
+$ bundle install
+```
 
 5. Launch the server.
-`$ bundle exec jekyll serve`
+```
+$ bundle exec jekyll serve
+```
 
-The local site will update as changes are made.
+	The local site will update as changes are made.
 
 ## Contributing
 
