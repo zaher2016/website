@@ -15,7 +15,7 @@ This repository is home to the [ODK homepage](https://opendatakit.org/).
 
 ## Installing requirements
 
-The ODK website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) and we use [rbenv](https://github.com/rbenv) to install the requirements.
+The ODK website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) and below are the installation steps we recommend for getting a Ruby environment that will work best with the ODK website.
 
 ### MacOS, Linux
 
