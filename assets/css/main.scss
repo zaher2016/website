@@ -16,6 +16,19 @@ $link-color-hover: #1590d3;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+ul.left-align-footer-elements {
+  float: left;
+  width: 50%;
+  clear: left;
+}
+
+ul.right-align-footer-elements {
+  float: right;
+  width: 50%;
+  clear: right;
+  text-align: right;
+}
+
 .icon {
   display: inline-block;
   background-repeat: no-repeat;
