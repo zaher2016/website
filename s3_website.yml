@@ -14,14 +14,15 @@ exclude_from_upload:
 
 cloudfront_distribution_id: E1EZ24MS8LWP3O
 
-cloudfront_distribution_config:
-  default_cache_behavior:
-    min_ttl: <%= 60 * 60 * 24 %>
-  aliases:
-    quantity: 2
-    items:
-      - opendatakit.org
-      - www.opendatakit.org
+# commented out due to bug: https://github.com/laurilehmijoki/s3_website/issues/320
+# cloudfront_distribution_config:
+#   default_cache_behavior:
+#     min_ttl: <%= 60 * 60 * 24 %>
+#   aliases:
+#     quantity: 2
+#     items:
+#       - opendatakit.org
+#       - www.opendatakit.org
 
 cloudfront_wildcard_invalidation: true
 
@@ -82,7 +83,6 @@ routing_rules:
       host_name: xlsform.org
       replace_key_with: '#external'
       http_redirect_code: 301
-      
   - condition:
       key_prefix_equals: help/form-design
     redirect:
@@ -126,7 +126,6 @@ routing_rules:
       host_name: docs.opendatakit.org
       replace_key_with: ""
       http_redirect_code: 301
-      
   # use/aggregate/*
   - condition:
       key_prefix_equals: use/aggregate/data-transfer
