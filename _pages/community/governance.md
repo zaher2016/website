@@ -52,4 +52,10 @@ The ODK 1 TSC meets every two weeks to discuss the [ODK 1 Roadmap](https://githu
 
 The ODK 2 TSC is responsible for ODK Application Designer, ODK Services, ODK Survey, ODK Cloud Endpoints, ODK Suitcase, ODK Tables, and ODK Scan.
 
-_Note: The ODK 2 TSC has not yet been formed. The University of Washington is currently the technical steward of ODK 2._
+The ODK 2 TSC meets every two weeks to discuss the [ODK 2 Roadmap](https://github.com/opendatakit/roadmap/projects/2).
+
+### Current members
+
+| [<img src="/assets/images/odk2/tsc/jeff-beorse.jpg" width="200px;" alt="Jeff Beorse"/><br /><b>Jeff Beorse</b>](https://forum.opendatakit.org/u/jeff_beorse)<br />[Eir Birch](https://www.eirbirch.com) | [<img src="https://opendatakit-a3b1.kxcdn.com/user_avatar/forum.opendatakit.org/berpita/240/1803_1.png" width="200px;" alt="Raquel Bernedo"/><br /><b>Raquel Bernedo</b>](https://forum.opendatakit.org/u/berpita/)<br />[Spanish Red Cross](https://www.cruzroja.es/) | [<img src="/assets/images/pmc/waylon-brunette.jpg" width="200px;" alt="Waylon Brunette"/><br /><b>Waylon Brunette</b>](https://github.com/wbrunette)<br />[UW-CSE](https://www.cs.washington.edu/) | [<img src="/assets/images/odk2/tsc/ben-green.jpg" width="200px;" alt="Ben Green"/><br /><b>Ben Green</b>](https://forum.opendatakit.org/u/bengreen/)<br />[World Mosquito Program](https://worldmosquito.org)
+
+| [<img src="https://opendatakit-a3b1.kxcdn.com/user_avatar/forum.opendatakit.org/linl33/240/2872_1.png" width="200px;" alt="Li Lin"/><br /><b>Li Lin</b>](https://forum.opendatakit.org/u/linl33/)<br />[UW-CSE](https://www.cs.washington.edu/) | [<img src="/assets/images/odk2/tsc/caroline-krafft.jpg" width="200px;" alt="Caroline Krafft"/><br /><b>Caroline Krafft</b>](https://forum.opendatakit.org/u/elmps2018)<br />[St Catherine University](https://sites.google.com/site/carolinekrafft/home) | [<img src="/assets/images/odk2/tsc/belendia-serda.jpg" width="200px;" alt="Belendia Serda"/><br /><b>Belendia Serda</b>](https://forum.opendatakit.org/u/bs/)<br />[PATH](https://path.org) | |
