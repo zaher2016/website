@@ -271,6 +271,17 @@ routing_rules:
       host_name: opendatakit.org
       replace_key_with: community
       http_redirect_code: 301
+  # software
+  - condition:
+      key_prefix_equals: odk1
+    redirect:
+      replace_key_with: odk
+      http_redirect_code: 301
+  - condition:
+      key_prefix_equals: odk2
+    redirect:
+      replace_key_with: odk-x
+      http_redirect_code: 301
 
 # single page redirects. only use with paths that are not in folder redirects.
 redirects:

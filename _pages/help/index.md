@@ -6,23 +6,23 @@ permalink: /help/
 
 # Help
 
-The ODK community produces two suites of software: ODK 1 and ODK 2.
+Our community produces two suites of software: ODK and ODK-X (formerly ODK 2).
 
-The ODK 1 suite contains our most well-known and widely deployed tools, so we recommend you start there! If you find that the ODK 1 suite does not meet your needs, then try the ODK 2 suite. See [Software](/software) for more.
+The ODK suite contains our most well-known and widely deployed tools, so we recommend you start there! If you find that the ODK suite does not meet your needs, then try the ODKX suite. See [Software](/software) for more.
 
 ## Documentation
 
-Our community maintains a comprehensive set of documentation for all the ODK tools. If you need help, the docs are the best place to get help.
+Our community maintains a comprehensive set of documentation for all the tools. If you need help, the docs are the best place to get help.
 
-* Read the [ODK 1 Docs](https://docs.opendatakit.org)
+* Read the [ODK Docs](https://docs.opendatakit.org)
 
-* Read the [ODK 2 Docs](https://docs.opendatakit.org/odk2)
+* Read the [ODK-X Docs](https://docs.opendatakit.org/odk-x)
 
 ## Support
 
-If you don't find the help you need in the documentation, the community forum has thousands of ODKers and it is the fastest way to get support on everything ODK-related.
+If you don't find the help you need in the documentation, the community forum has thousands of members and it is the fastest way to get support.
 
-* Join the [ODK Forum](https://forum.opendatakit.org)
+* Join the [forum](https://forum.opendatakit.org)
 
 ## Other
 

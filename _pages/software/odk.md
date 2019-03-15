@@ -1,15 +1,15 @@
 ---
-title: ODK 1
+title: ODK
 date: 2018-03-01T00:00:00+00:00
 author_profile: false
 layout: single
-permalink: /software/odk1/
+permalink: /software/odk/
 
 ---
 
 We publish current and previous releases of our tools on GitHub in each tool's repository. 
 
-We generally update the tools every month, so stay up to date by [watching](https://forum.opendatakit.org/t/9066) the [releases](https://forum.opendatakit.org/c/releases) category on the ODK forum.
+We generally update the tools every month, so stay up to date by [watching](https://forum.opendatakit.org/t/9066) the [releases](https://forum.opendatakit.org/c/releases) category on the forum.
 
 ## [ODK Collect](#odk-collect)
 
