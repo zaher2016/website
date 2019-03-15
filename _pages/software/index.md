@@ -14,7 +14,7 @@ Each suite contains tools that work together to collect, use, and manage data, b
 The ODK suite contains our most well-known and widely deployed tools, so we recommend you start with it!
 * For teams who need simple tools that support the most common use cases
 * Widely deployed, proven at scale, and compatible with a large [ecosystem](/community/ecosystem) (e.g., Ona, Enketo, Kobo, ELMO)
-* Includes ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, and ODK Briefcase
+* Includes ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, and ODK Central
 
 Read the [ODK Docs](http://docs.opendatakit.org).
 

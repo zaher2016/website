@@ -35,7 +35,7 @@ See [TSC Governance](https://github.com/opendatakit/governance/blob/master/TECHN
 ### TSC 1
 <a name="tsc-1"></a>
 
-TSC 1 is responsible for ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK JavaRosa, and the ODK XForms specification.
+TSC 1 is responsible for ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK Central, ODK JavaRosa, and the ODK XForms specification.
 
 The TSC meets every two weeks to discuss the [ODK Roadmap](https://github.com/opendatakit/roadmap/projects/1).
 

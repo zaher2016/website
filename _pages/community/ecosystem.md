@@ -10,7 +10,7 @@ sidebar:
 An important goal of the Open Data Kit community is to enable users to select suitable components from an ecosystem of complementary tools. A thriving ecosystem means that organizations can use the tools that best suit their needs without worrying about vendor lock-in.
 
 ## ODK
-The ODK tools include Collect, Aggregate, XLSForm, Build, and Briefcase. The shared components that enable ODK core tools to be compatible with a broad ecosystem are:
+The ODK tools include Collect, Aggregate, XLSForm, Build, Briefcase, and Central. The shared components that enable ODK core tools to be compatible with a broad ecosystem are:
 * [ODK XForms](https://opendatakit.github.io/xforms-spec/), a low-level form specification based on XForms
 * [XLSForm](http://xlsform.org), a high-level Excel-based form specification
 * [OpenRosa APIs](https://docs.opendatakit.org/openrosa/), APIs for how ODK clients talk to ODK servers
