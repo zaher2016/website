@@ -1,6 +1,6 @@
 # ODK Website
 
-![Platform](https://img.shields.io/badge/platform-Jekyll-blue.svg) [![Ruby version](https://img.shields.io/badge/ruby-2.5.1-blue.svg)](https://www.ruby-lang.org/en/downloads/) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Build status](https://circleci.com/gh/opendatakit/website.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/opendatakit/website/) [![Slack status](http://slack.opendatakit.org/badge.svg)](http://slack.opendatakit.org/)
+![Platform](https://img.shields.io/badge/platform-Jekyll-blue.svg) [![Ruby version](https://img.shields.io/badge/ruby-blue.svg)](https://www.ruby-lang.org/en/downloads/) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Build status](https://circleci.com/gh/opendatakit/website.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/opendatakit/website/) [![Slack status](http://slack.opendatakit.org/badge.svg)](http://slack.opendatakit.org/)
 
 This repository is home to the [ODK homepage](https://opendatakit.org/).
 
@@ -27,9 +27,9 @@ The ODK website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) an
 
 2. Installing Ruby
 
-	Once `rbenv` has been installed, install the latest Ruby (currently `2.5.1`):
+	Once `rbenv` has been installed, install the latest Ruby (currently `2.6.3`):
 	```
-	rbenv install 2.5.1
+	rbenv install 2.6.3
 	```
 
 ### Windows
@@ -51,10 +51,10 @@ The ODK website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) an
 	b. Set the local application-specific Ruby version by using [`rbenv-local`](https://github.com/rbenv/rbenv#rbenv-local).
 
 	```
-	rbenv local 2.5.1
+	rbenv local 2.6.3
 	```
 
-	c. Verify that your project is using Ruby version `2.5.1`:
+	c. Verify that your project is using Ruby version `2.6.3`:
 	```
 	ruby -v
 	```
@@ -83,7 +83,7 @@ One quick way to contribute is to review the [website](https://opendatakit.org) 
 ### Permissions
 
 If you encounter the following error:
-`You don't have write permissions for the /var/lib/gems/2.3.0 directory.`
+`You don't have write permissions for the /var/lib/gems/x.x.x directory.`
 then please review the installation instructions to make use of `rbenv`.
 
 Only root has write permissions for `/var/lib`; using `sudo` for subsequent `gem install` comands won't work, and changing permissions for that directory using `chmod` is considered dangerous. This issue is avoided when using `rbenv`.
