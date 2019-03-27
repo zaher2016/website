@@ -46,8 +46,8 @@ Download [Suitcase releases on GitHub](https://github.com/opendatakit/suitcase/r
 
 [Source Code](https://github.com/opendatakit/suitcase)
 
-## [ODK-X Sync-Endpoint](#odk-x-sync-endpoint)
-Sync-Endpoint is a server that enables data to replicated between mobile devices. Sync-Endpoint runs in Docker and provides additional micro-services for authentication management. Requires [Docker](https://docs.docker.com/install/) and [Swarm](https://docs.docker.com/engine/swarm/swarm-tutorial/create-swarm/).
+## [ODK-X Sync Endpoint](#odk-x-sync-endpoint)
+Sync Endpoint is a server that enables data to replicated between mobile devices. Sync Endpoint runs in Docker and provides additional micro-services for authentication management. Requires [Docker](https://docs.docker.com/install/) and [Swarm](https://docs.docker.com/engine/swarm/swarm-tutorial/create-swarm/).
 
 To build the image run the following command (you could also clone the repository and build it locally): 
 ```
