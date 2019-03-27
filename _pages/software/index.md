@@ -24,7 +24,7 @@ Download [ODK Tools](/software/odk).
 If you find that the ODK suite and accompanying ecosystem does not meet your needs, try the ODK-X suite!
 * Flexible tool suite that supports complex workflows via JavaScript customization
 * Features non-sequential navigation, bi-directional synchronization, and on-device data management
-* Includes ODKX Application Designer, ODKX Services, ODKX Survey, ODKX Tables, and ODKX Suitcase
+* Includes ODK-X Application Designer, ODK-X Services, ODK-X Survey, ODK-X Tables, and ODK-X Suitcase
 
 Read the [ODK-X Docs](https://docs.opendatakit.org/odk-x).
 

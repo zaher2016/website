@@ -8,7 +8,7 @@ permalink: /help/
 
 Our community produces two suites of software: ODK and ODK-X (formerly ODK 2).
 
-The ODK suite contains our most well-known and widely deployed tools, so we recommend you start there! If you find that the ODK suite does not meet your needs, then try the ODKX suite. See [Software](/software) for more.
+The ODK suite contains our most well-known and widely deployed tools, so we recommend you start there! If you find that the ODK suite does not meet your needs, then try the ODK-X suite. See [Software](/software) for more.
 
 ## Documentation
 
