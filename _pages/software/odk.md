@@ -1,15 +1,15 @@
 ---
-title: ODK 1
+title: ODK
 date: 2018-03-01T00:00:00+00:00
 author_profile: false
 layout: single
-permalink: /software/odk1/
+permalink: /software/odk/
 
 ---
 
 We publish current and previous releases of our tools on GitHub in each tool's repository. 
 
-We generally update the tools every month, so stay up to date by [watching](https://forum.opendatakit.org/t/9066) the [releases](https://forum.opendatakit.org/c/releases) category on the ODK forum.
+We generally update the tools every month, so stay up to date by [watching](https://forum.opendatakit.org/t/9066) the [releases](https://forum.opendatakit.org/c/releases) category on the forum.
 
 ## [ODK Collect](#odk-collect)
 
@@ -57,6 +57,13 @@ Briefcase is available for Windows, macOS, and Linux.
 * Download [latest release on GitHub](https://github.com/opendatakit/briefcase/releases/latest)
 * View [source code on GitHub](https://github.com/opendatakit/briefcase)
 
+## [ODK Central](#odk-central)
+
+Central is available for Windows, macOS, and Linux.
+
+* Download [latest release on GitHub](https://github.com/opendatakit/central/releases/latest)
+* View [source code on GitHub](https://github.com/opendatakit/central)
+
 ## [ODK Validate](#odk-validate)
 
 Validate is available for Windows, macOS, and Linux.
@@ -68,6 +75,6 @@ Validate is available for Windows, macOS, and Linux.
 
 JavaRosa is a Java library for software developers. Use Maven or Gradle through the Central Repository to get the latest updates automatically.
 
-* Download [latest on Central Repository](https://search.maven.org/#search%7Cga%7C1%7Ca%3A%22opendatakit-javarosa%22) (Recommended)
+* Download [latest release on maven.org](https://search.maven.org/#search%7Cga%7C1%7Ca%3A%22opendatakit-javarosa%22) (Recommended)
 * Download [latest release on GitHub](https://github.com/opendatakit/javarosa/releases/latest)
 * View [source code on GitHub](https://github.com/opendatakit/javarosa)

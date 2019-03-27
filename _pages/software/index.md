@@ -6,26 +6,26 @@ permalink: /software/
 
 # Software
 
-The ODK community produces two suites of software: ODK 1 and ODK 2.
+Our community produces two suites of software: ODK and ODK-X (formerly ODK 2).
 
-Each ODK suite contains tools that work together to collect, use, and manage data, but the two suites require different levels of technical skill, are at different stages of adoption, and are incompatible.
+Each suite contains tools that work together to collect, use, and manage data, but the two suites require different levels of technical skill, are at different stages of adoption, and are incompatible.
 
-## ODK 1: Tools for the common case
-The ODK 1 suite contains our most well-known and widely deployed tools, so we recommend you start with it!
+## ODK: Tools for the common case
+The ODK suite contains our most well-known and widely deployed tools, so we recommend you start with it!
 * For teams who need simple tools that support the most common use cases
 * Widely deployed, proven at scale, and compatible with a large [ecosystem](/community/ecosystem) (e.g., Ona, Enketo, Kobo, ELMO)
-* Includes Collect, Aggregate, XLSForm, Build, and Briefcase
+* Includes ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, and ODK Central
 
-Read the [ODK 1 Docs](http://docs.opendatakit.org).
+Read the [ODK Docs](http://docs.opendatakit.org).
 
-Download [ODK 1 Tools](/software/odk1).
+Download [ODK Tools](/software/odk).
 
-## ODK 2: Tools for complex workflows
-If you find that the ODK 1 suite and accompanying ecosystem does not meet your needs, try the ODK 2 suite!
+## ODK-X: Tools for complex workflows
+If you find that the ODK suite and accompanying ecosystem does not meet your needs, try the ODK-X suite!
 * Flexible tool suite that supports complex workflows via JavaScript customization
 * Features non-sequential navigation, bi-directional synchronization, and on-device data management
-* Includes Application Designer, Services, Survey, Tables, and Suitcase
+* Includes ODKX Application Designer, ODKX Services, ODKX Survey, ODKX Tables, and ODKX Suitcase
 
-Read the [ODK 2 Docs](https://docs.opendatakit.org/odk2).
+Read the [ODK-X Docs](https://docs.opendatakit.org/odk-x).
 
-Download [ODK 2 Tools](/software/odk2).
+Download [ODK-X Tools](/software/odk-x).
