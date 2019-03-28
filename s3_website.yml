@@ -275,11 +275,13 @@ routing_rules:
   - condition:
       key_prefix_equals: software/odk1
     redirect:
+      host_name: opendatakit.org
       replace_key_with: software/odk
       http_redirect_code: 301
   - condition:
       key_prefix_equals: software/odk2
     redirect:
+      host_name: opendatakit.org
       replace_key_with: software/odk-x
       http_redirect_code: 301
 
