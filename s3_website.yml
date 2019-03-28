@@ -273,14 +273,14 @@ routing_rules:
       http_redirect_code: 301
   # software
   - condition:
-      key_prefix_equals: odk1
+      key_prefix_equals: software/odk1
     redirect:
-      replace_key_with: odk
+      replace_key_with: software/odk
       http_redirect_code: 301
   - condition:
-      key_prefix_equals: odk2
+      key_prefix_equals: software/odk2
     redirect:
-      replace_key_with: odk-x
+      replace_key_with: software/odk-x
       http_redirect_code: 301
 
 # single page redirects. only use with paths that are not in folder redirects.
