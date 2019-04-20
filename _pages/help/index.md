@@ -24,6 +24,4 @@ If you don't find the help you need in the documentation, the community forum ha
 
 * Join the [forum](https://forum.opendatakit.org)
 
-## Other
-
 If you have a private issue that cannot be posted to the public forum, please email project leadership at <team@opendatakit.org>.
