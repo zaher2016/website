@@ -1,10 +1,6 @@
 ---
 title: ODK-X
-date: 2018-03-01T00:00:00+00:00
-author_profile: false
-layout: single
 permalink: /software/odk-x/
-
 ---
 
 The current and previous releases of ODK-X (formerly ODK 2) tools are hosted on GitHub in each tool's repository.

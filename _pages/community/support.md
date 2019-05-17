@@ -1,8 +1,5 @@
 ---
 title: Support
-date: 2018-03-01T00:00:00+00:00
-author_profile: false
-layout: single
 permalink: /community/support/
 sidebar:
   nav: "community"
