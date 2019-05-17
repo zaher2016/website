@@ -1,10 +1,6 @@
 ---
 title: ODK
-date: 2018-03-01T00:00:00+00:00
-author_profile: false
-layout: single
 permalink: /software/odk/
-
 ---
 
 We publish current and previous releases of our tools on GitHub in each tool's repository. 

@@ -1,7 +1,5 @@
 ---
 title: Ecosystem
-author_profile: false
-layout: single
 permalink: /community/ecosystem/
 sidebar:
   nav: "community"

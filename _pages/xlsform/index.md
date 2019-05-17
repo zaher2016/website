@@ -1,7 +1,5 @@
 ---
 title: XLSForm Online
-author: Yaw Anokwa
-layout: single
 permalink: /xlsform/
 ---
 

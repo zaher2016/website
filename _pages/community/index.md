@@ -1,7 +1,5 @@
 ---
 title: Community
-author_profile: false
-layout: single
 permalink: /community/
 sidebar:
   nav: "community"
