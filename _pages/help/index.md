@@ -1,10 +1,9 @@
 ---
 title: Help
-layout: splash
 permalink: /help/
+sidebar:
+  nav: "help"
 ---
-
-# Help
 
 Our community produces two suites of software: ODK and ODK-X (formerly ODK 2).
 
@@ -18,10 +17,16 @@ Our community maintains a comprehensive set of documentation for all the tools. 
 
 * Read the [ODK-X Docs](https://docs.opendatakit.org/odk-x)
 
-## Support
+## Forum
 
 If you don't find the help you need in the documentation, the community forum has thousands of members and it is the fastest way to get support.
 
 * Join the [forum](https://forum.opendatakit.org)
 
 If you have a private issue that cannot be posted to the public forum, please email project leadership at <team@opendatakit.org>.
+
+## Providers
+
+If you need products or services beyond what our documentation or forum can provide, try our recommended providers.
+
+* See the [providers](/providers)

@@ -115,12 +115,6 @@ routing_rules:
       replace_key_with: faq
       http_redirect_code: 301
   - condition:
-      key_prefix_equals: help/help-for-hire
-    redirect:
-      host_name: forum.opendatakit.org
-      replace_key_with: c/marketplace
-      http_redirect_code: 301
-  - condition:
       key_prefix_equals: help/training-guides
     redirect:
       host_name: docs.opendatakit.org
@@ -284,6 +278,13 @@ routing_rules:
       host_name: opendatakit.org
       replace_key_with: software/odk-x
       http_redirect_code: 301
+  - condition:
+      key_prefix_equals: help/help-for-hire
+    redirect:
+      host_name: opendatakit.org
+      replace_key_with: providers
+      http_redirect_code: 301
+
 
 # single page redirects. only use with paths that are not in folder redirects.
 redirects:
