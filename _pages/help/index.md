@@ -1,10 +1,7 @@
 ---
 title: Help
-layout: splash
 permalink: /help/
 ---
-
-# Help
 
 Our community produces two suites of software: ODK and ODK-X (formerly ODK 2).
 
