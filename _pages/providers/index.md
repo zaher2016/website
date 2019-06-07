@@ -12,14 +12,17 @@ Organizations are selected for contributing code, documentation, support, or lea
 ### Organizations
 
 * Nafundi
-	* Nafundi leads the software development on ODK and has been deploying ODK at national scale for over a decade. Our team can help you customize or deploy ODK.
-	* View [recent activity](https://forum.opendatakit.org/g/nafundi/activity/). Contact at [nafundi.com](https://nafundi.com).
-* Ona
-	* Ona supports over 40,000 clients globally to effectively and efficiently collect, manage and visualize data across health, humanitarian and development sectors.
-	* View [recent activity](https://forum.opendatakit.org/g/ona/activity/). Contact at [ona.io](https://ona.io).
+	* Nafundi leads the software development on ODK and has been deploying ODK at national scale for over 10 years. Our team can help you customize or deploy ODK.
+	* View [recent activity](https://forum.opendatakit.org/g/nafundi/activity). Contact at [nafundi.com](https://nafundi.com).
 * Enketo
 	* Enketo LLC works on the continuous improvement of the Enketo tools and takes part in ODK's governance. It is available for any Enketo-related work.
-	* View [recent activity](https://forum.opendatakit.org/u/martijnr/activity/). Contact at [enketo.org](https://enketo.org).
+	* View [recent activity](https://forum.opendatakit.org/g/enketo/activity). Contact at [enketo.org](https://enketo.org).
+* Ona
+	* Ona supports over 40,000 clients globally to effectively and efficiently collect, manage and visualize data across health, humanitarian and development sectors.
+	* View [recent activity](https://forum.opendatakit.org/g/ona/activity). Contact at [ona.io](https://ona.io).
+* eHealth Africa
+	* eHA builds stronger health systems through the design and implementation of data-driven solutions. We have worked with and contributed to ODK for over 7 years.
+	* View [recent activity](https://forum.opendatakit.org/g/ehealthafrica/activity). Contact at [ehealthafrica.org](https://www.ehealthafrica.org).
 
 ### Individuals
 
@@ -46,9 +49,9 @@ Organizations are selected for contributing code, documentation, support, or lea
 
 ### Organizations
 
-* Eir Birch LLC
+* Eir Birch
 	* We offer variety of services to help your organization use ODK-X to collect, manage, and leverage data on mobile devices.
-	* View [recent activity](https://forum.opendatakit.org/u/jeff_beorse/activity). Contact at [eirbirch.com](https://eirbirch.com).
+	* View [recent activity](https://forum.opendatakit.org/g/eirbirch/activity). Contact at [eirbirch.com](https://eirbirch.com).
 
 ### Individuals
 
