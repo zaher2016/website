@@ -1,10 +1,7 @@
 ---
 title: Software
-layout: splash
 permalink: /software/
 ---
-
-# Software
 
 Our community produces two suites of software: ODK and ODK-X (formerly ODK 2).
 
