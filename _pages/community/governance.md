@@ -11,7 +11,7 @@ The Open Data Kit project is governed by the Project Management Committee (PMC) 
 
 The project management committee consists of individuals identified as "project owners". The PMC responsibilities are to ensure the smooth running of the project. PMC members are expected to participate in strategic planning and approve changes to the governance model.
 
-See [PMC Governance](https://github.com/opendatakit/governance/blob/master/GOVERNANCE.md) for more.
+See [PMC Governance](https://github.com/opendatakit/governance/blob/master/PMC-GOVERNANCE.md) for more.
 
 
 ### PMC
@@ -27,7 +27,7 @@ The Technical Steering Committees are responsible for high-level technical direc
 * Technical resources (e.g., code repositories, servers)
 * Maintaining the list of Committers
 
-See [TSC Governance](https://github.com/opendatakit/governance/blob/master/TECHNICAL-STEERING-COMMITTEE.md) for more.
+See [TSC Governance](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md) for more.
 
 ### TSC 1
 
