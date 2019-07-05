@@ -38,12 +38,15 @@ Organizations are selected for contributing code, documentation, support, or lea
 * Abdul-Majeed Jibril
 	*  I can design complex forms for areas like finance, agriculture, and health. I can train enumerators to collect quality data. I am based in Ghana.
 	* View [recent solutions](https://forum.opendatakit.org/u/Fabla/activity/solved). Contact at [fabla2020@gmail.com](mailto:fabla2020@gmail.com).
-* Aurelio Di Pasquale
-	* Epidemiologist with software dev background. Experienced with complex form design, enumerator training, and server setup. Speaks English, Spanish and Italian.
-	* View [recent solutions](https://forum.opendatakit.org/u/aurdipas/activity/solved). Contact at [aurelio.dipasquale@swisstph.ch](mailto:aurelio.dipasquale@swisstph.ch).
 * Narendra Singh
 	* Monitoring expert with the production of monitoring Excel files with Stata. ODK-ABC(Aggregate Build Collect) Expert on training large groups of enumerators.
 	* View [recent solutions](https://forum.opendatakit.org/u/iamnarendrasingh/activity/solved). Contact at [narendraa.singhshekhawat@gmail.com](mailto:narendraa.singhshekhawat@gmail.com).
+* Aurelio Di Pasquale
+	* Epidemiologist with software dev background. Experienced with complex form design, enumerator training, and server setup. Speaks English, Spanish and Italian.
+	* View [recent solutions](https://forum.opendatakit.org/u/aurdipas/activity/solved). Contact at [aurelio.dipasquale@swisstph.ch](mailto:aurelio.dipasquale@swisstph.ch).
+* Ronald Munjoma
+	* Worked as a Data Manager for the Friendship Bench Project and TENDAI Study. Experienced in XLSForm and XML form design and setting up and managing Aggregate and Central servers.
+	* View [recent solutions](https://forum.opendatakit.org/u/Ronald_Munjoma/activity/solved). Contact at [simbiso@gmail.com](mailto:simbiso@gmail.com).
 
 ## ODK-X
 
