@@ -53,7 +53,7 @@ jobs:
           name: Install deploy requirements
           command: |
               if [[ "$CIRCLE_PROJECT_USERNAME" == "opendatakit" ]]; then \
-                sudo apt-get install -y pngquant openjdk-8-jre-headless
+                sudo apt-get install -y pngquant openjdk-11-jre-headless
                 gem install s3_website && s3_website install
               fi
       - run:
