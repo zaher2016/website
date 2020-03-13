@@ -5,22 +5,11 @@ sidebar:
   nav: "community"
 ---
 
-The Open Data Kit project is governed by the Project Management Committee (PMC) and the two Technical Steering Committees (TSCs). The PMC is the ultimate authority over the project while the TSCs have authority over the technical direction of their respective suites of software: ODK and ODK-X (formerly ODK 2).
+The project is governed by the Technical Steering Committee (TSC). The TSC has authority over the technical direction of the software.
 
-## Project Management Committee
+## Technical Steering Committee
 
-The project management committee consists of individuals identified as "project owners". The PMC responsibilities are to ensure the smooth running of the project. PMC members are expected to participate in strategic planning and approve changes to the governance model.
-
-See [PMC Governance](https://github.com/opendatakit/governance/blob/master/PMC-GOVERNANCE.md) for more.
-
-
-### PMC
-
-| [<img src="/assets/images/pmc/richard-anderson.jpg" width="200px;" alt="Richard Anderson"/><br /><b>Richard Anderson</b>](https://www.cs.washington.edu/people/faculty/anderson)<br />[UW-CSE](https://www.cs.washington.edu/) | [<img src="/assets/images/pmc/yaw-anokwa.jpg" width="200px;" alt="Yaw Anokwa"/><br /><b>Yaw Anokwa</b>](https://github.com/yanokwa)<br />[Nafundi](http://nafundi.com/) | [<img src="/assets/images/pmc/waylon-brunette.jpg" width="200px;" alt="Waylon Brunette"/><br /><b>Waylon Brunette</b>](https://github.com/wbrunette)<br />[UW-CSE](https://www.cs.washington.edu/)| [<img src="/assets/images/pmc/carl-hartung.jpg" width="200px;" alt="Carl Hartung"/><br /><b>Carl Hartung</b>](https://github.com/chartung)<br />[Libro.fm](http://libro.fm) |
-
-## Technical Steering Committees
-
-The Technical Steering Committees are responsible for high-level technical direction of their suite. Each TSC has authority over all technical aspects of their suite including:
+The Technical Steering Committee is responsible for high-level technical direction of the software under its authority. This includes:
 
 * Suite roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.).
 * Forming appropriate Working Groups (e.g., User Feedback, Documentation, Translation) to gather the necessary community feedback before making decisions.
@@ -29,11 +18,7 @@ The Technical Steering Committees are responsible for high-level technical direc
 
 See [TSC Governance](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md) for more.
 
-### TSC 1
-
-TSC 1 is responsible for ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK Central, ODK JavaRosa, and the ODK XForms specification.
-
-The TSC meets every two weeks to discuss the [ODK Roadmap](https://github.com/opendatakit/roadmap/projects/1).
+[ODK]
 
 #### Current members
 
@@ -50,11 +35,7 @@ The TSC meets every two weeks to discuss the [ODK Roadmap](https://github.com/op
 | [<img src="/assets/images/tsc1/guillermo-gutierrez.jpg" width="100px;" alt="Guillermo Gutiérrez"/><br /><b>Guillermo Gutiérrez</b>](https://github.com/ggalmazor)<br />[Nafundi](http://nafundi.com) | |
 
 
-### TSC 2
-
-TSC 2 is responsible for ODK-X Application Designer, ODK-X Services, ODK-X Survey, ODK-X Cloud Endpoints, ODK-X Suitcase, ODK-X Tables, and ODK-X Scan.
-
-The TSC meets every two weeks to discuss the [ODK-X Roadmap](https://github.com/opendatakit/roadmap/projects/2).
+[ODK-X]
 
 #### Current members
 
