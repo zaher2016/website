@@ -17,6 +17,6 @@ If you are running Aggregate 1.0.x, this upgrade will fix a few bugs and make ch
 
 <img width="538px" src="/assets/wp-content/uploads/2011/12/aggregate.png" alt="Screenshot of submissions list in Aggregate" />
 
-Check out the demo server at [https://opendatakit.appspot.com](https://opendatakit.appspot.com/) to try things out, read over the [release notes](http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes) and then [download](https://github.com/opendatakit/aggregate/releases) the update.
+Check out the demo server at [https://opendatakit.appspot.com](https://opendatakit.appspot.com/) to try things out, read over the [release notes](http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes) and then [download](https://github.com/getodk/aggregate/releases) the update.
 
 As always, if you have any other problems upgrading or installing this release, please file a detailed [bug report](http://code.google.com/p/opendatakit/issues/list).

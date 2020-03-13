@@ -25,4 +25,4 @@ Significant fixes and features:
   * Moved the periodic ‘watchdog’ worker to the UI thread, which should lead to a reduction in quota usage.
   * Annual jar update and transition to OAuth 2.0 for all Google publishers.
 
-[Read the release notes](http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes) and then [download Aggregate v1.3](https://github.com/opendatakit/aggregate/releases) to try it out.
+[Read the release notes](http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes) and then [download Aggregate v1.3](https://github.com/getodk/aggregate/releases) to try it out.

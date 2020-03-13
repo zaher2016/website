@@ -12,4 +12,4 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-As the Open Data Kit community has grown, we’ve realized the need for a less technical resource for our users. Over the next few months, we will be building out this website as the new home for the community. Stay tuned!
+As the ODK community has grown, we’ve realized the need for a less technical resource for our users. Over the next few months, we will be building out this website as the new home for the community. Stay tuned!

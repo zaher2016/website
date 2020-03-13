@@ -13,7 +13,7 @@ Tables is an Android app that allows you to visualize and edit data, revisiting 
 
 Tables supports a familiar spreadsheet view, as well as graphing and visualizing datapoints on a map. Users can also access the data using an HTML and javascript API. This feature allows users with web-programming experience to develop an Android app that includes persistence and synchronization functionality.
 
-The APK, as well as an HTML-based app called “Tea Time in Benin,” can be installed from the <a title="download page" href="https://github.com/opendatakit/survey/releases" target="_blank">Survey</a> and <a title="download page" href="https://github.com/opendatakit/tables/releases" target="_blank">Tables</a> download pages. A <a title="walk-through" href="https://code.google.com/p/opendatakit/wiki/TablesAlphaWalkThrough" target="_blank">walk-through</a> of basic functionality and a guide to designing your own apps using Tables is also available in the wiki section of our developer website.
+The APK, as well as an HTML-based app called “Tea Time in Benin,” can be installed from the <a title="download page" href="https://github.com/getodk/survey/releases" target="_blank">Survey</a> and <a title="download page" href="https://github.com/getodk/tables/releases" target="_blank">Tables</a> download pages. A <a title="walk-through" href="https://code.google.com/p/opendatakit/wiki/TablesAlphaWalkThrough" target="_blank">walk-through</a> of basic functionality and a guide to designing your own apps using Tables is also available in the wiki section of our developer website.
 
 We would love to hear people’s thoughts and suggestions, as we will incorporate feedback into the upcoming beta and production releases.
 

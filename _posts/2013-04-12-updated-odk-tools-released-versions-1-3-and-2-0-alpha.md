@@ -11,7 +11,7 @@ The ODK Team is pleased to announce a new release that includes many new excitin
 
 ### **Collect 1.3**
 
-  * Added printer support on Android 3.1 and higher systems. See <a href="https://docs.opendatakit.org/printer-widget" rel="nofollow">example printing widget</a> for more information
+  * Added printer support on Android 3.1 and higher systems. See <a href="https://docs.getodk.org/printer-widget" rel="nofollow">example printing widget</a> for more information
   * configurable display and use of ‘back’ and ‘next’ buttons, and the enabling or disabling of swipe treatment within form pages (contributed work by Nafundi).
   * configurable background transmission of submissions when network connections are detected (contributed work by Nafundi).
   * application settings can now be saved to disk and loaded from disk (makes configuring device fleets easier). (contributed work by Nafundi).
@@ -35,9 +35,9 @@ The ODK Team is pleased to announce a new release that includes many new excitin
 ### Sensors Framework 2.0 ALPHA
 
   * Initial ALPHA release
-  * The Sensors framework simplifies the development of sensor-based mobile applications by creating a common abstraction point that enables all sensors to be accessed through a unified interface. To access an external sensor you need a driver (such as Zebra Printer Driver) for the external device. See [documentation](https://docs.opendatakit.org/odk2) for more details
+  * The Sensors framework simplifies the development of sensor-based mobile applications by creating a common abstraction point that enables all sensors to be accessed through a unified interface. To access an external sensor you need a driver (such as Zebra Printer Driver) for the external device. See [documentation](https://docs.getodk.org/odk2) for more details
 
 ### Zebra Printer Driver 2.0
 
   * Tested on Zebra MZ220 and Zebra MZ320 printers.
-  * For installation, configuration, and usage please see: <a href="https://docs.opendatakit.org/printer-widget/" rel="nofollow">example printing widget</a>
+  * For installation, configuration, and usage please see: <a href="https://docs.getodk.org/printer-widget/" rel="nofollow">example printing widget</a>

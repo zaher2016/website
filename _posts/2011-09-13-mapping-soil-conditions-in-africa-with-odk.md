@@ -23,4 +23,4 @@ In the medium term, AfSIS will be developing a short and focused, broadly-applic
 
 AfSIS will be documenting its progress [here](http://africasoils.net/labs/ict4ag/) and they have [lots of photos](https://beta.africasoils.net/labs/wordpress/images-from-the-field/field-testing-in-kisongo-2/) online. 
 
-Do you have an ODK story you’d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).
+Do you have an ODK story you’d like to share with the community? Send it to [contact@getodk.org](mailto:contact@getodk.org).

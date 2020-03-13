@@ -15,4 +15,4 @@ This update includes fixes for the issues discussed on the forum (keyboards and 
 
 We’re also still in the process of updating the Aggregate 1.0 beta where we’re fixing issues with the local mysql install, access permissions, and displaying audio/video that has been uploaded to the server. We’ll send another note when we’ve pushed the next beta, but keep filing any bugs that you find!
 
-You can download the new beta [here](https://github.com/opendatakit/collect/releases).
+You can download the new beta [here](https://github.com/getodk/collect/releases).

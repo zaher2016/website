@@ -13,4 +13,4 @@ _“The Qgis plugin allows to build a “on field” mobile survey in few minute
 
 Read more in [this blog post](https://geogear.wordpress.com/2016/12/20/qgisodk-new-plugin/) and download the QgisODK plugin [here](http://plugins.qgis.org/plugins/QgisODK/). Enrico Ferreguti, QgisODK creator, would love to hear about how you use QgisODK. Email him at <enricofer@gmail.com>.
 
-Do you use another ODK integration that you’d like the world to know about? Email us at <contact@opendatakit.org> to let us know!
+Do you use another ODK integration that you’d like the world to know about? Email us at <contact@getodk.org> to let us know!

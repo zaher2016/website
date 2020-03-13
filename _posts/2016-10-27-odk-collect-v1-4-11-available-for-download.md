@@ -7,7 +7,7 @@ layout: single
 guid: https://opendatakit.org/?p=8089
 
 ---
-ODK Collect v1.4.11 is now available for [download](https://github.com/opendatakit/collect/releases) and will be rolling out on [Google Play](https://play.google.com/store/apps/details?id=org.odk.collect.android) over the next few hours.
+ODK Collect v1.4.11 is now available for [download](https://github.com/getodk/collect/releases) and will be rolling out on [Google Play](https://play.google.com/store/apps/details?id=org.odk.collect.android) over the next few hours.
 
 This release has some great additions:
 
@@ -27,8 +27,8 @@ And a number of improvements and fixes:
   * Fixes translation on bearing widget
   * Fixes null pointers in label
 
-You can find more detail in the [release notes](https://github.com/opendatakit/opendatakit/wiki/Collect-Release-Notes).
+You can find more detail in the [release notes](https://github.com/getodk/opendatakit/wiki/Collect-Release-Notes).
 
 This is the first community-powered release of ODK Collect and it has been a collaborative effort. Huge thanks to Allison, Brent, Carl, Clarice, Jeff, Jon, Lindsay, Marc, Martijn, Max, Mitch, Nyoman, Sam, and Tanya for their contributions!
 
-We need your contribution to make ODK better. If you are a user, try out this release and report any problems you find in the [issue tracker](https://github.com/opendatakit/collect/issues). If you are a developer, we need your help triaging those issues, fixing them, and preparing the next release.
+We need your contribution to make ODK better. If you are a user, try out this release and report any problems you find in the [issue tracker](https://github.com/getodk/collect/issues). If you are a developer, we need your help triaging those issues, fixing them, and preparing the next release.

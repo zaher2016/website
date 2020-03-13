@@ -20,7 +20,7 @@ The tools are available  from Google Play or the ODK Website.
 
 Some highlights of new features:
 
-  * Support for  [encrypting](https://docs.opendatakit.org/encrypted-forms) completed forms
+  * Support for  [encrypting](https://docs.getodk.org/encrypted-forms) completed forms
   * Addition of cascading selects
   * Aggregate now accepts small changes to form definition files and media attachments are now allowed as long as the changes are limited to question text. NOTE: Question type and number of questions cannot be altered.
   * To help with phone problems Collect writes savepoints after each swipe.

@@ -15,7 +15,7 @@ Among the features added to this release of Collect are multiple questions per s
 
 You can see a list of all the features for both here: <http://code.google.com/p/opendatakit/wiki/Roadmap>
 
-Download Collect [here](https://github.com/opendatakit/collect/releases) and Aggregate [here](https://github.com/opendatakit/aggregate/releases)
+Download Collect [here](https://github.com/getodk/collect/releases) and Aggregate [here](https://github.com/getodk/aggregate/releases)
 
 The extra instructions for installing your own Aggregate instance are here: <http://code.google.com/p/opendatakit/wiki/AggregateReleaseNotes>
 

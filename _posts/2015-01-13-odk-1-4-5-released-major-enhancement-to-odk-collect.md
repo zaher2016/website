@@ -7,7 +7,7 @@ layout: single
 guid: https://opendatakit.org/?p=6014
 
 ---
-There are new v1.4.5 versions available on each tool's releases page <a title="Downloads Page" href="https://github.com/opendatakit" target="_blank">https://github.com/opendatakit</a>
+There are new v1.4.5 versions available on each tool's releases page <a title="Downloads Page" href="https://github.com/getodk" target="_blank">https://github.com/getodk</a>
 
 **<span style="color: #008000;">Many thanks to Survey CTO</span>** (<a title="SurveyCTO" href="http://www.surveycto.com" target="_blank">http://www.surveycto.com</a>) for working with the ODK core team to achieve vast improvements in the correctness and speed of the ODK Collect form evaluation logic — particularly in the handling of repeat groups.
 

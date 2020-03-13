@@ -25,9 +25,9 @@ ODK improves a lot faster if you contribute! If you are a user, please file issu
 
 Use: <https://play.google.com/store/apps/details?id=org.odk.collect.android>
   
-Read full release notes: <https://github.com/opendatakit/collect/releases>
+Read full release notes: <https://github.com/getodk/collect/releases>
   
-Report any issues: <https://github.com/opendatakit/collect/issues>
+Report any issues: <https://github.com/getodk/collect/issues>
 
 **ODK Build v0.3.0**
 
@@ -40,11 +40,11 @@ Report any issues: <https://github.com/opendatakit/collect/issues>
 
 Use online: <https://build.opendatakit.org>
   
-Use offline: [https://github.com/opendatakit/build/releases](https://github.com/opendatakit/build/releases)
+Use offline: [https://github.com/getodk/build/releases](https://github.com/getodk/build/releases)
   
-Read full release notes: <https://github.com/opendatakit/build/releases>
+Read full release notes: <https://github.com/getodk/build/releases>
   
-Report any issues: <https://github.com/opendatakit/build/issues>
+Report any issues: <https://github.com/getodk/build/issues>
 
 **ODK Briefcase v1.5.0**
 
@@ -52,8 +52,8 @@ Report any issues: <https://github.com/opendatakit/build/issues>
   * CSV exports are sorted chronologically and de-duplicated
   * Invalid encrypted instances no longer block exports
 
-Use: [https://github.com/opendatakit/briefcase/releases](https://github.com/opendatakit/briefcase/releases)
+Use: [https://github.com/getodk/briefcase/releases](https://github.com/getodk/briefcase/releases)
   
-Read full release notes: <https://github.com/opendatakit/briefcase/releases>
+Read full release notes: <https://github.com/getodk/briefcase/releases>
   
-Report any issues: <https://github.com/opendatakit/briefcase/issues>
+Report any issues: <https://github.com/getodk/briefcase/issues>

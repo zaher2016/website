@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 We’ve posted Collect 1.1.7 RC1 and Aggregate 1.0 β3 to the Google Code website. Both releases fix bugs that the community has reported. Many thanks for all the help so far — we simply cannot do this work without your support!
 
-Download the new releases for Collect [here](https://github.com/opendatakit/collect/releases) and Aggregate [here](https://github.com/opendatakit/aggregate/releases).
+Download the new releases for Collect [here](https://github.com/getodk/collect/releases) and Aggregate [here](https://github.com/getodk/aggregate/releases).
 
 Report any issues (or feature requests) at:
   

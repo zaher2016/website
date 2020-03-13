@@ -53,4 +53,4 @@ The enumerators reported that it was not intimidating and that the technology di
 
 I completed qualitative focus groups and interviews without the use of ODK and KoBo for this trip. However, I think that the tools have endless possibilities for qualitative data collection. When I return to Bolivia it is possible that I may use them for photo voice/photo essays, voice/video recording, more extensive mapping, etc. I’ll keep you posted.”</em>
 
-Do you have an ODK story you’d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).
+Do you have an ODK story you’d like to share with the community? Send it to [contact@getodk.org](mailto:contact@getodk.org).

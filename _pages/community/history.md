@@ -5,7 +5,7 @@ sidebar:
   nav: "community"
 ---
 
-[ODK][ODK-X] is an open-source suite of tools that helps organizations author, collect, and manage mobile data collection solutions. Our goals are to make open-source and standards-based tools which are easy to try, easy to use, easy to modify and easy to scale. To this end, we are proud members of the  OpenRosa Consortium and active participants in the [JavaRosa](https://bitbucket.org/javarosa/javarosa/wiki/Home) project.
+ODK is an open-source suite of tools that helps organizations author, collect, and manage mobile data collection solutions. Our goals are to make open-source and standards-based tools which are easy to try, easy to use, easy to modify and easy to scale. To this end, we are proud members of the  OpenRosa Consortium and active participants in the [JavaRosa](https://bitbucket.org/javarosa/javarosa/wiki/Home) project.
 
 The ODK founding core developers include researchers at the University of Washingtons [Department of Computer Science and Engineering](http://www.cse.washington.edu) department and active members of [Change](http://change.washington.edu), a multi-disciplinary group at UW exploring how technology can improve the lives of under-served populations around the world.
 
@@ -39,7 +39,7 @@ Ryan Atherton, Jeff Beorse,  Brian DeRenzi, Anton DeWinter (Dimagi), Alex Dorey 
 
 Sean Askay (Google), Andrius Balsevicius, Curtis Broderick, Julie Chin (Google), Sunil Garg, Francesc Garre, James Hu, Mark Ivey (Google), Owen Kim, Jessica Leung, Moon Hwan Oh, Will Pitts, Tran Hong Quang(HSPH), Soyong Shin, Euzel Villanueva, Jimmy Zhang
 
-If we forgot to add you, we are very sorry about the oversight. Please email <contact@opendatakit.org>.
+If we forgot to add you, we are very sorry about the oversight. Please email <contact@getodk.org>.
 
 ## Press
 
@@ -150,7 +150,7 @@ Below is a list of what others have said about Open Data Kit.
 
 ## Deployments
 
-Below are a few of the deployments of ODK we know about. If you would like to add yours, post your deployment in the [ODK Forum Showcase](https://forum.opendatakit.org/c/showcase).
+Below are a few of the deployments of ODK we know about. If you would like to add yours, post your deployment in the [ODK Forum Showcase](https://forum.getodk.org/c/showcase).
 
 If you are looking for a company to build a form or customize an ODK tool, try this [list of ODK implementation companies](//opendatakit.org/2011/09/list-of-odk-implementation-companies/).
 

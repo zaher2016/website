@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 Not just the name has changed, we now share a updated syntax with [Formhub](https://formhub.org/).
 
-There is some backwards compatibility with the old syntax but we encourage you to transition to using the new syntax documented [here](https://docs.opendatakit.org/xlsform).
+There is some backwards compatibility with the old syntax but we encourage you to transition to using the new syntax documented [here](https://docs.getodk.org/xlsform).
 
 Additionally, we made some improvements to our error messages, but hopefully you never find out what they are.
 

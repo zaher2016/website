@@ -19,9 +19,9 @@ The highlight for this month is the bulk configuration feature added to Collect 
 
 Use: <https://play.google.com/store/apps/details?id=org.odk.collect.android>
   
-Read full release notes: <https://github.com/opendatakit/collect/releases>
+Read full release notes: <https://github.com/getodk/collect/releases>
   
-Report any issues: <https://github.com/opendatakit/collect/issues>
+Report any issues: <https://github.com/getodk/collect/issues>
 
 **JavaRosa 2.2.0**
 
@@ -30,18 +30,18 @@ Report any issues: <https://github.com/opendatakit/collect/issues>
 
 Use: <https://search.maven.org/#search|ga|1|javarosa>
   
-Read full release notes: <https://github.com/opendatakit/javarosa/releases>
+Read full release notes: <https://github.com/getodk/javarosa/releases>
   
-Report any issues: <https://github.com/opendatakit/javarosa/issues>
+Report any issues: <https://github.com/getodk/javarosa/issues>
 
 **Validate 1.5.0**
 
   * Upgraded to JavaRosa 2.2.0
 
-Use: <https://github.com/opendatakit/validate/releases>
+Use: <https://github.com/getodk/validate/releases>
   
-Read full release notes: <https://github.com/opendatakit/validate/releases>
+Read full release notes: <https://github.com/getodk/validate/releases>
   
-Report any issues: <https://github.com/opendatakit/validate/issues>
+Report any issues: <https://github.com/getodk/validate/issues>
 
 Happy data collection!

@@ -7,7 +7,7 @@ layout: single
 guid: /?p=3984
 
 ---
-Connie Moon Sehat, Assistant Director, Democracy Program, from The Carter Center has written a guest blog post about their ODK usage. If you would like to write a guest blog post please send us an email at <contact@opendatakit.org>.
+Connie Moon Sehat, Assistant Director, Democracy Program, from The Carter Center has written a guest blog post about their ODK usage. If you would like to write a guest blog post please send us an email at <contact@getodk.org>.
 
 _“What does it mean for an election to be democratically successful? Election observation attempts to assess whether a particular election process reflects the will of the people. At [The Carter Center](http://www.cartercenter.org), this requires first-person observations of the conditions and context surrounding the election, everything from voter education before the event to happenings within a particular polling station on election day. In the past, many of these observations teams have used lists of questions, reams of paper, and lots of late night data entry. The Carter Center has observed over 90 elections and with the help of ODK, we are approaching the practice of election observation in a different way._
 

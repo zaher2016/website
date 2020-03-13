@@ -29,7 +29,7 @@ Below is an image of an output prompt showing the answer from a metadata prompt.
 
 **Calculates**
   
-Calculates are an advanced technique for running a calculation using a prompt’s answers. Because they are complex to use, they are found under the advanced section of Build’s prompt properties. Find out more about how to use calculates in the [form design guide](https://docs.opendatakit.org/form-logic).
+Calculates are an advanced technique for running a calculation using a prompt’s answers. Because they are complex to use, they are found under the advanced section of Build’s prompt properties. Find out more about how to use calculates in the [form design guide](https://docs.getodk.org/form-logic).
   
 
   

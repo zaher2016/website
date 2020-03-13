@@ -21,9 +21,9 @@ Thanks to Brent, Carsten, Ian, Jeff, Mark, Neil and Peter for their contribution
   * Fixes form names not wrapping
   * Fixes toggle all on list screens
 
-Read full release notes: <https://github.com/opendatakit/collect/releases>
+Read full release notes: <https://github.com/getodk/collect/releases>
   
-Report any issues: <https://github.com/opendatakit/collect/issues>
+Report any issues: <https://github.com/getodk/collect/issues>
 
 **ODK Build ([Use](https://build.opendatakit.org))**
 
@@ -33,9 +33,9 @@ Report any issues: <https://github.com/opendatakit/collect/issues>
   * Adds more metadata options: Today, Username, Subscriber ID, SIM Serial
   * Adds geotrace (GPS path) and geoshape (GPS polygon) options to Location.
 
-Report any issues: <https://github.com/opendatakit/build/issues>
+Report any issues: <https://github.com/getodk/build/issues>
 
-**ODK Briefcase v1.4.10 ([Download](https://github.com/opendatakit/briefcase/releases))**
+**ODK Briefcase v1.4.10 ([Download](https://github.com/getodk/briefcase/releases))**
   
 Thanks to Carsten and Saul for their contributions to this release!
 
@@ -44,9 +44,9 @@ Thanks to Carsten and Saul for their contributions to this release!
   * Adds saving server settings between restarts
   * Fixes “Details…” user interface
 
-Read full release notes: <https://github.com/opendatakit/briefcase/releases>
+Read full release notes: <https://github.com/getodk/briefcase/releases>
   
-Report any issues: <https://github.com/opendatakit/briefcase/issues>
+Report any issues: <https://github.com/getodk/briefcase/issues>
 
 **Remember, you have the power to make ODK better!**
   

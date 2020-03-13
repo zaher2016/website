@@ -9,7 +9,7 @@ aktt_notify_twitter:
   - 'no'
 
 ---
-Jessica Vernon from [Innovations for Poverty Action (IPA)](http://www.poverty-action.org/) wrote in to <contact@opendatakit.org> and shared a blog post highlighting the improvement in their safe water systems that have come from using ODK.
+Jessica Vernon from [Innovations for Poverty Action (IPA)](http://www.poverty-action.org/) wrote in to <contact@getodk.org> and shared a blog post highlighting the improvement in their safe water systems that have come from using ODK.
 
 The [blog post](http://www.impatientoptimists.org/Posts/2012/03/Being-Smarter-About-Safe-Water) notes that _“the [Dispensers for Safe Water (DSW)](http://poverty-action.org/safewater) program at IPA (supported with a grant from the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/Pages/home.aspx)) is improving water quality by providing a point-of-collection Chlorine Dispenser System in western Kenya. Treating drinking water with dilute chlorine solution can cut child diarrhea by 41%, but this fact alone doesn’t guarantee impact. Using Open Data Kit, an open source set of data collection and management tools, DSW can significantly shorten the feedback loop from data collection to course-correction, allowing us to identify challenges with real-time data and address issues at a rapid pace. Surveys are built in Excel, uploaded to a server and downloaded to a low-cost smartphone.</p> 
 

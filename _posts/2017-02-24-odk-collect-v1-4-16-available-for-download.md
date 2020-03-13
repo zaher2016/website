@@ -31,6 +31,6 @@ Thanks to Marcos, Neil, paraschadha2052, Ratikanta, Rasmus, and Shobhit for thei
   * Fixes Prev button is enabled on first question
   * Fixes Edit Saved Form count doesn’t match editable form count
 
-Read full release notes: <https://github.com/opendatakit/collect/releases>
+Read full release notes: <https://github.com/getodk/collect/releases>
   
-Report any issues: <https://github.com/opendatakit/collect/issues>
+Report any issues: <https://github.com/getodk/collect/issues>

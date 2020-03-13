@@ -9,7 +9,7 @@ guid: /?p=4595
 ---
 ODK Aggregate 1.4.1 is now available for download:
 
-<a href="https://github.com/opendatakit/aggregate/releases" title="Download page" target="_blank">https://github.com/opendatakit/aggregate/releases</a>
+<a href="https://github.com/getodk/aggregate/releases" title="Download page" target="_blank">https://github.com/getodk/aggregate/releases</a>
 
 The [ODK Aggregate VM](http://gum.co/odk-aggregate-vm) (maintained by Nafundi) is available as well.
 
