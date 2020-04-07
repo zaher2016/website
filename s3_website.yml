@@ -12,7 +12,7 @@ exclude_from_upload:
   - s3_website.yml
   - CNAME
 
-cloudfront_distribution_id: ESKGVFOLLWC0M
+cloudfront_distribution_id: E22IA80Z9A3VEI
 
 # commented out due to bug: https://github.com/laurilehmijoki/s3_website/issues/320
 # cloudfront_distribution_config:
